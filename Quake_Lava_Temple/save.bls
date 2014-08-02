@@ -1,0 +1,3546 @@
+This is a Blockland save file.  You probably shouldn't modify it cause you'll screw it up.
+1
+
+0.898039 0.000000 0.000000 1.000000
+0.898039 0.898039 0.000000 1.000000
+0.000000 0.498039 0.247059 1.000000
+0.200000 0.000000 0.800000 1.000000
+0.898039 0.898039 0.898039 1.000000
+0.749020 0.749020 0.749020 1.000000
+0.498039 0.498039 0.498039 1.000000
+0.200000 0.200000 0.200000 1.000000
+0.392157 0.192157 0.000000 1.000000
+0.901961 0.337255 0.078431 1.000000
+0.749020 0.176471 0.482353 1.000000
+0.384314 0.000000 0.113725 1.000000
+0.129412 0.266667 0.266667 1.000000
+0.000000 0.137255 0.329412 1.000000
+0.101961 0.458824 0.764706 1.000000
+1.000000 1.000000 1.000000 1.000000
+0.078431 0.078431 0.078431 1.000000
+1.000000 1.000000 1.000000 0.247059
+0.921569 0.513726 0.674510 1.000000
+1.000000 0.603922 0.419608 1.000000
+1.000000 0.874510 0.611765 1.000000
+0.956863 0.874510 0.784314 1.000000
+0.784314 0.921569 0.486275 1.000000
+0.537255 0.694118 0.549020 1.000000
+0.556863 0.929412 0.956863 1.000000
+0.694118 0.658824 0.901961 1.000000
+0.874510 0.556863 0.956863 1.000000
+0.666667 0.000000 0.000000 0.698039
+1.000000 0.498039 0.000000 0.698039
+0.988235 0.956863 0.000000 0.698039
+0.000000 0.470588 0.192157 0.698039
+0.000000 0.200000 0.639216 0.698039
+0.592157 0.156863 0.392157 0.694118
+0.549020 0.698039 1.000000 0.698039
+0.847059 0.847059 0.847059 0.698039
+0.098039 0.098039 0.098039 0.698039
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+1.000000 0.000000 1.000000 0.000000
+Linecount 2850
+32x32 Base" 61.5 3.5 0.1 0 1 6  0 0 1 1 1
+64x64 Base" 5.5 -20.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" 77.5 -44.5 0.1 0 1 6  0 0 1 1 1
+64x64 Base" 5.5 -52.5 0.1 0 1 6  0 0 1 1 1
+64x64 Base" 37.5 -52.5 0.1 0 1 6  0 0 1 1 1
+64x64 Base" 69.5 -20.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -50.5 -44.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -66.5 3.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -34.5 -44.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -50.5 3.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -34.5 3.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" 61.5 -44.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -18.5 3.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -66.5 -44.5 0.1 0 1 6  0 0 1 1 1
+64x64 Base" 37.5 -20.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -18.5 -12.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -18.5 -28.5 0.1 0 1 6  0 0 1 1 1
+1x6" 13 53.25 0.3 1 1 5  0 0 1 1 1
+32x32 Base" -18.5 -44.5 0.1 0 1 6  0 0 1 1 1
+1x2" 11.25 54 0.3 0 1 5  0 0 1 1 1
+1x2" 13 53.75 0.3 1 1 5  0 0 1 1 1
+1x2" 14.75 54 0.3 0 1 5  0 0 1 1 1
+32x32 Base" -66.5 -12.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -66.5 -28.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -82.5 -12.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -82.5 -28.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -34.5 -12.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" 77.5 3.5 0.1 0 1 6  0 0 1 1 1
+2x2F" 38 60.5 0.1 0 1 9  0 0 1 1 1
+2x2F Round" 37 60.5 0.1 1 1 7  0 0 1 1 1
+4x6F" 37.5 58.5 0.1 0 1 8  0 0 1 1 1
+1x6F" 38.25 55.5 0.1 0 1 15  0 0 1 1 1
+64x64 Base" 37.5 11.5 0.1 0 1 6  0 0 1 1 1
+64x64 Base" 5.5 11.5 0.1 0 1 6  0 0 1 1 1
+16x32 Base" 30 47 0.1 0 1 0  0 0 1 1 1
+32x32 Base" -50.5 -28.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -34.5 -28.5 0.1 0 1 6  0 0 1 1 1
+32x32 Base" -50.5 -12.5 0.1 0 1 6  0 0 1 1 1
+32x Cube 1/4h" -50.5 -28.5 2.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube 1/4h" -6.5 -16.5 1.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube 1/4h" -66.5 -12.5 2.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube 1/4h" -66.5 -28.5 2.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+2x2F Round" 32.5 40 0.3 1 0 8  0 0 1 1 1
+2x2F" 33.5 39.5 0.3 0 0 8  0 0 1 1 1
+32x Cube 1/4h" -34.5 -28.5 2.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+2x2F" 33.5 54.5 0.3 0 0 8  0 0 1 1 1
+2x2F" 26.5 54.5 0.3 0 0 8  0 0 1 1 1
+16x Cube 1/4h" -6.5 -24.5 1.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube 1/4h" -50.5 -12.5 2.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube 1/4h" -34.5 -12.5 2.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x1" 38.25 54.25 0.5 0 0 15  0 0 1 1 1
+1x1" 36.75 57.25 0.5 0 0 8  0 0 1 1 1
+1x6" 13 53.25 0.9 1 0 5  0 0 1 1 1
+1x2" 11.25 54 0.9 0 0 5  0 0 1 1 1
+-45° Ramp 2x" 13 54 0.9 0 0 5  0 0 1 1 1
+1x2" 14.75 54 0.9 0 0 5  0 0 1 1 1
+32x Cube 1/4h" -18.5 -12.5 2.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" -10.5 -4.5 0.3 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Cannon Smoke" 0
+32x Cube 1/4h" -18.5 -28.5 2.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x4x2 Fence" 38.25 55.5 0.8 3 0 15  0 0 1 1 1
++-EVENT	0	1	onProjectileHit	0	Self		fakeKillBrick	0 0 0	15		
+1x1F" 27.75 43.75 0.3 0 0 2  0 0 1 1 1
+Treasure Chest" 28.5 43 0.7 3 0 8  0 0 1 1 1
++-EVENT	0	1	onActivate	0	Client		playSound	rewardSound			
+1x1F" 28.25 44.25 0.3 0 0 2  0 0 1 1 1
+1x1F" 28.75 44.25 0.3 0 0 2  0 0 1 1 1
+1x1F" 29.25 43.75 0.3 0 0 2  0 0 1 1 1
+1x1F" 29.25 42.25 0.3 0 0 2  0 0 1 1 1
+1x1F" 28.75 41.75 0.3 0 0 2  0 0 1 1 1
+1x1F" 28.25 41.75 0.3 0 0 2  0 0 1 1 1
+1x1F" 27.75 42.25 0.3 0 0 2  0 0 1 1 1
+1x1F Round" 27.25 43.25 0.3 2 0 2  0 0 1 1 1
+1x1F Round" 27.75 41.25 0.3 2 0 2  0 0 1 1 1
+1x1F Round" 28.75 41.25 0.3 2 0 2  0 0 1 1 1
+1x1F Round" 28.25 44.75 0.3 1 0 2  0 0 1 1 1
+1x1" 38.25 56.75 0.5 0 0 15  0 0 1 1 1
+2x2F" 26.5 39.5 0.3 0 0 8  0 0 1 1 1
+32x Cube Steep" -50.5 -44.5 16.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -6.5 -48.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 33.5 23.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 41.5 23.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 7.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 15.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 23.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" 37.5 11.5 0.3 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Cannon Smoke" 0
+32x Cube Steep" -18.5 -44.5 16.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube Steep" -34.5 -44.5 16.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 25.5 -64.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 17.5 -64.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 9.5 -64.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 1.5 23.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 9.5 23.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 17.5 23.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 25.5 23.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" 5.5 11.5 0.3 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Cannon Smoke" 0
+32x32 Base" 21.5 11.5 0.3 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Cannon Smoke" 0
+16x Cube Steep" 1.5 -64.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 -64.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 41.5 -64.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 33.5 -64.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube 1/4h" 25.5 -32.5 1.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube 1/4h" 25.5 -40.5 1.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube 1/4h" 17.5 -32.5 1.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube 1/4h" 17.5 -40.5 1.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube 1/4h" 21.5 -52.5 2.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube Steep" -34.5 3.5 16.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube Steep" -50.5 3.5 16.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube Steep" -18.5 3.5 16.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube 1/4h" 5.5 -52.5 2.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" 5.5 -36.5 0.3 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Cannon Smoke" 0
+16x Cube Steep" 57.5 -40.5 8.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" 37.5 -36.5 0.3 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Cannon Smoke" 0
+16x Cube Steep" 49.5 -48.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x1" 38.25 57.25 0.5 0 0 8  0 0 1 1 1
+16x Cube Steep" -6.5 7.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -6.5 15.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -6.5 23.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 -40.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube 1/4h" 37.5 -52.5 2.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 -56.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -6.5 -56.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" 5.5 -4.5 0.3 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Cannon Smoke" 0
+32x32 Base" 21.5 -4.5 0.3 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Cannon Smoke" 0
+32x32 Base" 21.5 -20.5 0.3 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Cannon Smoke" 0
+32x32 Base" 5.5 -20.5 0.3 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Cannon Smoke" 0
+32x32 Base" -10.5 -36.5 0.3 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Cannon Smoke" 0
+2x4" 37.5 58.5 0.5 0 0 20  0 0 1 1 1
+32x Cube Steep" -66.5 3.5 16.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube Steep" -82.5 -28.5 16.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x1" 36.75 59.75 0.5 0 0 8  0 0 1 1 1
+2x2 Round" 37 60.5 0.5 1 0 12  0 0 1 1 1
+16x Cube Steep" 81.5 -24.5 8.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -8.5 8.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -16.5 8.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -0.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 73.5 -0.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 65.5 -0.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube " 69.5 -28.5 8.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube " 69.5 -12.5 8.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" 37.5 -20.5 0.3 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Cannon Smoke" 0
+32x32 Base" 37.5 -4.5 0.3 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Cannon Smoke" 0
+16x Cube Steep" 49.5 -0.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube " 53.5 -28.5 8.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube " 53.5 -12.5 8.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 57.5 -0.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x1" 38.25 59.75 0.5 0 0 8  0 0 1 1 1
+32x Cube Steep" -82.5 -12.5 16.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+2x2F Round" 38 60.5 0.3 0 0 15  0 0 1 1 1
+16x Cube Steep" 73.5 -40.5 8.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -40.5 8.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -32.5 8.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 65.5 -40.5 8.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -6.5 -64.5 8.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube Steep" -66.5 -44.5 16.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -40.5 24.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -32.5 24.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 73.5 -40.5 24.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 65.5 -40.5 24.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 73.5 -0.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -0.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -16.5 24.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -8.5 24.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -24.5 24.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube " 69.5 -12.5 24.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube " -66.5 -52.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" -66.5 -36.5 32.3 0 0 6  0 0 1 1 1
+32x Cube " -82.5 -36.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube " 69.5 -28.5 24.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 65.5 -0.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+25° Ramp 1x" 44.25 -19.25 0.7 0 0 7  0 0 1 1 1
+45° Ramp Corner" 43.5 -19 0.7 3 0 7  0 0 1 1 1
+1x1F" 43.75 -19.75 0.5 0 0 7  0 0 1 1 1
++-NTOBJECTNAME _Firepooper
++-EVENT	0	1	onRelay	1500	Self		setEmitter	BurnEmitterB			
++-EVENT	1	1	onRelay	2150	Self		setEmitter	-1			
++-LIGHT Orange Light" 1
+32x Cube " -66.5 11.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube " 53.5 -12.5 24.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube " 53.5 -28.5 24.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 -0.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x2F" 43.25 -20 0.5 0 0 7  0 0 1 1 1
+2x2x5" 45.5 -20.5 12.9 0 0 6  0 0 1 1 1
+45° Ramp 1x" 44 -20.25 0.7 1 0 7  0 0 1 1 1
+16x Cube Steep" -6.5 7.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -6.5 23.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -6.5 15.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+45° Ramp 1x" -2.25 12 0.7 0 0 7  0 0 1 1 1
+72° Ramp 1x" 23 -8.25 1.3 1 0 7  0 0 1 1 1
+72° Ramp 1x" 21.75 -7.5 1.3 0 0 7  0 0 1 1 1
+45° Ramp Corner" 22.5 -7.5 0.7 0 0 7  0 0 1 1 1
+1x1F" 22.25 -8.25 0.5 0 0 7  0 0 1 1 1
++-NTOBJECTNAME _Firepooper
++-EVENT	0	1	onRelay	500	Self		setEmitter	BurnEmitterB			
++-EVENT	1	1	onRelay	750	Self		setEmitter	-1			
++-LIGHT Orange Light" 1
+45° Ramp 1x" 22.5 -8.75 0.7 1 0 7  0 0 1 1 1
+25° Ramp 1x" 21.75 -8.75 0.7 2 0 7  0 0 1 1 1
+25° Crest 1x" 22.5 -9.25 0.7 1 0 7  0 0 1 1 1
+25° Crest End" 21.25 -8 0.7 2 0 7  0 0 1 1 1
+25° Crest 1x" 26.75 -9.5 0.7 0 0 7  0 0 1 1 1
+45° Ramp 1x" 19 -6.75 0.7 1 0 7  0 0 1 1 1
+25° Crest End" 18.5 -7.25 0.7 1 0 7  0 0 1 1 1
+25° Ramp 1x" 27.25 -10.25 0.7 3 0 7  0 0 1 1 1
+45° Ramp Corner" 27.5 -9.5 0.7 0 0 7  0 0 1 1 1
+25° Crest 1x" 30.75 -0.5 0.7 2 0 7  0 0 1 1 1
+25° Ramp 1x" 31.75 -1.25 0.7 2 0 7  0 0 1 1 1
+45° Ramp 1x" 31.25 -0.5 0.7 0 0 7  0 0 1 1 1
+25° Crest End" 31 -1.25 0.7 1 0 7  0 0 1 1 1
+45° Ramp 1x" 9 -4.25 0.7 1 0 7  0 0 1 1 1
++-NTOBJECTNAME _Firepooper
++-EVENT	0	1	onRelay	2502	Self		spawnExplosion	deathProjectile	0.6		
+45° Crest End" 8 -4.25 0.7 1 0 7  0 0 1 1 1
+1x1F" 8.75 -4.75 0.5 0 0 7  0 0 1 1 1
+25° Crest 1x" 8.5 -3.75 0.7 3 0 7  0 0 1 1 1
+25° Crest End" 17.25 -25.5 0.7 0 0 7  0 0 1 1 1
+1x1F" 16.75 -25.75 0.5 0 0 7  0 0 1 1 1
+25° Ramp 1x" 16.75 -24.75 0.7 3 0 7  0 0 1 1 1
+45° Ramp 1x" 21.25 -17.5 0.7 2 0 7  0 0 1 1 1
+25° Ramp 1x" 21.75 -16.75 0.7 1 0 7  0 0 1 1 1
++-NTOBJECTNAME _Firepooper
++-EVENT	0	1	onRelay	123	Self		spawnExplosion	deathProjectile	0.6		
+25° Crest End" 16.5 -26.25 0.7 1 0 7  0 0 1 1 1
+45° Ramp 1x" 16.25 -25.5 0.7 2 0 7  0 0 1 1 1
+25° Crest 1x" 20.75 -16.5 0.7 2 0 7  0 0 1 1 1
+45° Crest End" 21.75 -17.5 0.7 2 0 7  0 0 1 1 1
+1x1F" 16.75 -25.25 0.5 0 0 7  0 0 1 1 1
++-NTOBJECTNAME _Firepooper
++-EVENT	0	1	onRelay	1756	Self		setEmitter	BurnEmitterB			
++-EVENT	1	1	onRelay	3000	Self		setEmitter	-1			
++-EVENT	2	1	onRelay	1756	Self		playSound	q3_lava_short			
++-LIGHT Orange Light" 1
+25° Crest End" 11.5 -21.75 0.7 1 0 7  0 0 1 1 1
+72° Ramp 1x" 11.5 -21.25 1.3 1 0 7  0 0 1 1 1
+45° Ramp 1x" 10.75 -21.5 0.7 2 0 7  0 0 1 1 1
+45° Ramp 1x" 1.25 -29 0.7 2 0 7  0 0 1 1 1
+25° Crest End" 0.75 -29 0.7 2 0 7  0 0 1 1 1
+25° Crest End" 2.5 -28.75 0.7 3 0 7  0 0 1 1 1
+45° Ramp Corner" 1 -28 0.7 3 0 7  0 0 1 1 1
+45° Ramp 1x" 1.75 -28.5 0.7 0 0 7  0 0 1 1 1
+45° Ramp 1x" 2 -29.25 0.7 1 0 7  0 0 1 1 1
+25° Ramp 2x" 6.75 -30 0.7 1 0 7  0 0 1 1 1
+45° Ramp 1x" 6.5 -29.25 0.7 3 0 7  0 0 1 1 1
+25° Crest 1x" 11 -31.25 0.7 1 0 7  0 0 1 1 1
+25° Ramp 1x" 11.75 -30.75 0.7 2 0 7  0 0 1 1 1
+45° Ramp 1x" 5.75 -30 0.7 2 0 7  0 0 1 1 1
+45° Ramp Corner" 11 -30.5 0.7 3 0 7  0 0 1 1 1
+25° Crest 1x" 6.5 -30.75 0.7 1 0 7  0 0 1 1 1
+45° Ramp 1x" 0.25 -23 0.7 2 0 7  0 0 1 1 1
+1x1F" -2.25 11.25 0.5 0 0 7  0 0 1 1 1
++-NTOBJECTNAME _Firepooper
++-EVENT	0	1	onRelay	1234	Self		setEmitter	BurnEmitterB			
++-EVENT	1	1	onRelay	2345	Self		setEmitter	-1			
++-EVENT	2	1	onRelay	1234	Self		playSound	q3_lava_short			
++-LIGHT Orange Light" 1
+1x1F" -1.75 11.25 0.5 0 0 7  0 0 1 1 1
+45° Ramp Corner" -2 10.5 0.7 1 0 7  0 0 1 1 1
+25° Crest End" -1.75 12 0.7 0 0 7  0 0 1 1 1
+32x Cube " -50.5 11.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube " -34.5 11.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube " -18.5 11.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 57.5 -40.5 24.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" 37.5 -52.5 4.3 0 0 6  0 0 1 1 1
+16x Cube Steep" 49.5 -40.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 -48.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 -56.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -12.5 1.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+2x8F" -10.5 1.5 32.1 0 0 6  0 0 1 1 1
+72° Ramp Corner" 21 10 1.3 2 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Fire A" 1
+32x32 Base" 21.5 -52.5 4.3 0 0 6  0 0 1 1 1
+32x32 Base" 5.5 -52.5 4.3 0 0 6  0 0 1 1 1
+32x32 Base" 21.5 -36.5 2.3 0 0 6  0 0 1 1 1
+4x4" 23.5 5 0.7 0 0 6  0 0 1 1 1
+4x4" 19.5 5 0.7 0 0 6  0 0 1 1 1
+72° Ramp Corner" 22 10.5 1.3 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
++-EMITTER Fire A" 1
+25° Crest End" 21 10.75 0.7 3 0 9  3 0 1 1 1
++-NTOBJECTNAME _Firepooper
++-LIGHT Orange Light" 1
+1x2F" 29.75 -42.5 0.5 0 0 9  3 2 1 1 1
++-LIGHT Orange Light" 1
+1x2F" 30.25 -42.5 0.5 0 0 9  3 2 1 1 1
+1x2F" 30 -43.25 0.5 1 0 6  0 0 1 1 1
+1x2F" 30 -41.75 0.5 1 0 6  0 0 1 1 1
+2x2x2 Cone" 38 60.5 1 0 0 9  0 0 1 1 1
+16x Cube Steep" 25.5 23.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 17.5 23.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 9.5 23.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 33.5 -64.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 41.5 -64.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 -64.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 1.5 23.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 23.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 15.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 41.5 23.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 1.5 -64.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 9.5 -64.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 17.5 -64.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 25.5 -64.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 7.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 33.5 23.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+2x2 Round" 26.5 39.5 0.7 0 0 8  0 0 1 1 1
+64x64 Base" -26.5 -12.5 32.3 0 0 6  0 0 1 1 1
+2x8F" -10.5 -2.5 32.1 0 0 6  0 0 1 1 1
+8x Cube Steep" -20.5 -2.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -2.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" -50.5 -4.5 32.3 0 0 6  0 0 1 1 1
+32x Cube " -18.5 -52.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" -18.5 -36.5 32.3 0 0 6  0 0 1 1 1
+2x8F" -10.5 -38.5 32.1 0 0 6  0 0 1 1 1
+2x8F" -10.5 -42.5 32.1 0 0 6  0 0 1 1 1
+8x Cube Steep" -12.5 -42.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -38.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -20.5 -38.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" -34.5 -36.5 32.3 0 0 6  0 0 1 1 1
+32x Cube " -34.5 -52.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube " -50.5 -52.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" -50.5 -36.5 32.3 0 0 6  0 0 1 1 1
+1x1F Round" 29.25 43.75 0.5 2 0 2  0 0 1 1 1
+1x6" 13 53.25 1.5 1 0 5  0 0 1 1 1
+1x2" 14.75 54 1.5 0 0 5  0 0 1 1 1
+2x4F" 13 54.5 1.3 0 0 5  0 0 1 1 1
+1x2" 11.25 54 1.5 0 0 5  0 0 1 1 1
+16x32 Base" -18.5 -8.5 4.3 1 0 6  0 0 1 1 1
+16x32 Base" -14.5 -20.5 4.3 0 0 6  0 0 1 1 1
+16x32 Base" -26.5 -20.5 4.3 0 0 9  3 1 1 1 1
++-EMITTER Fog A" 0
++-LIGHT Orange Light" 1
+16x32 Base" -6.5 -20.5 2.3 0 0 6  0 0 1 1 1
+2x2 Round" 26.5 54.5 0.7 0 0 8  0 0 1 1 1
+32x Cube 1/4h" -66.5 -12.5 6.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x1F" -0.25 -23.25 0.5 0 0 7  0 0 1 1 1
++-NTOBJECTNAME _Firepooper
++-EVENT	0	1	onRelay	3756	Self		setEmitter	BurnEmitterB			
++-EVENT	1	1	onRelay	5000	Self		setEmitter	-1			
++-EVENT	2	1	onRelay	3756	Self		playSound	q3_lava_short			
++-LIGHT Orange Light" 1
+25° Crest 1x" -1.25 -23 0.7 0 0 7  0 0 1 1 1
+25° Crest 1x" 0 -22.25 0.7 3 0 7  0 0 1 1 1
+25° Ramp 1x" -0.75 -22.75 0.7 0 0 7  0 0 1 1 1
+45° Ramp Corner" -0.5 -24 0.7 2 0 7  0 0 1 1 1
+8x16F" -20.5 -16.5 4.3 0 0 6  0 0 1 1 1
+8x16F" -20.5 -24.5 4.3 0 0 6  0 0 1 1 1
+32x Cube 1/2h" -66.5 -28.5 8.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" -66.5 -4.5 16.3 0 0 6  0 0 1 1 1
+32x32 Base" -66.5 -28.5 4.3 0 0 6  0 0 1 1 1
+32x32 Base" -66.5 -12.5 4.3 0 0 6  0 0 1 1 1
+2x2 Round" 32.5 40 0.7 1 0 8  0 0 1 1 1
+2x2 Round" 33.5 39.5 0.7 0 0 8  0 0 1 1 1
+2x2 Round" 33.5 54.5 0.7 0 0 8  0 0 1 1 1
+1x1" 38.25 54.25 1.1 0 0 15  0 0 1 1 1
+16x32 Base" -38.5 -20.5 4.3 0 0 6  0 0 1 1 1
+16x32 Base" -34.5 -8.5 4.3 1 0 6  0 0 1 1 1
+16x32 Base" -38.5 -4.5 16.3 0 0 6  0 0 1 1 1
+32x32 Base" -50.5 -4.5 16.3 0 0 6  0 0 1 1 1
+32x32 Base" -50.5 -28.5 4.3 0 0 6  0 0 1 1 1
+32x32 Base" -50.5 -12.5 4.3 0 0 6  0 0 1 1 1
+-25° Ramp 1x" -38.25 -4.75 21.5 2 0 7  0 0 1 1 1
+8x16F" -32.5 -16.5 4.3 0 0 6  0 0 1 1 1
+8x16F" -32.5 -24.5 4.3 0 0 6  0 0 1 1 1
+1x1" 36.75 57.25 1.1 0 0 8  0 0 1 1 1
+1x1" 38.25 56.75 1.1 0 0 15  0 0 1 1 1
+1x1" 38.25 57.25 1.1 0 0 8  0 0 1 1 1
+2x4" 37.5 58.5 1.1 0 0 20  0 0 1 1 1
+16x32 Base" -18.5 -32.5 4.3 1 0 6  0 0 1 1 1
+16x Cube Steep" -6.5 -48.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -6.5 -56.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x1" 36.75 59.75 1.1 0 0 8  0 0 1 1 1
+2x2F Round" 37 60.5 0.9 1 0 7  0 0 1 1 1
+-25° Ramp 1x" -38.25 -36.25 21.5 0 0 7  0 0 1 1 1
+16x Cube 1/2h" -54.5 -32.5 6.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x32 Base" -34.5 -32.5 4.3 1 0 6  0 0 1 1 1
+32x32 Base" -50.5 -36.5 16.3 0 0 6  0 0 1 1 1
+16x32 Base" -38.5 -36.5 16.3 0 0 6  0 0 1 1 1
+1x1" 38.25 59.75 1.1 0 0 8  0 0 1 1 1
+16x Cube Steep" 57.5 -0.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -6.5 -64.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube " -82.5 -4.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" -66.5 -4.5 32.3 0 0 6  0 0 1 1 1
+32x32 Base" -74.5 -20.5 32.3 0 0 6  0 0 1 1 1
+16x Cube Steep" -86.5 -16.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -86.5 -24.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x2" 3 -8.25 0.7 1 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+1x2" 4.75 8.5 0.7 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+1x2" 32.75 13 0.7 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+1x2" 40.5 -3.75 0.7 3 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+1x2" 31.25 -15.5 0.7 0 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+1x2" 20.5 -23.25 0.7 3 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+1x2" 34.75 -34 0.7 0 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+1x2" 42.75 -19 0.7 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+1x2" 22 9.75 0.7 3 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+1x2" 0.5 -38.25 0.7 1 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+4x4F" -59 -6.5 32.5 0 0 11  0 0 1 1 1
+6x10F" -54 -5 32.5 1 0 11  0 0 1 1 1
+1x6F" -60.75 -6.5 32.5 0 0 11  0 0 1 1 1
+1x6F" -57.25 -6.5 32.5 0 0 11  0 0 1 1 1
+2x2 Round" 37 60.5 1.3 1 0 12  0 0 1 1 1
+6x10F" -54 -8 32.5 1 0 11  0 0 1 1 1
+1x10F" -59 -4.25 32.5 1 0 1  0 0 1 1 1
+1x10F" -59 -8.75 32.5 1 0 1  0 0 1 1 1
+4x6F" 37.5 58.5 1.5 0 0 8  0 0 1 1 1
+1x8F" -56.75 -6.5 32.5 0 0 1  0 0 1 1 1
+1x8F" -61.25 -6.5 32.5 0 0 1  0 0 1 1 1
+1x6F" -60.25 -6.5 32.5 0 0 1  0 0 1 1 1
+16x CorD 1/2h Inv." -70.5 -32.5 30.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x6F" -57.75 -6.5 32.5 0 0 1  0 0 1 1 1
+1x4F" -59 -5.25 32.5 1 0 1  0 0 1 1 1
+1x4F" -59 -7.75 32.5 1 0 1  0 0 1 1 1
+1x6F" 38.25 55.5 1.5 0 0 15  0 0 1 1 1
+1x10F" -59 -3.75 32.5 1 0 11  0 0 1 1 1
+1x8F" -59 -4.75 32.5 1 0 11  0 0 1 1 1
+2x2F" 21.5 -52 4.5 0 1 0  0 0 0 0 0
++-ITEM Health Normal" 0 2 15000
+16x Cube Steep" -6.5 -48.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -6.5 -56.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+Teledoor" -76.75 -21.5 34.3 0 0 7  0 0 0 0 0
++-NTOBJECTNAME _Teledoor_BottomR
++-EVENT	0	1	onTeledoorExit	0	Self		playSound	q3_teleout			
+Teledoor" -76.75 -19.5 34.3 0 0 7  0 0 0 0 0
++-NTOBJECTNAME _Teledoor_BottomL
++-EVENT	0	1	onTeledoorExit	0	Self		playSound	q3_teleout			
+1x1F" -66.75 -9.75 32.5 0 0 1  0 0 1 1 1
+2x8F" -10.5 -34.5 32.1 0 0 6  0 0 1 1 1
+1x8F" -10.25 -42.5 32.3 0 0 6  0 0 1 1 1
+6x8F" -9 -38.5 32.3 0 0 7  0 0 1 1 1
+1x6F" -49 -7.75 32.5 1 0 1  0 0 1 1 1
+1x8F" -59 -8.25 32.5 1 0 11  0 0 1 1 1
+1x4F" -50.25 -6.5 32.5 0 0 1  0 0 1 1 1
+1x10F" -49 -3.75 32.5 1 0 11  0 0 1 1 1
+1x10F" -49 -9.25 32.5 1 0 11  0 0 1 1 1
+1x10F" -49 -8.75 32.5 1 0 1  0 0 1 1 1
+16x Cube Steep" 57.5 -0.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 -0.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" 53.5 -20.5 32.3 0 0 6  0 0 1 1 1
+16x32 Base" 53.5 -8.5 32.3 1 0 6  0 0 1 1 1
+1x10F" -49 -4.25 32.5 1 0 1  0 0 1 1 1
+1x8F" -49 -4.75 32.5 1 0 11  0 0 1 1 1
+1x8F" -49 -8.25 32.5 1 0 11  0 0 1 1 1
+1x8F" -51.25 -6.5 32.5 0 0 1  0 0 1 1 1
+1x6F" -50.75 -6.5 32.5 0 0 11  0 0 1 1 1
+2x2F" -62.5 -8.5 16.5 1 1 0  0 0 0 0 0
++-ITEM Health Normal" 0 2 15000
+6x10F" -64 -5 32.5 1 0 11  0 0 1 1 1
+1x1F" -66.75 -3.25 32.5 0 0 1  0 0 1 1 1
+4x4F" -49 -6.5 32.5 0 0 11  0 0 1 1 1
+6x10F" -44 -5 32.5 1 0 11  0 0 1 1 1
+16x Cube Steep" 81.5 -32.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+6x10F" -44 -8 32.5 1 0 11  0 0 1 1 1
+2x2 Round" 33.5 54.5 1.3 0 0 8  0 0 1 1 1
+64x64 Base" -90.5 -36.5 48.3 0 0 6  0 0 1 1 1
+64x64 Base" -90.5 -4.5 48.3 0 0 6  0 0 1 1 1
+16x Cube Steep" 49.5 23.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 15.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 7.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -40.5 40.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 73.5 -40.5 40.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x1F" -41.25 -9.75 32.5 0 0 1  0 0 1 1 1
+6x10F" -64 -8 32.5 1 0 11  0 0 1 1 1
+1x1F" -41.25 -3.25 32.5 0 0 1  0 0 1 1 1
+Spawn Point" -17.25 -37.75 33.9 1 0 7  0 0 0 0 0
+8x Cube Steep" -20.5 -38.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Ramp 1/4h Inv." -38.5 -32.5 15.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube " -54.5 -32.5 12.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Ramp 1/4h Inv." -46.5 -32.5 15.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x CorD 1/2h Inv." -38.5 -32.5 30.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Ramp 1/2h Inv." -54.5 -32.5 30.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+2x3F" -38.25 -36 21.9 1 0 7  0 0 1 1 1
+16x Ramp 1/2h Inv." -62.5 -32.5 30.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Ramp 1/2h Inv." -46.5 -32.5 30.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 41.5 23.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -38.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+2x2 Round" 33.5 39.5 1.3 0 0 8  0 0 1 1 1
+16x Cube Steep" 65.5 -40.5 40.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x4F" -47.75 -6.5 32.5 0 0 1  0 0 1 1 1
+16x32 Base" 69.5 -32.5 32.3 1 0 6  0 0 1 1 1
+16x Cube 1/2h" 73.5 -32.5 34.2 0 0 6 ModTer/brickRAMP 0 0 1 1 1
+1x8F" -46.75 -6.5 32.5 0 0 1  0 0 1 1 1
+1x6F" -47.25 -6.5 32.5 0 0 11  0 0 1 1 1
+6x24F" -54 -36.5 32.5 1 0 7  0 0 1 1 1
+16x Cube Steep" -14.5 -32.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x32 Base" 53.5 -32.5 32.3 1 0 6  0 0 1 1 1
+16x Cube Steep" 57.5 -40.5 40.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 -40.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 -48.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 -56.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+6x8F" -24 -24.5 32.5 0 0 11  0 0 1 1 1
+2x2F" -66.5 -8.5 16.5 1 1 0  0 0 0 0 0
++-ITEM Health Normal" 0 2 15000
+6x8F" -24 -28.5 32.5 0 0 11  0 0 1 1 1
+1x1F" -25.75 -30.75 32.5 0 0 1  0 0 1 1 1
+1x2F" -22.25 -24.5 32.5 0 0 1  0 0 1 1 1
+25° Crest End" 43.5 -19.75 0.9 1 0 7  0 0 1 1 1
+45° Ramp 4x" 45 -21.5 14.7 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-30 0 15			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 4x" 45 -19.5 14.7 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-30 0 15			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+1x2F" -19.75 -24.5 32.5 0 0 1  0 0 1 1 1
+1x2F" -20.25 -25.5 32.5 0 0 1  0 0 1 1 1
+1x2F" -21.75 -25.5 32.5 0 0 1  0 0 1 1 1
+1x2F" -21 -26.25 32.5 1 0 1  0 0 1 1 1
+2x4x5" 21.5 19.5 25.7 1 0 6  0 0 1 1 1
+6x8F" -21 -28.5 32.5 0 0 11  0 0 1 1 1
+6x8F" -18 -28.5 32.5 0 0 11  0 0 1 1 1
+6x8F" -18 -24.5 32.5 0 0 11  0 0 1 1 1
+-72° Ramp 2x" -81.5 -20 33.3 1 0 6  0 0 1 1 1
+-72° Ramp 2x" -81.5 -21 33.3 1 0 6  0 0 1 1 1
+-72° Ramp 2x" -82 -22 33.3 1 0 6  0 0 1 1 1
+1x1F" -16.25 -30.75 32.5 0 0 1  0 0 1 1 1
+2x4F" -21 -24.5 32.5 1 0 11  0 0 1 1 1
+-72° Ramp 2x" -82 -19 33.3 1 0 6  0 0 1 1 1
+25° Crest 1x" 31.5 -0.75 1.3 3 0 7  0 0 1 1 1
+25° Ramp 1x" 22.25 -8.25 1.3 0 0 7  0 0 1 1 1
++-NTOBJECTNAME _Firepooper
++-EVENT	0	1	onRelay	1324	Self		spawnExplosion	deathProjectile	0.4		
++-EVENT	1	1	onRelay	624	Self		playSound	q3_lava_short			
+25° Crest End" -2 11.25 0.9 1 0 7  0 0 1 1 1
+1x2F" -22 -26.25 32.5 1 0 11  0 0 1 1 1
+1x2F" -22.25 -25.5 32.5 0 0 11  0 0 1 1 1
+1x2F" -20 -26.25 32.5 1 0 11  0 0 1 1 1
+2x2F" -21 -25.5 32.5 0 0 11  0 0 1 1 1
+1x2F" -19.75 -25.5 32.5 0 0 11  0 0 1 1 1
+2x2 Round" 26.5 39.5 1.3 0 0 8  0 0 1 1 1
+1x2x5" -58.25 -20.5 5.9 0 0 6  0 0 1 1 1
+Spawn Point" -57.25 -27.25 5.9 1 0 7  0 0 0 0 0
+-72° Ramp 2x" -74 -35 33.3 1 0 6  0 0 1 1 1
+45° Ramp Corner" 19 4.5 1.3 2 0 6  0 0 1 1 1
+45° Ramp Corner" 19 5.5 1.3 3 0 6  0 0 1 1 1
+1x2" -33.75 -20.5 4.7 0 0 7  0 0 1 1 1
+1x2" -34.5 -19.75 4.7 1 0 7  0 0 1 1 1
+1x2" -34.5 -21.25 4.7 1 0 7  0 0 1 1 1
+1x6" -38.75 -20.5 4.7 0 0 7  0 0 1 1 1
+1x1" -35.25 -21.75 4.7 0 0 7  0 0 1 1 1
+1x1" -35.25 -19.25 4.7 0 0 7  0 0 1 1 1
+1x1" -33.75 -19.25 4.7 0 0 7  0 0 1 1 1
+1x2F" -39 -18.75 4.5 1 0 7  0 0 1 1 1
+1x2F" -39 -22.25 4.5 1 0 7  0 0 1 1 1
+1x6F" -39.25 -20.5 4.5 0 0 7  0 0 1 1 1
+1x1" -33.75 -21.75 4.7 0 0 7  0 0 1 1 1
+1x6F" -39.75 -20.5 4.5 0 0 7  0 0 1 1 1
+2x2" -34.5 -20.5 4.7 0 0 11  0 0 1 1 1
+4x8" -37.5 -20.5 4.7 0 0 7  0 0 1 1 1
+1x8" -34.5 -22.25 4.7 1 0 7  0 0 1 1 1
+1x8" -34.5 -18.75 4.7 1 0 7  0 0 1 1 1
+1x6" -36.25 -20.5 4.7 0 0 7  0 0 1 1 1
+1x6" -32.75 -20.5 4.7 0 0 7  0 0 1 1 1
+1x2" -33.25 -20.5 4.7 0 0 11  0 0 1 1 1
+1x2" -35.75 -20.5 4.7 0 0 11  0 0 1 1 1
+1x2" -34.5 -19.25 4.7 1 0 11  0 0 1 1 1
+1x2" -34.5 -21.75 4.7 1 0 11  0 0 1 1 1
+1x1" -35.25 -21.25 4.7 0 0 11  0 0 1 1 1
+1x1" -35.25 -19.75 4.7 0 0 11  0 0 1 1 1
+1x1" -33.75 -19.75 4.7 0 0 11  0 0 1 1 1
+1x1" -33.75 -21.25 4.7 0 0 11  0 0 1 1 1
+1x2" -35.75 -19.5 4.7 0 0 7  0 0 1 1 1
+1x2" -35.75 -21.5 4.7 0 0 7  0 0 1 1 1
+1x2" -33.25 -21.5 4.7 0 0 7  0 0 1 1 1
+1x2" -33.25 -19.5 4.7 0 0 7  0 0 1 1 1
+1x2" -35.25 -20.5 4.7 0 0 7  0 0 1 1 1
+45° Ramp Corner" 20 5.5 1.3 0 0 6  0 0 1 1 1
+Spawn Point" 14.75 -29.75 3.9 2 0 7  0 0 0 0 0
+16x Ramp 1/4h Inv." -54.5 -8.5 15.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Ramp 1/4h Inv." -62.5 -8.5 15.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Ramp 1/2h" -54.5 -8.5 6.4 2 0 6 ModTer/brickRAMP 0 0 1 1 1
+16x Ramp 1/4h Inv." -38.5 -8.5 15.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Ramp 1/4h Inv." -46.5 -8.5 15.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+Spawn Point" 44.25 -59.25 5.9 3 0 7  0 0 0 0 0
+6x8F" 37.5 -54 4.5 1 0 6  0 0 1 1 1
+6x8F" 37.5 -51 4.5 1 0 6  0 0 1 1 1
+1x8F" -10.25 1.5 32.3 0 0 6  0 0 1 1 1
+8x Cube Steep" -12.5 1.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -6.5 7.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -6.5 15.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+2x2F" -59 -8.5 16.5 1 1 0  0 0 0 0 0
++-ITEM Health Normal" 0 2 15000
+16x Cube 1/2h" 73.5 -8.5 34.2 0 0 6 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -6.5 23.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Ramp 1/2h" -48.5 -30.5 17.4 3 0 6 ModTer/brickRAMP 0 0 1 1 1
+32x Cube 1/4h" 69.5 -20.5 34.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 65.5 -0.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x3F" 27.75 -47.75 4.5 0 0 5  0 0 1 1 1
+1x3F" 29.25 -47.75 4.5 0 0 5  0 0 1 1 1
+1x2F" 30 -41.75 0.7 1 0 6  0 0 1 1 1
+72° Ramp 2x" 30 -42.5 1.5 1 0 9  3 2 1 1 1
+2x8F" 28.5 -46 4.5 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+2x2F" 29.5 -42.5 2.5 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+8x Ramp 1/2h" -40.5 -30.5 17.4 3 0 6 ModTer/brickRAMP 0 0 1 1 1
+8x Ramp 1/2h" -44.5 -30.5 17.4 3 0 6 ModTer/brickRAMP 0 0 1 1 1
+1x6F" 27.75 -43 2.5 0 0 6  0 0 1 1 1
+1x3F" 29.25 -43.75 2.5 0 0 6  0 0 1 1 1
+1x3F" 28.75 -41.75 2.5 1 0 6  0 0 1 1 1
+2x4F" 28.5 -43 2.5 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+1x2F" 30 -43.25 0.7 1 0 6  0 0 1 1 1
+1x1F" 27.75 -44.75 4.5 0 0 6  0 0 1 1 1
+1x1F" 29.25 -44.75 4.5 0 0 6  0 0 1 1 1
+1x4F" 29.25 -46 4.5 0 0 6  0 0 1 1 1
+8x Ramp 1/2h" -36.5 -30.5 17.4 3 0 6 ModTer/brickRAMP 0 0 1 1 1
+1x4F" 27.75 -46 4.5 0 0 6  0 0 1 1 1
+8x Ramp 1/2h" 25.5 -42.5 3.4 1 0 6 ModTer/brickRAMP 0 0 1 1 1
+4x10" -44 0.5 32.7 1 0 7  0 0 1 1 1
+4x10" -54 0.5 32.7 1 0 7  0 0 1 1 1
+-72° Ramp 2x" -74 -38 33.3 1 0 6  0 0 1 1 1
+-72° Ramp 2x" -73.5 -36 33.3 1 0 6  0 0 1 1 1
+-72° Ramp 2x" -73.5 -37 33.3 1 0 6  0 0 1 1 1
+6x8F" -24 -16.5 32.5 0 0 11  0 0 1 1 1
+6x8F" -24 -20.5 32.5 0 0 11  0 0 1 1 1
+8x Ramp 1/2h" 17.5 -42.5 3.4 1 0 6 ModTer/brickRAMP 0 0 1 1 1
+45° Ramp 4x" 22.5 -42 2.7 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	1 30 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+1x1" 23.25 -44.75 4.7 0 0 6  0 0 1 1 1
+1x1" 19.75 -44.75 4.7 0 0 6  0 0 1 1 1
+45° Ramp 4x" 22.5 -45.5 4.7 2 0 6  0 0 1 1 1
+45° Ramp 4x" 20.5 -45.5 4.7 2 0 6  0 0 1 1 1
+45° Ramp 4x" 20.5 -42 2.7 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	1 30 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+1x2F" -19.75 -16.5 32.5 0 0 1  0 0 1 1 1
+1x2F" -20.25 -17.5 32.5 0 0 1  0 0 1 1 1
+1x2F" -21 -18.25 32.5 1 0 1  0 0 1 1 1
+1x2F" -21.75 -17.5 32.5 0 0 1  0 0 1 1 1
+1x2F" -22.25 -16.5 32.5 0 0 1  0 0 1 1 1
+1x2F" -20.25 -23.5 32.5 0 0 1  0 0 1 1 1
+1x2F" -21.75 -23.5 32.5 0 0 1  0 0 1 1 1
+2x2F" -21 -23.5 32.5 0 0 11  0 0 1 1 1
+16x Cube Steep" 81.5 -0.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 73.5 -0.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -16.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -8.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 81.5 -24.5 40.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x32 Base" 69.5 -8.5 32.3 1 0 6  0 0 1 1 1
+6x8F" -18 -20.5 32.5 0 0 11  0 0 1 1 1
+6x8F" -21 -20.5 32.5 0 0 11  0 0 1 1 1
+6x8F" -18 -16.5 32.5 0 0 11  0 0 1 1 1
+4x10" -64 0.5 32.7 1 0 7  0 0 1 1 1
+16x Ramp 1/2h Inv." -38.5 -16.5 30.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Ramp 1/2h Inv." -38.5 -24.5 30.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+25° Crest End" 16.75 -25.5 0.9 2 0 7  0 0 1 1 1
+1x4x5" 14.5 -45.25 5.9 1 0 6  0 0 1 1 1
+80° Ramp 2x" 15 -46 5.9 2 0 6  0 0 1 1 1
+80° Ramp 2x" 14 -46 5.9 2 0 6  0 0 1 1 1
+8x Ramp 1/2h" -48.5 -10.5 17.4 1 0 6 ModTer/brickRAMP 0 0 1 1 1
+16x Ramp 1/2h Inv." -62.5 -8.5 30.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Ramp 1/2h Inv." -54.5 -8.5 30.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+2x4F" 14.5 -44 2.5 1 0 6  0 0 1 1 1
+80° Ramp 2x" 15 -44.5 5.9 0 0 6  0 0 1 1 1
+80° Ramp 2x" 14 -44.5 5.9 0 0 6  0 0 1 1 1
+1x2F" -20 -22.75 32.5 1 0 11  0 0 1 1 1
+1x2F" -22 -18.25 32.5 1 0 11  0 0 1 1 1
+4x8F" 28.5 -50.5 4.5 0 0 5  0 0 1 1 1
+Teledoor" 22.5 -60.25 6.3 3 0 7  0 0 1 1 0
++-NTOBJECTNAME _Teledoor_BottomR
+Teledoor" 20.5 -60.25 6.3 3 0 7  0 0 1 1 0
++-NTOBJECTNAME _Teledoor_BottomL
++-EVENT	0	1	onTeledoorEnter	0	Self		playSound	q3_telein			
+1x10F" 21.5 -59.75 4.5 1 0 7  0 0 1 1 1
+2x2F" 22 -8 2.3 0 1 0  0 0 0 0 0
++-ITEM Health Large" 0 2 15000
+1x6F" 13 55.25 1.5 1 0 8  0 0 0 0 0
+4x4F" 13 56 1.1 0 0 5  0 0 1 1 1
+1x2F" -19.75 -17.5 32.5 0 0 11  0 0 1 1 1
+2x2F" -21 -17.5 32.5 0 0 11  0 0 1 1 1
+2x4F" -21 -16.5 32.5 1 0 11  0 0 1 1 1
+1x2F" -22.25 -17.5 32.5 0 0 11  0 0 1 1 1
+1x2F" -20 -18.25 32.5 1 0 11  0 0 1 1 1
+1x2F" -22.25 -23.5 32.5 0 0 11  0 0 1 1 1
+8x Ramp 1/2h" -36.5 -10.5 17.4 1 0 6 ModTer/brickRAMP 0 0 1 1 1
+8x Ramp 1/2h" -40.5 -10.5 17.4 1 0 6 ModTer/brickRAMP 0 0 1 1 1
+8x Ramp 1/2h" -44.5 -10.5 17.4 1 0 6 ModTer/brickRAMP 0 0 1 1 1
+16x CorD 1/2h Inv." -38.5 -8.5 30.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+2x3F" -38.25 -5 21.9 1 0 7  0 0 1 1 1
+16x Ramp 1/2h Inv." -46.5 -8.5 30.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x2F" -22 -22.75 32.5 1 0 11  0 0 1 1 1
+1x2F" -19.75 -23.5 32.5 0 0 11  0 0 1 1 1
+2x10F" -10.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x2 Round" 26.5 54.5 1.3 0 0 8  0 0 1 1 1
+2x2F Round" 32.5 40 1.1 1 0 8  0 0 1 1 1
+Spawn Point" -73.25 -43.25 33.9 0 0 7  0 0 0 0 0
+16x Ramp 1/2h Inv." -70.5 -24.5 30.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 33.5 23.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 25.5 23.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 17.5 23.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 9.5 23.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Ramp 1/2h Inv." -70.5 -16.5 30.2 2 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 1.5 23.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Ramp 1/4h Inv." -70.5 -8.5 15.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+-72° Ramp 2x" -74 -3 33.3 1 0 6  0 0 1 1 1
+Spawn Point" -73.25 -5.75 17.9 1 0 7  0 0 0 0 0
+16x CorD 1/2h Inv." -70.5 -8.5 30.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+-45° Ramp 1x" -64.75 -20.5 10.9 0 0 7  0 0 1 1 1
+6x8F" 5.5 -54 4.5 1 0 6  0 0 1 1 1
+6x8F" 5.5 -51 4.5 1 0 6  0 0 1 1 1
+32x32 Base" -66.5 -12.5 8.3 0 0 6  0 0 1 1 1
+32x32 Base" -66.5 -28.5 12.3 0 0 6  0 0 1 1 1
+Teledoor" -14.75 -19.5 34.3 2 0 7  0 0 0 1 0
++-NTOBJECTNAME _TeledoorTopL
++-EVENT	0	1	onTeledoorEnter	0	Self		playSound	q3_telein			
+Teledoor" -14.75 -21.5 34.3 2 0 7  0 0 0 1 0
++-NTOBJECTNAME _TeledoorTopR
++-EVENT	0	1	onTeledoorEnter	0	Self		playSound	q3_telein			
+-72° Ramp 2x" -74 -6 33.3 1 0 6  0 0 1 1 1
+32x Cube " -26.5 -28.5 24.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x Cube " -26.5 -12.5 24.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x32 Base" -26.5 -20.5 4.5 0 0 9  3 2 1 1 1
++-NTOBJECTNAME _Firepooper
++-EVENT	0	1	onRelay	0	Self		spawnExplosion	deathProjectile	1.1		
++-EMITTER Fire B" 0
+16x Cube Steep" -14.5 -8.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -14.5 -16.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" -14.5 -24.5 24.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x10F" -15.25 -20.5 32.5 0 0 7  0 0 1 1 1
+2x8F" -10.5 -18.5 32.1 0 0 6  0 0 1 1 1
+2x8F" -10.5 -22.5 32.1 0 0 6  0 0 1 1 1
+1x2F" -21 -14.75 32.5 1 0 1  0 0 1 1 1
+1x2F" -21.75 -15.5 32.5 0 0 1  0 0 1 1 1
+1x2F" -20.25 -15.5 32.5 0 0 1  0 0 1 1 1
+6x8F" -18 -12.5 32.5 0 0 11  0 0 1 1 1
+45° Ramp 4x" -31 -25.5 4.7 3 0 7  0 0 1 1 1
+45° Ramp 4x" -31 -27.5 4.7 3 0 7  0 0 1 1 1
+45° Ramp 4x" -29.5 -29 4.7 2 0 7  0 0 1 1 1
+45° Ramp 4x" -27.5 -29 4.7 2 0 7  0 0 1 1 1
+45° Ramp 4x" -25.5 -29 4.7 2 0 7  0 0 1 1 1
+2x2" -31 -29 4.7 0 0 7  0 0 1 1 1
+1x1F" -16.25 -10.25 32.5 0 0 1  0 0 1 1 1
+Spawn Point" -11.75 -5.75 5.9 2 0 7  0 0 0 0 0
+2x2" -31 -12 4.7 0 0 7  0 0 1 1 1
+2x2" -22 -12 4.7 0 0 7  0 0 1 1 1
+45° Ramp 4x" -31 -15.5 4.7 3 0 7  0 0 1 1 1
+45° Ramp 4x" -31 -13.5 4.7 3 0 7  0 0 1 1 1
+45° Ramp 4x" -29.5 -12 4.7 0 0 7  0 0 1 1 1
+45° Ramp 4x" -27.5 -12 4.7 0 0 7  0 0 1 1 1
+45° Ramp 4x" -25.5 -12 4.7 0 0 7  0 0 1 1 1
+45° Ramp 4x" -23.5 -12 4.7 0 0 7  0 0 1 1 1
+45° Ramp 4x" -22 -13.5 4.7 1 0 7  0 0 1 1 1
+45° Ramp 4x" -22 -15.5 4.7 1 0 7  0 0 1 1 1
+6x8F" -21 -12.5 32.5 0 0 11  0 0 1 1 1
+6x8F" -24 -12.5 32.5 0 0 11  0 0 1 1 1
+45° Ramp 4x" -22 -27.5 4.7 1 0 7  0 0 1 1 1
+45° Ramp 4x" -23.5 -29 4.7 2 0 7  0 0 1 1 1
+45° Ramp 4x" -22 -25.5 4.7 1 0 7  0 0 1 1 1
+2x2" -22 -29 4.7 0 0 7  0 0 1 1 1
+16x Cube Steep" 33.5 -64.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 41.5 -64.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 49.5 -64.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 25.5 -64.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 1.5 -64.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 9.5 -64.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Cube Steep" 17.5 -64.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+64x64 Base" -26.5 -4.5 48.3 0 0 6  0 0 1 1 1
+64x64 Base" -58.5 -36.5 48.3 0 0 6  0 0 1 1 1
+64x64 Base" -58.5 -4.5 48.3 0 0 6  0 0 1 1 1
+64x64 Base" -26.5 -36.5 48.3 0 0 6  0 0 1 1 1
+1x1F" -25.75 -10.25 32.5 0 0 1  0 0 1 1 1
+8x Cube Steep" -28.5 -2.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -20.5 -2.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+-72° Ramp 2x" -73.5 -4 33.3 1 0 6  0 0 1 1 1
+-72° Ramp 2x" -73.5 -5 33.3 1 0 6  0 0 1 1 1
+Spawn Point" -31.75 -1.75 33.9 3 0 7  0 0 0 0 0
+1x2F" -19.75 -15.5 32.5 0 0 11  0 0 1 1 1
+1x2F" -22.25 -15.5 32.5 0 0 11  0 0 1 1 1
+2x8F" -10.5 -6.5 32.1 0 0 6  0 0 1 1 1
+6x8F" -9 -2.5 32.3 0 0 7  0 0 1 1 1
+8x Ramp 1/2h" -8.5 -22.5 3.4 2 0 6 ModTer/brickRAMP 0 0 1 1 1
+1x6F" -49 -5.25 32.5 1 0 1  0 0 1 1 1
+4x8" -15.5 -20.5 4.7 0 0 7  0 0 1 1 1
+1x6F" -13.25 -20.5 4.5 0 0 7  0 0 1 1 1
+1x2F" -14 -22.25 4.5 1 0 7  0 0 1 1 1
+1x2F" -14 -18.75 4.5 1 0 7  0 0 1 1 1
+45° Ramp 4x" -31 -17.5 4.7 3 0 7  0 0 1 1 1
+45° Ramp 4x" -31 -23.5 4.7 3 0 7  0 0 1 1 1
+4x8" -31.5 -20.5 4.7 0 0 7  0 0 1 1 1
+1x6F" -13.75 -20.5 4.5 0 0 7  0 0 1 1 1
+1x6" -14.25 -20.5 4.7 0 0 7  0 0 1 1 1
+8x Ramp 1/2h" -8.5 -18.5 3.4 2 0 6 ModTer/brickRAMP 0 0 1 1 1
+2x10F" -10.5 -12.5 32.5 0 0 8  0 0 1 1 1
+1x2F" -22 -14.75 32.5 1 0 11  0 0 1 1 1
+1x2F" -20 -14.75 32.5 1 0 11  0 0 1 1 1
+1x2" -18.5 -19.25 4.7 1 0 11  0 0 1 1 1
+1x2" -18.5 -21.75 4.7 1 0 11  0 0 1 1 1
+45° Ramp 4x" -22 -23.5 4.7 1 0 7  0 0 1 1 1
+45° Ramp 4x" -22 -17.5 4.7 1 0 7  0 0 1 1 1
+1x1" -17.75 -21.75 4.7 0 0 7  0 0 1 1 1
+1x2" -17.25 -21.5 4.7 0 0 7  0 0 1 1 1
+1x2" -17.25 -19.5 4.7 0 0 7  0 0 1 1 1
+1x2" -19.75 -19.5 4.7 0 0 7  0 0 1 1 1
+1x2" -19.75 -21.5 4.7 0 0 7  0 0 1 1 1
+1x2" -19.25 -20.5 4.7 0 0 7  0 0 1 1 1
+1x2" -17.75 -20.5 4.7 0 0 7  0 0 1 1 1
+2x2" -18.5 -20.5 4.7 0 0 11  0 0 1 1 1
+4x8" -21.5 -20.5 4.7 0 0 7  0 0 1 1 1
+1x6" -20.25 -20.5 4.7 0 0 7  0 0 1 1 1
+1x2" -18.5 -21.25 4.7 1 0 7  0 0 1 1 1
+1x2" -18.5 -19.75 4.7 1 0 7  0 0 1 1 1
+1x1" -19.25 -19.25 4.7 0 0 7  0 0 1 1 1
+1x1" -19.25 -21.75 4.7 0 0 7  0 0 1 1 1
+1x8" -18.5 -18.75 4.7 1 0 7  0 0 1 1 1
+1x8" -18.5 -22.25 4.7 1 0 7  0 0 1 1 1
+1x6" -16.75 -20.5 4.7 0 0 7  0 0 1 1 1
+1x1" -17.75 -19.25 4.7 0 0 7  0 0 1 1 1
+1x1" -17.75 -21.25 4.7 0 0 11  0 0 1 1 1
+1x1" -17.75 -19.75 4.7 0 0 11  0 0 1 1 1
+1x1" -19.25 -19.75 4.7 0 0 11  0 0 1 1 1
+1x1" -19.25 -21.25 4.7 0 0 11  0 0 1 1 1
+1x2" -19.75 -20.5 4.7 0 0 11  0 0 1 1 1
+1x2" -17.25 -20.5 4.7 0 0 11  0 0 1 1 1
+2x2F" -21 -15.5 32.5 0 0 11  0 0 1 1 1
+45° Ramp Corner" 23 5.5 1.3 3 0 6  0 0 1 1 1
+8x Cube Steep" -12.5 -34.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -16.5 -34.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -20.5 -34.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -34.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -22.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -30.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -18.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -26.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -12.5 -22.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -12.5 -18.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -12.5 -6.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -14.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -10.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -6.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -20.5 -6.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -16.5 -6.5 36.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x1F Round" 21.75 9.75 1.1 0 0 15  3 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	15000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava1			
+1x10F" -59 -9.25 32.5 1 0 11  0 0 1 1 1
+1x1F Round" 42.75 -19.25 1.1 3 0 15  3 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	15000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava1			
+1x2x5" 21.5 10.25 3.7 1 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+45° Ramp Corner" 20 4.5 1.3 1 0 6  0 0 1 1 1
+16x Cube Steep" -6.5 -64.5 40.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+45° Ramp Corner" 24 4.5 1.3 1 0 6  0 0 1 1 1
+45° Ramp Corner" 24 5.5 1.3 0 0 6  0 0 1 1 1
+45° Ramp Corner" 23 4.5 1.3 2 0 6  0 0 1 1 1
+1x2F" -21 -22.75 32.5 1 0 1  0 0 1 1 1
+8x Cube Steep" -12.5 -42.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x2x5" -15.75 -20.5 33.9 0 0 10  0 0 1 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onRelay	0	Self		cancelEvents				
++-EVENT	1	1	onRelay	2000	Self		fireRelay				
++-EVENT	2	1	onRelay	0	Self		playSound	q3_portal01			
++-EVENT	3	1	onActivate	33	Self		fireRelay				
+1x2x5" 21.5 -59.25 5.9 1 0 10  0 0 1 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onRelay	0	Self		cancelEvents				
++-EVENT	1	1	onRelay	2000	Self		fireRelay				
++-EVENT	2	1	onRelay	0	Self		playSound	q3_portal01			
++-EVENT	3	1	onActivate	33	Self		fireRelay				
+45° Ramp 1x" -0.25 -23 0.9 0 0 7  0 0 1 1 1
+2x2F" 21.5 -35.5 2.5 1 1 0  0 0 0 0 0
++-ITEM Health Normal" 0 2 15000
+1x1F Round" -25.25 -12.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -24.75 -12.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -24.25 -12.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -23.75 -12.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -27.75 -12.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -28.25 -12.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -28.75 -12.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -29.25 -12.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -30.75 -15.75 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -30.75 -15.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -30.75 -14.75 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -30.75 -14.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -30.75 -13.75 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -22.25 -15.75 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -22.25 -15.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -22.25 -14.75 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -22.25 -14.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -22.25 -13.75 5.1 0 0 6  0 0 1 1 1
+1x1 Cone" -22.25 -13.25 5.3 0 0 6  0 0 1 1 1
+1x1 Cone" -22.25 -12.75 5.3 0 0 6  0 0 1 1 1
+1x1 Cone" -22.75 -12.25 5.3 0 0 6  0 0 1 1 1
+1x1 Cone" -23.25 -12.25 5.3 0 0 6  0 0 1 1 1
+1x1 Cone" -29.75 -12.25 5.3 0 0 6  0 0 1 1 1
+1x1 Cone" -30.25 -12.25 5.3 0 0 6  0 0 1 1 1
+1x1 Cone" -30.75 -12.75 5.3 0 0 6  0 0 1 1 1
+1x1 Cone" -30.75 -13.25 5.3 0 0 6  0 0 1 1 1
+2x2x2 Cone" -31 -12 5.6 2 0 6  0 0 1 1 1
+2x2x2 Cone" -22 -12 5.6 2 0 6  0 0 1 1 1
+1x1 Cone" -23.25 -28.75 5.3 2 0 6  0 0 1 1 1
+1x1 Cone" -22.25 -28.25 5.3 2 0 6  0 0 1 1 1
+2x2x2 Cone" -22 -29 5.6 2 0 6  0 0 1 1 1
+1x1F Round" -22.25 -27.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -22.25 -26.75 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -22.25 -26.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -22.25 -25.75 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -22.25 -25.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -23.75 -28.75 5.1 0 0 6  0 0 1 1 1
+64x64 Base" 5.5 -68.5 48.3 0 0 6  0 0 1 1 1
+16x Ramp 1/4h Inv." -14.5 -8.5 15.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+64x64 Base" 37.5 -68.5 48.3 0 0 6  0 0 1 1 1
+6x8F" 5.5 -51 4.7 1 0 7  0 0 1 1 1
+2x2x2 Cone" -31 -29 5.6 2 0 6  0 0 1 1 1
+1x1 Cone" -30.75 -27.75 5.3 0 0 6  0 0 1 1 1
+1x1 Cone" -30.75 -28.25 5.3 0 0 6  0 0 1 1 1
+1x1 Cone" -30.25 -28.75 5.3 0 0 6  0 0 1 1 1
+8x Cube Steep" -16.5 -6.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -20.5 -6.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -6.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -10.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -14.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x1" -10.25 -4.25 32.7 0 0 7  0 0 1 1 1
+1x1" -10.25 -0.75 32.7 0 0 7  0 0 1 1 1
+8x Cube Steep" -12.5 -22.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -12.5 -18.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x16" -6.5 -30.25 32.1 1 0 7  0 0 1 1 1
+1x16" -6.5 -26.75 32.1 1 0 7  0 0 1 1 1
+1x1 Cone" -29.75 -28.75 5.3 0 0 6  0 0 1 1 1
+1x1F Round" -30.75 -25.75 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -30.75 -26.25 5.1 0 0 6  0 0 1 1 1
+45° Ramp 4x" -10 -19.5 31.7 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	30 0 10			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 4x" -10 -21.5 31.7 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	30 0 10			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+16x32 Base" -26.5 -20.5 4.7 0 0 9  3 1 1 1 1
++-NTOBJECTNAME _Firepooper
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddVelocity	0 0 24			
++-EVENT	2	1	onPlayerTouch	0	Player		AddHealth	-90			
++-EVENT	3	1	onRelay	2000	Self		spawnExplosion	deathProjectile	1.2		
++-EMITTER Vehicle Fire" 0
+1x1F Round" -30.75 -26.75 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -30.75 -27.25 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -24.25 -28.75 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -24.75 -28.75 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -25.25 -28.75 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -28.75 -28.75 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -29.25 -28.75 5.1 0 0 6  0 0 1 1 1
+-45° Ramp 2x" -73 -5 34.5 1 0 6  0 0 1 1 1
+-45° Ramp 2x" -73 -4 34.5 1 0 6  0 0 1 1 1
+-45° Ramp 2x" -73.5 -6 34.5 1 0 6  0 0 1 1 1
+1x1" -74.25 -6.25 34.5 0 0 6  0 0 1 1 1
+1x1F Round" -28.25 -28.75 5.1 0 0 6  0 0 1 1 1
+1x1F Round" -27.75 -28.75 5.1 0 0 6  0 0 1 1 1
+1x8F" -10.25 -18.5 32.3 0 0 6  0 0 1 1 1
+1x8F" -10.25 -22.5 32.3 0 0 6  0 0 1 1 1
+1x1F Round" -30.75 -25.25 5.1 0 0 6  0 0 1 1 1
+6x8F" 5.5 -54 4.7 1 0 7  0 0 1 1 1
+2x2F" 28.5 -48 4.7 0 0 9  3 2 1 1 1
+4x6F" 28.5 -50 4.7 0 0 5  0 0 1 1 1
+-45° Ramp 2x" -73.5 -3 34.5 1 0 6  0 0 1 1 1
+64x64 Base" 5.5 27.5 48.3 0 0 6  0 0 1 1 1
+64x64 Base" 37.5 27.5 48.3 0 0 6  0 0 1 1 1
+2x2 Round" 32.5 40 1.5 1 0 8  0 0 1 1 1
+1x8F" -15.25 -20.5 32.7 0 0 7  0 0 1 1 1
+16x Ramp 1/2h" -70.5 -16.5 10.4 1 0 6 ModTer/brickRAMP 0 0 1 1 1
+2x2F" 26.5 54.5 1.7 0 0 8  0 0 1 1 1
+1x1" -15.25 -22.75 32.9 0 0 7  0 0 1 1 1
+1x1" -15.25 -18.25 32.9 0 0 7  0 0 1 1 1
+-45° Ramp 1x" 27.75 -48 4.9 0 0 5  0 0 1 1 1
+25° Crest End" -10.5 -26.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" -10.5 -30.75 32.9 1 0 7  0 0 1 1 1
+1x8F" -10.25 -6.5 32.3 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 0 32.7 0 0 6  0 0 1 1 1
+2x2F" -59 -6.5 32.7 1 1 0  0 0 0 0 0
++-ITEM Health Normal" 0 2 15000
+1x6F" -13.75 -20.5 4.7 0 0 7  0 0 1 1 1
+8x Cube Steep" -28.5 -18.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -22.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+45° Ramp 4x" -58 -37.5 32.9 2 0 5  0 0 1 1 1
+45° Ramp 2x" -59.5 -36.5 32.9 3 0 5  0 0 1 1 1
+45° Ramp Corner" -59.5 -35.5 32.9 3 0 5  0 0 1 1 1
+45° Ramp Corner" -59.5 -37.5 32.9 2 0 5  0 0 1 1 1
+45° Ramp 4x" -56 -35.5 32.9 0 0 5  0 0 1 1 1
+45° Ramp 4x" -58 -35.5 32.9 0 0 5  0 0 1 1 1
+45° Ramp 4x" -56 -37.5 32.9 2 0 5  0 0 1 1 1
+8x Cube Steep" -28.5 -26.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -30.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+32x32 Base" -42 -20.5 18.5 0 0 7  0 0 0 0 0
+1x1F Round" -65.25 -20.25 8.5 2 0 4  0 0 1 1 1
+1x1F Round" -38.25 -4.75 22.1 0 0 7  0 0 1 1 1
++-EMITTER Fire A" 0
++-LIGHT Orange Light" 1
+1x1F" -37.75 -4.75 22.1 0 0 7  0 0 1 1 1
+1x1F" -38.75 -4.75 22.1 0 0 7  0 0 1 1 1
+1x3F" -38.25 -5.25 22.1 1 0 7  0 0 1 1 1
+-45° Ramp 1x" 29.25 -48 4.9 0 0 5  0 0 1 1 1
+1x8F" 21.5 -59.75 4.7 1 0 7  0 0 1 1 1
+1x1" -74.25 -38.25 34.5 0 0 6  0 0 1 1 1
+-45° Ramp 2x" -73.5 -38 34.5 1 0 6  0 0 1 1 1
+-45° Ramp 2x" -73 -36 34.5 1 0 6  0 0 1 1 1
+-45° Ramp 2x" -73 -37 34.5 1 0 6  0 0 1 1 1
+1x1" 19.25 -59.75 4.9 0 0 7  0 0 1 1 1
+1x1" 23.75 -59.75 4.9 0 0 7  0 0 1 1 1
+1x2F" 11.5 55.25 1.3 1 0 8  0 0 1 1 1
+1x2F" 14.5 55.25 1.3 1 0 8  0 0 1 1 1
+1x4F" 12.25 56 1.3 0 0 5  0 0 1 1 1
+1x4F" 13.75 56 1.3 0 0 5  0 0 1 1 1
+2x3F" 13 56.25 1.3 0 0 5  0 0 1 1 1
+72° Ramp 2x" 14 -44 3.5 0 0 6  0 0 1 1 1
+72° Ramp 2x" 15 -44 3.5 0 0 6  0 0 1 1 1
+2x10" -64 1 33.3 1 0 7  0 0 1 1 1
+64x64 Base" 69.5 -36.5 48.3 0 0 6  0 0 1 1 1
+64x64 Base" 69.5 -4.5 48.3 0 0 6  0 0 1 1 1
+72° Ramp 2x" 15 -45.5 8.3 2 0 6  0 0 1 1 1
+72° Ramp 2x" 14 -45.5 8.3 2 0 6  0 0 1 1 1
+-72° Ramp 2x" 15 -44.5 8.3 0 0 6  0 0 1 1 1
+45° Ramp 4x" -52 -37.5 32.9 2 0 5  0 0 1 1 1
+45° Ramp 4x" -54 -37.5 32.9 2 0 5  0 0 1 1 1
+72° Ramp 2x" 28.5 -44 3.5 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+-72° Ramp 2x" 14 -44.5 8.3 0 0 6  0 0 1 1 1
+2x8F" 21.5 -45 5.1 1 0 6  0 0 1 1 1
+45° Ramp 4x" 21.5 -42.5 3.3 0 0 3  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	1 30 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" 20 -42.5 3.3 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	1 30 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" 23 -42.5 3.3 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	1 30 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" -48.5 -36.5 32.9 1 0 5  0 0 1 1 1
+45° Ramp Corner" -48.5 -37.5 32.9 1 0 5  0 0 1 1 1
+45° Ramp 4x" -50 -37.5 32.9 2 0 5  0 0 1 1 1
+1x2F" 27.75 -44 2.7 0 0 6  0 0 1 1 1
+25° Crest End" 29.5 -41.75 2.9 3 0 6  0 0 1 1 1
+72° Ramp 1x" 30 -41.75 1.7 1 0 6  0 0 1 1 1
+1x1F Round" 27.75 -47.25 4.7 0 0 4  0 0 1 1 1
+72° Ramp 1x" 30 -43.25 1.7 1 0 6  0 0 1 1 1
+2x10" -54 1 33.3 1 0 7  0 0 1 1 1
+2x10" -44 1 33.3 1 0 7  0 0 1 1 1
+1x1F Round" 29.25 -47.25 4.7 0 0 4  0 0 1 1 1
+1x2F" 29.25 -44 2.7 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 2 32.7 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 1 32.7 0 0 6  0 0 1 1 1
+1x1" -74.25 -34.75 34.5 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 3 32.7 0 0 6  0 0 1 1 1
+32x32 Base" 69.5 -20.5 36.3 0 0 6  0 0 1 1 1
+16x16 Base" 73.5 -8.5 36.3 0 0 6  0 0 1 1 1
+16x Ramp 1/2h" 65.5 -8.5 34.4 0 0 6 ModTer/brickRAMP 0 0 1 1 1
+6x8F" 37.5 -54 4.7 1 0 7  0 0 1 1 1
+6x8F" 37.5 -51 4.7 1 0 7  0 0 1 1 1
+1x2x5" 21.5 10.25 6.7 1 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+2x2F" 23.5 5 1.7 0 0 6  0 0 1 1 1
+45° Ramp 4x" -54 -35.5 32.9 0 0 5  0 0 1 1 1
+45° Ramp 4x" -52 -35.5 32.9 0 0 5  0 0 1 1 1
+2x2F" 19.5 5 1.7 0 0 6  0 0 1 1 1
+Skull Cool" -66.25 -19.25 8.6 3 0 4  0 0 1 1 1
++-EVENT	0	1	onActivate	0	Self		door	0			
++-EVENT	1	1	onActivate	0	-1	_partay_light	setLight	RGBLight			
++-EVENT	2	1	onActivate	0	-1	_partay_music	setMusic	-1			
++-EVENT	3	0	onActivate	0	-1	_partay_light	setLight	OrangeLight			
++-EVENT	4	0	onActivate	0	-1	_partay_music	setMusic	-1			
++-EVENT	5	1	onActivate	0	Self		toggleEventEnabled	1 2 3 4			
+1x1F" -38.75 -18.75 4.7 0 0 7  0 0 1 1 1
+1x6F" -39.25 -20.5 4.7 0 0 7  0 0 1 1 1
+45° Ramp Corner" -48.5 -35.5 32.9 0 0 5  0 0 1 1 1
+45° Ramp 4x" -50 -35.5 32.9 0 0 5  0 0 1 1 1
+-45° Ramp 2x" -73.5 -35 34.5 1 0 6  0 0 1 1 1
+1x1F" -38.75 -22.25 4.7 0 0 7  0 0 1 1 1
+2x4F" -59.5 -20.5 12.5 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	15 0 35			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+2x2F" 26.5 39.5 1.7 0 0 8  0 0 1 1 1
+-25° Ramp 1x" -50.25 -29.75 9.5 1 0 7  0 0 1 1 1
+4x4F" -58 -20.5 12.5 0 0 3  4 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	15 0 35			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+-80° Ramp 2x" -58 -20.5 8.9 1 0 6  0 0 1 1 1
+2x8F" -58 -22 12.5 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	15 0 35			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+-25° Ramp 1x" -51.75 -28.25 9.5 0 0 7  0 0 1 1 1
+-45° Ramp 2x" -81.5 -19 34.5 1 0 6  0 0 1 1 1
+1x1" -82.25 -18.75 34.5 0 0 6  0 0 1 1 1
+-45° Ramp 2x" -81.5 -22 34.5 1 0 6  0 0 1 1 1
+1x1x5" 45.25 -21.25 12.9 0 0 6  0 0 1 1 1
+45° Ramp 4x" 44.5 -20.5 14.1 3 0 3  4 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-30 0 15			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" 44.5 -22 14.1 3 0 7  0 0 1 1 1
++-NTOBJECTNAME _a
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-30 0 15			
+2x4x3" 21.5 19 28.1 1 0 6  0 0 1 1 1
+-80° Ramp 2x" 22 19 22.7 2 0 6  0 0 1 1 1
+-80° Ramp 2x" 21 19 22.7 2 0 6  0 0 1 1 1
+45° Ramp 2x" 44.5 -19 14.1 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-30 0 15			
+1x2" 45.25 -22 14.1 0 0 7  0 0 1 1 1
+1x2" 45.25 -19 14.1 0 0 7  0 0 1 1 1
+1x1x5" 45.25 -19.75 12.9 0 0 6  0 0 1 1 1
+-45° Ramp 2x" -81 -20 34.5 1 0 6  0 0 1 1 1
+-45° Ramp 2x" -81 -21 34.5 1 0 6  0 0 1 1 1
+1x1" -82.25 -22.25 34.5 0 0 6  0 0 1 1 1
+Spawn Point" 46.75 -35.25 33.9 0 0 7  0 0 0 0 0
+16x Ramp 1/4h Inv." -14.5 -32.5 15.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+2x2 Round" -57 -21 48.7 1 0 7  0 0 1 1 1
+16x Ramp 1/4h Inv." -22.5 -32.5 15.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+16x Ramp 1/4h Inv." -30.5 -32.5 15.2 1 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x1F" -66.25 -20.25 8.5 0 0 4  0 0 1 1 1
+8x Cube Steep" -16.5 -34.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -20.5 -34.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+8x Cube Steep" -28.5 -34.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x1F" -14.25 -22.25 4.7 0 0 7  0 0 1 1 1
+2x2F" 33.5 39.5 1.7 0 0 8  0 0 1 1 1
+16x Ramp 1/2h" -62.5 -32.5 14.4 0 0 6 ModTer/brickRAMP 0 0 1 1 1
+1x1F" -14.25 -18.75 4.7 0 0 7  0 0 1 1 1
+25° Crest End" -10.5 -10.25 32.9 3 0 7  0 0 1 1 1
+1x1F Round" -38.25 -36.25 22.1 2 0 7  0 0 1 1 1
++-EMITTER Fire A" 0
++-LIGHT Orange Light" 1
+1x1F" -37.75 -36.25 22.1 0 0 7  0 0 1 1 1
+1x1F" -38.75 -36.25 22.1 0 0 7  0 0 1 1 1
+1x3F" -38.25 -35.75 22.1 1 0 7  0 0 1 1 1
+2x2F" 33.5 54.5 1.7 0 0 8  0 0 1 1 1
+16x16 Base" 73.5 -32.5 36.3 0 0 6  0 0 1 1 1
+45° Ramp 1x" -46.25 0 33.3 2 0 7  0 0 1 1 1
+45° Ramp 1x" -41.75 0 33.3 2 0 7  0 0 1 1 1
+16x Ramp 1/2h" 65.5 -32.5 34.4 0 0 6 ModTer/brickRAMP 0 0 1 1 1
+45° Ramp 1x" -66.25 0 33.3 2 0 7  0 0 1 1 1
+64x64 Base" 37.5 -36.5 48.3 0 0 6  0 0 1 1 1
+64x64 Base" 5.5 -4.5 48.3 0 0 6  0 0 1 1 1
+64x64 Base" 5.5 -36.5 48.3 0 0 6  0 0 1 1 1
+64x64 Base" 37.5 -4.5 48.3 0 0 6  0 0 1 1 1
+8x16" 57.5 -14.5 32.7 1 0 5  0 0 1 1 1
+2x10F" 45.5 -28.5 32.5 0 0 8  0 0 1 1 1
+16x Ramp 1/4h Inv." -30.5 -8.5 15.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x4F" 52.5 -28.25 32.5 1 0 6  0 0 1 1 1
+1x6F" 51.25 -26.5 32.5 0 0 6  0 0 1 1 1
+2x2F" -64 -18 8.5 2 1 0  0 0 0 0 0
++-ITEM Health Large" 0 2 15000
+25° Crest End" -10.25 -42 32.7 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 -43 32.7 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 -44 32.7 0 0 6  0 0 1 1 1
+8x Cube Steep" -12.5 -34.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+1x8F" -10.25 -34.5 32.3 0 0 6  0 0 1 1 1
+1x1" -7.75 -36.75 32.7 0 0 7  0 0 1 1 1
+1x1" -7.75 -40.25 32.7 0 0 7  0 0 1 1 1
+1x1" -10.25 -36.75 32.7 0 0 7  0 0 1 1 1
+1x1" -10.25 -40.25 32.7 0 0 7  0 0 1 1 1
+45° Ramp 1x" -8.5 -36.75 32.7 3 0 7  0 0 1 1 1
+45° Ramp 1x" -9.5 -36.75 32.7 1 0 7  0 0 1 1 1
+45° Ramp 1x" -9.5 -40.25 32.7 1 0 7  0 0 1 1 1
+45° Ramp 1x" -8.5 -40.25 32.7 3 0 7  0 0 1 1 1
+25° Ramp 1x" -7.75 -37.75 32.7 2 0 7  0 0 1 1 1
+25° Ramp 1x" -7.75 -39.25 32.7 0 0 7  0 0 1 1 1
+25° Crest End" -10.25 -41 32.7 0 0 6  0 0 1 1 1
+1x1" -74.25 -2.75 34.5 0 0 6  0 0 1 1 1
+2x6F" 52 -26.5 32.5 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+2x2F" -21.5 -20.5 32.7 2 1 0  0 0 0 0 0
++-ITEM Shotgun" 0 2 15000
+2x2F" 53 -14.5 32.5 0 0 9  3 2 1 1 1
+1x2F" -66 -19.75 8.5 1 0 4  0 0 1 1 1
+Music Brick" -65.75 -20.25 8.7 2 0 4  0 0 1 1 1
++-NTOBJECTNAME _partay_music
+1x4F" 52.5 -12.75 32.5 1 0 6  0 0 1 1 1
+Skull Sad" -74.25 -5.25 8.6 0 0 4  0 0 1 1 1
+1x1F Round" 38.25 54.25 1.7 0 0 15  0 0 1 1 1
+1x2F" -74 -4.75 8.5 1 0 4  0 0 1 1 1
+1x1 Cone" -64.75 -20.25 11.5 0 0 29  3 0 1 1 1
++-NTOBJECTNAME _partay_light
++-LIGHT Orange Light" 1
+2x2F" -9.5 -2.5 32.5 0 1 0  0 0 0 0 0
++-ITEM Railgun" 0 2 15000
+1x4F" 52.5 -24.75 32.5 1 0 6  0 0 1 1 1
+1x1F Round" 38.25 56.75 1.7 0 0 15  0 0 1 1 1
+1x2F" 53 -25.75 32.5 1 0 6  0 0 1 1 1
+1x2F" 53 -27.25 32.5 1 0 6  0 0 1 1 1
+Spawn Point" -72.75 -35.25 13.9 1 0 7  0 0 0 0 0
+Skull Murray" -73.25 -36.25 12.6 2 0 4  0 0 1 1 1
+1x1F" -73.75 -36.25 12.5 0 0 4  0 0 1 1 1
+1x2F" -74.25 -35.5 12.5 0 0 4  0 0 1 1 1
+Skull Murray" -73.75 -35.25 12.6 3 0 4  0 0 1 1 1
+2x2F" 53 -26.5 32.5 0 0 9  3 2 1 1 1
+1x2F" 53 -25.25 32.5 1 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+2x2F Round" 37 60.5 1.7 1 0 7  0 0 1 1 1
+1x2F" 53 -27.75 32.5 1 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+1x2F" 53 -13.75 32.5 1 0 6  0 0 1 1 1
+1x2F" 53 -15.25 32.5 1 0 6  0 0 1 1 1
+1x2F" 53 -15.75 32.5 1 0 9  3 2 1 1 1
+1x2F" 53 -13.25 32.5 1 0 9  3 2 1 1 1
+45° Ramp 1x" -51.75 0 33.3 2 0 7  0 0 1 1 1
+45° Ramp 1x" -56.25 0 33.3 2 0 7  0 0 1 1 1
+45° Ramp 1x" -61.75 0 33.3 2 0 7  0 0 1 1 1
+2x2 Round" -57 -20.5 47.9 1 0 7  0 0 1 1 1
+1x4F" 52.5 -16.25 32.5 1 0 6  0 0 1 1 1
+8x16" 57.5 -26.5 32.7 1 0 5  0 0 1 1 1
+16x Ramp 1/2h" 57.5 -20.5 34.4 0 0 6 ModTer/brickRAMP 0 0 1 1 1
+2x10F" 45.5 -12.5 32.5 0 0 8  0 0 1 1 1
+1x6F" 51.25 -14.5 32.5 0 0 6  0 0 1 1 1
+25° Crest End" -10.5 -14.75 32.9 1 0 7  0 0 1 1 1
+2x6F" 52 -14.5 32.5 0 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+2x2F" -26.5 -20.5 33.9 0 0 8  0 0 0 0 0
+1x2x5" -25.25 -20.5 34.1 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onRelay	0	Self		cancelEvents				
++-EVENT	1	1	onRelay	13215	Self		fireRelay				
++-EVENT	2	1	onRelay	0	Self		playSound	q3_evil			
++-EVENT	3	1	onActivate	33	Self		fireRelay				
+2x2F" -7.5 -2.5 32.1 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	7000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_suck1			
+25° Ramp 1x" -7.75 -1.75 32.7 2 0 7  0 0 1 1 1
+1x1" -7.75 -4.25 32.7 0 0 7  0 0 1 1 1
+1x1" -7.75 -0.75 32.7 0 0 7  0 0 1 1 1
+1x2" 28.5 -42.75 2.9 1 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+25° Ramp 1x" -7.75 -3.25 32.7 0 0 7  0 0 1 1 1
+1x16" -6.5 -14.25 32.1 1 0 7  0 0 1 1 1
+1x16" -6.5 -10.75 32.1 1 0 7  0 0 1 1 1
+8x Cube Steep" -12.5 -6.5 44.2 0 0 5 ModTer/brickRAMP 0 0 1 1 1
+45° Ramp 1x" -8.5 -4.25 32.7 3 0 7  0 0 1 1 1
+45° Ramp 1x" -9.5 -4.25 32.7 1 0 7  0 0 1 1 1
+45° Ramp 1x" -9.5 -0.75 32.7 1 0 7  0 0 1 1 1
+45° Ramp 1x" -8.5 -0.75 32.7 3 0 7  0 0 1 1 1
+1x1 Cone" -22.25 -27.75 5.3 2 0 6  0 0 1 1 1
+1x1 Cone" -22.75 -28.75 5.3 2 0 6  0 0 1 1 1
+2x2F" -7.5 -38.5 32.1 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	7000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_suck1			
+16x Ramp 1/4h Inv." -22.5 -8.5 15.2 3 0 5 ModTer/brickRAMP 0 0 1 1 1
+2x2F" -9 -38.5 32.5 0 1 0  0 0 0 0 0
++-ITEM Health Large" 0 2 15000
+2x2F" 52.5 -11 32.5 0 1 0  0 0 0 0 0
++-ITEM Health Normal" 0 2 15000
+2x2F" 52.5 -30 32.5 0 1 0  0 0 0 0 0
++-ITEM Health Normal" 0 2 15000
+2x2F" -49 -6.5 32.7 1 1 0  0 0 0 0 0
++-ITEM Health Normal" 0 2 15000
+1x1F Round" 52.75 -12.75 32.7 0 0 5  0 0 1 1 1
+1x1F Round" 53.25 -12.75 32.7 0 0 5  0 0 1 1 1
+1x2F" 53 -13.75 32.7 1 0 6  0 0 1 1 1
+1x2F" 53 -15.25 32.7 1 0 6  0 0 1 1 1
+72° Ramp 2x" 53 -14.5 33.5 3 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+1x1F Round" -73.75 -36.25 12.7 0 0 4  0 0 1 1 1
+1x1F Round" 36.75 60.25 1.9 1 0 7  0 0 1 1 1
+2x2 Disc" -64.75 -20.25 11.9 0 0 7  0 0 1 1 1
+1x1F Round" -66.25 -20.25 8.7 2 0 4  0 0 1 1 1
+1x1F" -66.25 -19.75 8.7 0 0 4  0 0 1 1 1
+72° Ramp 2x" 53 -26.5 33.5 3 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+1x2F" 53 -25.75 32.7 1 0 6  0 0 1 1 1
+1x2F" 53 -27.25 32.7 1 0 6  0 0 1 1 1
+1x1F Round" 52.25 -24.75 32.7 0 0 5  0 0 1 1 1
+1x1F Round" 52.75 -24.75 32.7 0 0 5  0 0 1 1 1
+1x1F Round" 53.25 -24.75 32.7 0 0 5  0 0 1 1 1
+2x2 Round" 33.5 54.5 2.1 0 0 8  0 0 1 1 1
+1x1 Cone" 51.25 -27.75 32.9 0 0 5  0 0 1 1 1
+1x1 Cone" 51.25 -25.25 32.9 0 0 5  0 0 1 1 1
+1x1 Cone" 51.75 -24.75 32.9 0 0 5  0 0 1 1 1
+25° Crest End" -10.25 -36 32.7 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 -35 32.7 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 -34 32.7 0 0 6  0 0 1 1 1
+-45° Ramp 1x" -9.5 -40.25 33.3 1 0 7  0 0 1 1 1
+-45° Ramp 1x" -9.5 -36.75 33.3 1 0 7  0 0 1 1 1
+-45° Ramp 1x" -8.5 -36.75 33.3 3 0 7  0 0 1 1 1
+-25° Ramp 1x" -7.75 -37.75 33.3 2 0 7  0 0 1 1 1
+-25° Ramp 1x" -7.75 -39.25 33.3 0 0 7  0 0 1 1 1
+1x1" -10.25 -40.25 33.3 0 0 7  0 0 1 1 1
+1x1" -10.25 -36.75 33.3 0 0 7  0 0 1 1 1
+1x1" -7.75 -40.25 33.3 0 0 7  0 0 1 1 1
+1x1" -7.75 -36.75 33.3 0 0 7  0 0 1 1 1
+-45° Ramp 1x" -8.5 -40.25 33.3 3 0 7  0 0 1 1 1
+25° Crest End" -10.25 -33 32.7 0 0 6  0 0 1 1 1
+1x1F Round" 51.25 -25.75 32.7 0 0 5  0 0 1 1 1
+1x1F Round" 51.25 -26.25 32.7 0 0 5  0 0 1 1 1
+1x1F Round" 52.75 -16.25 32.7 0 0 5  0 0 1 1 1
+1x1F Round" 51.25 -27.25 32.7 0 0 5  0 0 1 1 1
+1x1F Round" 52.75 -28.25 32.7 0 0 5  0 0 1 1 1
+1x1F Round" 53.25 -28.25 32.7 0 0 5  0 0 1 1 1
+1x1F Round" 52.25 -28.25 32.7 0 0 5  0 0 1 1 1
+1x1 Cone" 51.75 -28.25 32.9 0 0 5  0 0 1 1 1
+25° Crest End" 45.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Ramp 2x" 21 18.75 29.3 0 0 6  0 0 1 1 1
+25° Ramp 2x" 22 18.75 29.3 0 0 6  0 0 1 1 1
+-80° Ramp 2x" 21 18.5 25.7 2 0 6  0 0 1 1 1
+-80° Ramp 2x" 22 18.5 25.7 2 0 6  0 0 1 1 1
+72° Ramp 2x" 21.5 19 20.3 2 0 6  0 0 1 1 1
+72° Ramp Corner" 20.5 19 20.3 2 0 6  0 0 1 1 1
+72° Ramp Corner" 22.5 19 20.3 1 0 6  0 0 1 1 1
+25° Crest End" 45.5 -26.25 32.9 3 0 7  0 0 1 1 1
+1x16" 41.5 -30.25 32.1 1 0 7  0 0 1 1 1
+1x16" 41.5 -26.75 32.1 1 0 7  0 0 1 1 1
+-72° Ramp Corner" 56 -15 47.3 1 0 5  0 0 1 1 1
+-72° Ramp Corner" 56 -14 47.3 0 0 5  0 0 1 1 1
+-72° Ramp Corner" 55 -14 47.3 3 0 5  0 0 1 1 1
+-72° Ramp Corner" 55 -15 47.3 2 0 5  0 0 1 1 1
+8x16" 57.5 -14.5 33.3 1 0 5  0 0 1 1 1
+25° Crest End" 37.75 -24.5 48.7 2 0 7  6 0 1 1 1
++-EVENT	0	1	onMapLoaded	33	Self		fireRelay				
++-EVENT	1	1	onRelay	33	-1	_Firepooper	fireRelay				
++-EVENT	2	1	onRelay	4000	Self		fireRelay				
+2x2 Round" 26.5 39.5 2.1 0 0 8  0 0 1 1 1
+-45° Ramp Corner" -48.5 -35.5 33.5 0 0 5  0 0 1 1 1
+-45° Ramp 2x" -49.5 -35.5 33.5 0 0 5  0 0 1 1 1
+-45° Ramp 2x" -51.5 -35.5 33.5 0 0 5  0 0 1 1 1
+-45° Ramp 2x" -50.5 -35.5 33.5 0 0 5  0 0 1 1 1
+-45° Ramp 2x" -54.5 -35.5 33.5 0 0 5  0 0 1 1 1
+-45° Ramp 2x" -55.5 -35.5 33.5 0 0 5  0 0 1 1 1
+2x2x5" 19.5 5 3.3 0 0 6  0 0 1 1 1
+1x2x5" 21.5 10.25 9.7 1 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+2x2x5" 23.5 5 3.3 0 0 6  0 0 1 1 1
+1x1F Round" -38.75 -35.75 22.3 2 0 7  0 0 1 1 1
+1x1F Round" -37.75 -35.75 22.3 2 0 7  0 0 1 1 1
+1x1F" 69.25 -24.25 36.5 0 0 7  0 0 1 1 1
+1x1F" 66.75 -24.25 36.5 0 0 7  0 0 1 1 1
+6x8F" 76 -28.5 36.5 0 0 7  0 0 1 1 1
+1x1F" 69.25 -16.75 36.5 0 0 7  0 0 1 1 1
+1x1F" 66.75 -16.75 36.5 0 0 7  0 0 1 1 1
+2x2 Round" 33.5 39.5 2.1 0 0 8  0 0 1 1 1
+-45° Ramp 2x" -82 -22.5 35.1 2 0 6  0 0 1 1 1
+-45° Ramp 2x" -53.5 -35.5 33.5 0 0 5  0 0 1 1 1
+-45° Ramp 2x" -52.5 -35.5 33.5 0 0 5  0 0 1 1 1
+4x4F" -81.5 -20.5 34.9 0 0 6  0 0 1 1 1
+-25° Ramp 2x" -80.75 -22 35.1 1 0 6  0 0 1 1 1
+45° Ramp 4x" 44 -20.5 13.5 3 0 3  4 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-30 0 15			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" 44 -22 13.5 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-30 0 15			
+-25° Ramp 2x" -72.75 -35 35.1 1 0 6  0 0 1 1 1
+-45° Ramp 2x" -74 -34.5 35.1 0 0 6  0 0 1 1 1
+-45° Ramp 2x" 45 -19 13.5 1 0 7  0 0 1 1 1
+-45° Ramp 2x" 45 -22 13.5 1 0 7  0 0 1 1 1
+45° Ramp 2x" 44 -19 13.5 3 0 7  0 0 1 1 1
+2x3F" -51.75 -28 9.9 1 0 7  0 0 1 1 1
+2x3F" -50 -29.75 9.9 0 0 7  0 0 1 1 1
+-72° Ramp Corner" -58.5 -20 11.3 3 0 6  0 0 1 1 1
+25° Crest End" -46.25 1 33.9 2 0 7  0 0 1 1 1
+25° Crest End" -56.25 1 33.9 2 0 7  0 0 1 1 1
+-45° Ramp 2x" -82 -18.5 35.1 0 0 6  0 0 1 1 1
+-25° Ramp 2x" -80.75 -19 35.1 1 0 6  0 0 1 1 1
+-72° Ramp Corner" -57.5 -20 11.3 0 0 6  0 0 1 1 1
+-72° Ramp Corner" -57.5 -21 11.3 1 0 6  0 0 1 1 1
+-72° Ramp 1x" -58.25 -21 11.3 2 0 6  0 0 1 1 1
+45° Ramp 4x" 75 -21.5 36.7 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-60 0 13			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+4x4F" -59 -19.5 12.3 0 0 6  0 0 1 1 1
+4x8F" -57 -20.5 12.3 0 0 6  0 0 1 1 1
+1x4" 76.5 -18.75 36.7 1 0 7  0 0 1 1 1
+1x4" 76.5 -22.25 36.7 1 0 7  0 0 1 1 1
+45° Ramp 4x" 75 -19.5 36.7 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-60 0 13			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+1x4F" -58.25 -21.5 12.3 0 0 6  0 0 1 1 1
+1x1F Round" 51.25 -15.25 32.7 0 0 5  0 0 1 1 1
+1x1F" -48.75 -20.25 18.3 0 0 7  0 0 1 1 1
+1x2F" -48.25 -22.5 18.3 0 0 7  0 0 1 1 1
+-45° Ramp 2x" -48.5 -36.5 33.5 1 0 5  0 0 1 1 1
+-45° Ramp Corner" -48.5 -37.5 33.5 1 0 5  0 0 1 1 1
+-45° Ramp 2x" -51.5 -37.5 33.5 2 0 5  0 0 1 1 1
+-45° Ramp 2x" -49.5 -37.5 33.5 2 0 5  0 0 1 1 1
+-45° Ramp 2x" -50.5 -37.5 33.5 2 0 5  0 0 1 1 1
+1x6F" 13 56.75 1.5 1 0 8  0 0 0 0 0
+-45° Ramp 2x" -55.5 -37.5 33.5 2 0 5  0 0 1 1 1
+-45° Ramp 2x" -54.5 -37.5 33.5 2 0 5  0 0 1 1 1
+-45° Ramp 2x" -53.5 -37.5 33.5 2 0 5  0 0 1 1 1
+-45° Ramp 2x" -52.5 -37.5 33.5 2 0 5  0 0 1 1 1
+1x16F" -48.25 -17.5 18.3 0 0 7  0 0 1 1 1
+2x6" 37.5 -52.5 5.1 1 0 5  0 0 1 1 1
+4x6" 37.5 -54 5.1 1 0 5  0 0 1 1 1
+25° Ramp 1x" 39.25 -53.25 5.1 2 0 6  0 0 1 1 1
+4x4F" -73.5 -36.5 34.9 0 0 6  0 0 1 1 1
+-25° Ramp 2x" -72.75 -38 35.1 1 0 6  0 0 1 1 1
+-45° Ramp 2x" -74 -38.5 35.1 2 0 6  0 0 1 1 1
+25° Ramp 1x" 39.25 -54.75 5.1 0 0 6  0 0 1 1 1
+25° Ramp 1x" 38.25 -55.25 5.1 3 0 6  0 0 1 1 1
+25° Ramp 1x" 36.75 -55.25 5.1 1 0 6  0 0 1 1 1
+25° Ramp 1x" 35.75 -53.25 5.1 2 0 6  0 0 1 1 1
+25° Ramp 1x" 35.75 -54.75 5.1 0 0 6  0 0 1 1 1
+4x6" 37.5 -51 5.1 1 0 5  0 0 1 1 1
+25° Ramp 1x" 39.25 -51.75 5.1 0 0 6  0 0 1 1 1
+-45° Ramp 2x" -57.5 -37.5 33.5 2 0 5  0 0 1 1 1
+-45° Ramp 2x" -59.5 -36.5 33.5 3 0 5  0 0 1 1 1
+-45° Ramp 2x" -56.5 -37.5 33.5 2 0 5  0 0 1 1 1
+-45° Ramp 2x" -58.5 -37.5 33.5 2 0 5  0 0 1 1 1
+-45° Ramp 2x" -57.5 -35.5 33.5 0 0 5  0 0 1 1 1
+-45° Ramp 2x" -58.5 -35.5 33.5 0 0 5  0 0 1 1 1
+25° Ramp 1x" 39.25 -50.25 5.1 2 0 6  0 0 1 1 1
+25° Ramp 1x" 35.75 -51.75 5.1 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 -24 32.7 0 0 6  0 0 1 1 1
+2x10F" -8.5 -28.5 32.5 0 0 8  0 0 1 1 1
+-45° Ramp Corner" -59.5 -35.5 33.5 3 0 5  0 0 1 1 1
+-45° Ramp Corner" -59.5 -37.5 33.5 2 0 5  0 0 1 1 1
+-45° Ramp 2x" -56.5 -35.5 33.5 0 0 5  0 0 1 1 1
+25° Ramp 1x" 35.75 -50.25 5.1 2 0 6  0 0 1 1 1
+25° Ramp 1x" 36.75 -49.75 5.1 1 0 6  0 0 1 1 1
+25° Ramp 1x" 38.25 -49.75 5.1 3 0 6  0 0 1 1 1
+Spawn Point" 76.25 -5.75 37.9 3 0 7  0 0 0 0 0
+6x8F" 76 -12.5 36.5 0 0 7  0 0 1 1 1
+1x3F" -48.75 -24.75 18.3 1 0 7  0 0 1 1 1
+2x8F" -50 -25.5 18.3 0 0 7  0 0 1 1 1
+2x8F" -50 -21.5 18.3 0 0 7  0 0 1 1 1
+2x8F" -48.5 -28 18.3 1 0 7  0 0 1 1 1
+2x10F" -6.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x10F" -4.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x10F" -2.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x8F" -50 -17.5 18.3 0 0 7  0 0 1 1 1
+1x2F" -40.5 -26.25 18.3 1 0 7  0 0 1 1 1
+1x3F" -47.75 -24.25 18.3 0 0 7  0 0 1 1 1
+1x3F" -46.25 -24.25 18.3 0 0 7  0 0 1 1 1
+1x3F" -45.25 -24.75 18.3 1 0 7  0 0 1 1 1
+1x3F" -44.25 -25.25 18.3 0 0 7  0 0 1 1 1
+1x8F" -42.75 -24 18.3 0 0 7  0 0 1 1 1
+2x8F" -44.5 -28 18.3 1 0 7  0 0 1 1 1
+2x8F" -40.5 -28 18.3 1 0 7  0 0 1 1 1
+1x8F" -39.75 -24.5 18.3 0 0 7  0 0 1 1 1
+25° Crest End" -10.25 -23 32.7 0 0 6  0 0 1 1 1
+1x4x4 Print" -15.25 -19.5 34 1 0 4 Letters/-space 6 0 0 0 1
+25° Crest End" -10.25 -18 32.7 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 -17 32.7 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 -21 32.7 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 -20 32.7 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 -19 32.7 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 -22 32.7 0 0 6  0 0 1 1 1
+1x1" -15.25 -18.25 33.5 0 0 7  0 0 1 1 1
+1x1" -15.25 -22.75 33.5 0 0 7  0 0 1 1 1
+1x4x4 Print" -15.25 -21.5 34 1 0 4 Letters/-space 6 0 0 0 1
+1x3F" -38.25 -26.75 18.3 0 0 7  0 0 1 1 1
+2x2 Round" 26.5 54.5 2.1 0 0 8  0 0 1 1 1
+1x3F" -38.75 -25.75 18.3 1 0 7  0 0 1 1 1
+1x3F" -38.75 -24.25 18.3 1 0 7  0 0 1 1 1
+4x4F" -73.5 -4.5 34.9 0 0 6  0 0 1 1 1
+-25° Ramp 2x" -72.75 -6 35.1 1 0 6  0 0 1 1 1
+-45° Ramp 2x" -74 -6.5 35.1 2 0 6  0 0 1 1 1
+45° Ramp 2x" -9.5 -22 31.1 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	30 0 10			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" -9.5 -19 31.1 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	30 0 10			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+1x2" -10.25 -22 31.1 0 0 7  0 0 1 1 1
+1x2" -10.25 -19 31.1 0 0 7  0 0 1 1 1
+45° Ramp 4x" -9.5 -20.5 31.1 1 0 3  4 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	30 0 10			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+2x8F" -36.5 -28 18.3 1 0 7  0 0 1 1 1
+2x8F" -35 -25.5 18.3 0 0 7  0 0 1 1 1
+2x2F" -42.5 -20.5 18.7 0 1 0  0 0 0 0 0
++-ITEM Rocket Launcher" 0 2 20000
+1x3F" -46.75 -17.75 18.3 0 0 7  0 0 1 1 1
+1x3F" -46.25 -16.75 18.3 1 0 7  0 0 1 1 1
+1x1F" -41.75 -20.75 18.3 0 0 7  0 0 1 1 1
+1x3F" -41.25 -17.75 18.3 1 0 7  0 0 1 1 1
+1x3F" -43.75 -23.25 18.3 1 0 7  0 0 1 1 1
+1x8F" -46.5 -23.25 18.3 1 0 7  0 0 1 1 1
+1x3F" -45.25 -19.25 18.3 0 0 7  0 0 1 1 1
+1x8F" -45.25 -16.5 18.3 0 0 7  0 0 1 1 1
+72° Ramp 1x" 29.25 -44 3.7 0 0 6  0 0 1 1 1
+72° Ramp 1x" 27.75 -44 3.7 0 0 6  0 0 1 1 1
+1x3F" -47.25 -18.75 18.3 1 0 7  0 0 1 1 1
+1x1F Round" -23.75 -12.25 5.3 0 0 6  0 0 1 1 1
+1x1F Round" -24.25 -12.25 5.3 0 0 6  0 0 1 1 1
+1x1F Round" -29.25 -12.25 5.3 0 0 6  0 0 1 1 1
+1x1F Round" -28.75 -12.25 5.3 0 0 6  0 0 1 1 1
+1x1F Round" -30.75 -13.75 5.3 0 0 6  0 0 1 1 1
+1x1F Round" -30.75 -14.25 5.3 0 0 6  0 0 1 1 1
+1x1F Round" -22.25 -14.25 5.3 0 0 6  0 0 1 1 1
+1x1F Round" -22.25 -13.75 5.3 0 0 6  0 0 1 1 1
+1x1F" -42.25 -19.75 18.3 0 0 7  0 0 1 1 1
+1x1F" -43.25 -20.25 18.3 0 0 7  0 0 1 1 1
+1x1F" -42.75 -21.25 18.3 0 0 7  0 0 1 1 1
+1x8F" -42.25 -17 18.3 0 0 7  0 0 1 1 1
+-25° Ramp 2x" -72.75 -3 35.1 1 0 6  0 0 1 1 1
+-45° Ramp 2x" -74 -2.5 35.1 0 0 6  0 0 1 1 1
+1x16F" -26.5 -18.75 4.9 1 0 7  0 0 1 1 1
+1x16F" -26.5 -22.25 4.9 1 0 7  0 0 1 1 1
+1x8F" -46 -20.25 18.3 1 0 7  0 0 1 1 1
+1x1F" -36.25 -20.75 18.3 0 0 7  0 0 1 1 1
+1x2F" -36.75 -18.5 18.3 0 0 7  0 0 1 1 1
+1x8F" -38.5 -17.75 18.3 1 0 7  0 0 1 1 1
+25° Crest End" -10.25 -8 32.7 0 0 6  0 0 1 1 1
+2x10F" -8.5 -12.5 32.5 0 0 8  0 0 1 1 1
+1x1F" -23.25 -20.75 4.9 0 0 7  0 0 1 1 1
+1x1F" -23.75 -20.25 4.9 0 0 7  0 0 1 1 1
+1x2F" -23.25 -19.5 4.9 0 0 7  0 0 1 1 1
+1x3F" -39.75 -21.75 18.3 0 0 7  0 0 1 1 1
+1x3F" -39.75 -16.25 18.3 1 0 7  0 0 1 1 1
+45° Ramp 2x" 23 -43 3.9 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	1 30 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" 20 -43 3.9 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	1 30 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 4x" 21.5 -43 3.9 0 0 3  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	1 30 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+1x8F" 21.5 -44.75 5.3 1 0 6  0 0 1 1 1
+1x3F" -38.75 -16.75 18.3 0 0 7  0 0 1 1 1
+1x3F" -37.25 -16.75 18.3 0 0 7  0 0 1 1 1
+1x3F" -36.25 -16.25 18.3 1 0 7  0 0 1 1 1
+2x10F" -2.5 -12.5 32.5 0 0 8  0 0 1 1 1
+2x10F" -6.5 -12.5 32.5 0 0 8  0 0 1 1 1
+2x10F" -4.5 -12.5 32.5 0 0 8  0 0 1 1 1
+25° Crest End" -10.25 -7 32.7 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 -6 32.7 0 0 6  0 0 1 1 1
+25° Crest End" -10.25 -5 32.7 0 0 6  0 0 1 1 1
+1x1" -10.25 -0.75 33.3 0 0 7  0 0 1 1 1
+1x1" -10.25 -4.25 33.3 0 0 7  0 0 1 1 1
+-45° Ramp 1x" -8.5 -0.75 33.3 3 0 7  0 0 1 1 1
+-45° Ramp 1x" -9.5 -0.75 33.3 1 0 7  0 0 1 1 1
+-45° Ramp 1x" -9.5 -4.25 33.3 1 0 7  0 0 1 1 1
+-45° Ramp 1x" -8.5 -4.25 33.3 3 0 7  0 0 1 1 1
+1x2F" -22.75 -21.5 4.9 0 0 7  0 0 1 1 1
+1x2F" -23.75 -21.5 4.9 0 0 7  0 0 1 1 1
+1x1F" -22.75 -20.25 4.9 0 0 7  0 0 1 1 1
+1x1F" -24.25 -20.75 4.9 0 0 7  0 0 1 1 1
+1x1F" -24.75 -20.25 4.9 0 0 7  0 0 1 1 1
+1x1F" -25.25 -20.75 4.9 0 0 7  0 0 1 1 1
+1x1F" -25.75 -20.25 4.9 0 0 7  0 0 1 1 1
+1x1F" -26.25 -20.75 4.9 0 0 7  0 0 1 1 1
+1x1F" -26.75 -20.25 4.9 0 0 7  0 0 1 1 1
+1x1F" -27.25 -20.75 4.9 0 0 7  0 0 1 1 1
+1x1F" -27.75 -20.25 4.9 0 0 7  0 0 1 1 1
+1x3F" -38.25 -23.25 18.3 0 0 7  0 0 1 1 1
+-45° Ramp 2x" 15 -44 9.5 0 0 6  0 0 1 1 1
+-45° Ramp 2x" 14 -44 9.5 0 0 6  0 0 1 1 1
+1x1" -7.75 -0.75 33.3 0 0 7  0 0 1 1 1
+1x1" -7.75 -4.25 33.3 0 0 7  0 0 1 1 1
+-25° Ramp 1x" -7.75 -1.75 33.3 2 0 7  0 0 1 1 1
+-25° Ramp 1x" -7.75 -3.25 33.3 0 0 7  0 0 1 1 1
+1x1F" -28.25 -20.75 4.9 0 0 7  0 0 1 1 1
+1x1F" -28.75 -20.25 4.9 0 0 7  0 0 1 1 1
+1x1F" -29.25 -20.75 4.9 0 0 7  0 0 1 1 1
+1x1F" -30.25 -20.75 4.9 0 0 7  0 0 1 1 1
+1x1F" -29.75 -20.25 4.9 0 0 7  0 0 1 1 1
+1x2F" -30.25 -19.5 4.9 0 0 7  0 0 1 1 1
+1x2F" -29.25 -19.5 4.9 0 0 7  0 0 1 1 1
+1x2F" -28.25 -19.5 4.9 0 0 7  0 0 1 1 1
+1x2F" -27.25 -19.5 4.9 0 0 7  0 0 1 1 1
+1x2F" -26.25 -19.5 4.9 0 0 7  0 0 1 1 1
+1x2F" -25.25 -19.5 4.9 0 0 7  0 0 1 1 1
+1x2F" -24.25 -19.5 4.9 0 0 7  0 0 1 1 1
+45° Ramp 4x" 14.5 -45 9.5 2 0 6  0 0 1 1 1
+1x3F" -37.75 -22.25 18.3 1 0 7  0 0 1 1 1
+1x8F" -39 -20.75 18.3 1 0 7  0 0 1 1 1
+2x8F" -35 -21.5 18.3 0 0 7  0 0 1 1 1
+2x8F" -35 -17.5 18.3 0 0 7  0 0 1 1 1
+1x16F" -45.5 -26.25 18.3 1 0 7  0 0 1 1 1
+1x16F" -36.75 -23.5 18.3 0 0 7  0 0 1 1 1
+1x16F" -39.5 -19.25 18.3 1 0 7  0 0 1 1 1
+1x16F" -41.25 -23.5 18.3 0 0 7  0 0 1 1 1
+25° Crest 4x" -64 1 33.9 2 0 7  0 0 1 1 1
+25° Crest End" -51.75 1 33.9 0 0 7  0 0 1 1 1
+25° Crest End" -61.75 1 33.9 0 0 7  0 0 1 1 1
+25° Crest 2x" -62.5 1 33.9 2 0 7  0 0 1 1 1
+25° Crest 2x" -55.5 1 33.9 2 0 7  0 0 1 1 1
+25° Crest 2x" -52.5 1 33.9 2 0 7  0 0 1 1 1
+25° Crest 2x" -45.5 1 33.9 2 0 7  0 0 1 1 1
+25° Crest 2x" -42.5 1 33.9 2 0 7  0 0 1 1 1
+25° Crest 4x" -44 1 33.9 2 0 7  0 0 1 1 1
+1x2F" -24.75 -21.5 4.9 0 0 7  0 0 1 1 1
+1x2F" -25.75 -21.5 4.9 0 0 7  0 0 1 1 1
+1x2F" -26.75 -21.5 4.9 0 0 7  0 0 1 1 1
+1x2F" -27.75 -21.5 4.9 0 0 7  0 0 1 1 1
+1x2F" -28.75 -21.5 4.9 0 0 7  0 0 1 1 1
+1x2F" -29.75 -21.5 4.9 0 0 7  0 0 1 1 1
+25° Crest 2x" -65.5 1 33.9 2 0 7  0 0 1 1 1
+1x1F Round" -23.75 -28.75 5.3 0 0 6  0 0 1 1 1
+1x1F Round" -22.25 -27.25 5.3 0 0 6  0 0 1 1 1
+25° Crest End" -66.25 1 33.9 2 0 7  0 0 1 1 1
+1x16F" -45.5 -21.75 18.3 1 0 7  0 0 1 1 1
+1x16F" -43.75 -17.5 18.3 0 0 7  0 0 1 1 1
+25° Crest 4x" -54 1 33.9 2 0 7  0 0 1 1 1
+25° Crest End" -41.75 1 33.9 0 0 7  0 0 1 1 1
+2x8F" -48.5 -13 18.3 1 0 7  0 0 1 1 1
+2x4F" -50 -14.5 18.3 0 0 7  0 0 1 1 1
+1x3F" -46.25 -15.25 18.3 1 0 7  0 0 1 1 1
+1x1F" -42.25 -14.25 18.3 0 0 7  0 0 1 1 1
+1x3F" -40.75 -15.75 18.3 0 0 7  0 0 1 1 1
+1x2F" -44.5 -14.75 18.3 1 0 7  0 0 1 1 1
+2x8F" -44.5 -13 18.3 1 0 7  0 0 1 1 1
+2x8F" -40.5 -13 18.3 1 0 7  0 0 1 1 1
+2x8F" -36.5 -13 18.3 1 0 7  0 0 1 1 1
+1x3F" -46.75 -14.25 18.3 0 0 7  0 0 1 1 1
+1x1F Round" -38.75 -5.25 22.3 0 0 7  0 0 1 1 1
+1x1F Round" -37.75 -5.25 22.3 0 0 7  0 0 1 1 1
+1x16F" -39.5 -14.75 18.3 1 0 7  0 0 1 1 1
+2x4F" -35 -14.5 18.3 0 0 7  0 0 1 1 1
+2x2F Round" 32.5 40 1.9 1 0 8  0 0 1 1 1
+1x1F Round" -30.75 -27.25 5.3 0 0 6  0 0 1 1 1
+1x1F Round" -30.75 -26.75 5.3 0 0 6  0 0 1 1 1
+2x2F" 28.5 -48.5 4.9 0 0 9  3 2 1 1 1
+4x4F" 28.5 -48 5.3 0 0 5  0 0 1 1 1
+1x2F" 27.5 -48.75 4.9 1 0 5  0 0 1 1 1
+1x2F" 29.5 -48.75 4.9 1 0 5  0 0 1 1 1
+25° Ramp 4x" 28.5 -49.75 5.1 2 0 5  0 0 1 1 1
+1x1" 19.25 -59.75 5.5 0 0 7  0 0 1 1 1
+25° Ramp 1x" 7.25 -53.25 5.1 2 0 6  0 0 1 1 1
+25° Ramp 1x" 7.25 -51.75 5.1 0 0 6  0 0 1 1 1
+4x6" 5.5 -54 5.1 1 0 5  0 0 1 1 1
+4x6" 5.5 -51 5.1 1 0 5  0 0 1 1 1
+1x1F Round" 52.25 -12.75 32.7 0 0 5  0 0 1 1 1
+25° Ramp 1x" 3.75 -53.25 5.1 2 0 6  0 0 1 1 1
+25° Ramp 1x" 6.25 -49.75 5.1 3 0 6  0 0 1 1 1
+25° Ramp 1x" 4.75 -49.75 5.1 1 0 6  0 0 1 1 1
+25° Ramp 1x" 3.75 -50.25 5.1 2 0 6  0 0 1 1 1
+25° Ramp 1x" 3.75 -51.75 5.1 0 0 6  0 0 1 1 1
+2x6" 5.5 -52.5 5.1 1 0 5  0 0 1 1 1
+25° Ramp 1x" 4.75 -55.25 5.1 1 0 6  0 0 1 1 1
+25° Ramp 1x" 6.25 -55.25 5.1 3 0 6  0 0 1 1 1
+25° Ramp 1x" 7.25 -54.75 5.1 0 0 6  0 0 1 1 1
+25° Ramp 1x" 7.25 -50.25 5.1 2 0 6  0 0 1 1 1
+1x1F Round" -22.25 -26.75 5.3 0 0 6  0 0 1 1 1
+1x1F Round" -29.25 -28.75 5.3 0 0 6  0 0 1 1 1
+1x1F Round" -28.75 -28.75 5.3 0 0 6  0 0 1 1 1
+1x1F Round" -24.25 -28.75 5.3 0 0 6  0 0 1 1 1
+1x4x4 Print" 22.5 -59.75 6 2 0 4 Letters/-space 6 0 0 0 1
+1x4x4 Print" 20.5 -59.75 6 2 0 4 Letters/-space 6 0 0 0 1
+1x1" 23.75 -59.75 5.5 0 0 7  0 0 1 1 1
+1x2" 52.25 -14.5 32.9 0 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+1x10F" -26.25 -20.5 34.1 0 0 8  0 0 1 1 1
+1x2" 52.25 -26.5 32.9 0 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+1x2F Print" 37.75 -25.5 48.5 1 0 30 1x2f/chip1 0 0 1 1 1
++-EVENT	0	1	onMapLoaded	33	-1	_amb	fireRelay				
+1x1F Round" 53.25 -16.25 32.7 0 0 5  0 0 1 1 1
+2x2x3" 54.5 -20.5 47.3 0 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	25123	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_1shot_gong			
+1x1F Round" 52.25 -16.25 32.7 0 0 5  0 0 1 1 1
+-72° Ramp Corner" 56 -26 47.3 0 0 5  0 0 1 1 1
+1x1F Round" -38.25 -4.75 22.3 3 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_firesoft			
+1x1F Round" -38.25 -36.25 22.3 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_firesoft			
+1x2" -26.5 -16.25 5.1 1 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_fire1			
+1x2" -26.5 -24.75 5.1 1 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_fire1			
+1x2" -26.5 -15.75 5.1 3 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+1x2" -26.5 -25.25 5.1 3 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+-72° Ramp Corner" 56 -27 47.3 1 0 5  0 0 1 1 1
+-72° Ramp Corner" 55 -27 47.3 2 0 5  0 0 1 1 1
+-72° Ramp Corner" 55 -26 47.3 3 0 5  0 0 1 1 1
+8x16" 57.5 -26.5 33.3 1 0 5  0 0 1 1 1
+25° Crest End" 45.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 45.5 -14.75 32.9 1 0 7  0 0 1 1 1
+1x16" 41.5 -14.25 32.1 1 0 7  0 0 1 1 1
+1x16" 41.5 -10.75 32.1 1 0 7  0 0 1 1 1
+1x1 Cone" 51.75 -12.75 32.9 0 0 5  0 0 1 1 1
+1x1 Cone" 51.25 -13.25 32.9 0 0 5  0 0 1 1 1
+1x1 Cone" 51.25 -15.75 32.9 0 0 5  0 0 1 1 1
+1x1F Round" 51.25 -13.75 32.7 0 0 5  0 0 1 1 1
+1x1F Round" 51.25 -14.25 32.7 0 0 5  0 0 1 1 1
+1x1F Round" 51.25 -14.75 32.7 0 0 5  0 0 1 1 1
+1x1F Round" 51.25 -26.75 32.7 0 0 5  0 0 1 1 1
+2x2 Round" -57 -20.5 47.3 1 0 7  0 0 1 1 1
+1x1 Cone" 51.75 -16.25 32.9 0 0 5  0 0 1 1 1
+2x2F" 64 -20.5 36.5 0 1 0  0 0 0 0 0
++-ITEM Plasma Gun" 0 2 20000
+25° Ramp 1x" 3.75 -54.75 5.1 0 0 6  0 0 1 1 1
+-25° Ramp 1x" 7.25 -53.25 5.7 2 0 6  0 0 1 1 1
+-25° Ramp 1x" 6.25 -55.25 5.7 3 0 6  0 0 1 1 1
+4x6" 5.5 -51 5.7 1 0 5  0 0 1 1 1
+4x6" 5.5 -54 5.7 1 0 5  0 0 1 1 1
+2x6" 5.5 -52.5 5.7 1 0 5  0 0 1 1 1
+Skull Murray" 74.75 -29.75 36.8 1 0 4  0 0 1 1 1
+1x6" 76.25 -28.5 36.9 0 0 7  0 0 1 1 1
+2x10F" 39.5 -12.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 41.5 -12.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 43.5 -12.5 32.5 0 0 8  0 0 1 1 1
+Skull Murray" 74.75 -27.25 36.8 1 0 4  0 0 1 1 1
+-45° Ramp 1x" -35.25 -13 17.9 2 0 7  0 0 1 1 1
+-25° Ramp 1x" -34.75 -13.25 17.9 2 0 7  0 0 1 1 1
+Skull Murray" 74.75 -27.75 36.8 1 0 4  0 0 1 1 1
+Skull Murray" 74.75 -28.25 36.8 1 0 4  0 0 1 1 1
+-45° Ramp 1x" -49.75 -13 17.9 2 0 7  0 0 1 1 1
+2x2x5" 19.5 5 6.3 0 0 6  0 0 1 1 1
+2x2 Round" 33.5 39.5 2.7 0 0 8  0 0 1 1 1
+1x6F" -81 -22.75 35.5 1 0 6  0 0 1 1 1
+4x6F" -81 -20.5 35.1 1 0 6  0 0 1 1 1
+6x10F" -72 -36.5 35.5 1 0 6  0 0 1 1 1
+1x8F" -72.5 -34.75 35.5 1 0 6  0 0 1 1 1
+1x8F" -72.5 -38.25 35.5 1 0 6  0 0 1 1 1
+-25° Ramp 1x" -50.25 -13.25 17.9 2 0 7  0 0 1 1 1
+2x4F" -56.5 -20.5 12.5 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	15 0 35			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+2x8F" -58 -19 12.5 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	15 0 35			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+1x1F" -50.25 -30.25 10.1 0 0 7  0 0 1 1 1
+2x2F" -26.5 -20.5 5.1 0 1 0  0 0 0 0 0
++-ITEM Shotgun" 0 2 15000
+1x3F" -51.75 -27.75 10.1 1 0 7  0 0 1 1 1
+8x16" 57.5 -26.5 33.9 1 0 5  0 0 1 1 1
+1x1F" -51.25 -28.25 10.1 0 0 7  0 0 1 1 1
+1x1F" -52.25 -28.25 10.1 0 0 7  0 0 1 1 1
+1x1F Round" -51.75 -28.25 10.1 3 0 7  0 0 1 1 1
++-EMITTER Fire A" 0
++-LIGHT Orange Light" 1
+2x2F" 55.5 -26.5 46.3 0 0 6  0 0 1 1 1
+1x1F Round" -50.25 -29.75 10.1 0 0 7  0 0 1 1 1
++-EMITTER Fire A" 0
++-LIGHT Orange Light" 1
+1x3F" -49.75 -29.75 10.1 0 0 7  0 0 1 1 1
+2x2x5" 23.5 5 6.3 0 0 6  0 0 1 1 1
+1x2x5" 21.5 10.25 12.7 1 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+2x2 Round" -57 -20.5 46.7 1 0 7  0 0 1 1 1
+2x2 Round" 33.5 54.5 2.7 0 0 8  0 0 1 1 1
+1x1F Round" 52.25 -16.25 32.9 0 0 5  0 0 1 1 1
+1x6F" -73 -34.25 35.5 1 0 6  0 0 1 1 1
+-45° Ramp 2x" 44.5 -22 12.9 1 0 7  0 0 1 1 1
+-45° Ramp 2x" 44.5 -19 12.9 1 0 7  0 0 1 1 1
+72° Ramp 1x" 53 -13.75 33.7 3 0 6  0 0 1 1 1
+72° Ramp 1x" 53 -15.25 33.7 3 0 6  0 0 1 1 1
+25° Ramp 2x" 53.75 -14.5 34.7 3 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+1x1F Round" 52.25 -12.75 32.9 0 0 5  0 0 1 1 1
+45° Ramp 2x" 43.5 -19 12.9 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-30 0 15			
+45° Ramp 2x" 43.5 -22 12.9 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-30 0 15			
+45° Ramp 4x" 43.5 -20.5 12.9 3 0 3  4 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-30 0 15			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 4x" 14.5 -44.5 10.1 2 0 6  0 0 1 1 1
+-25° Ramp 2x" 14 -43.25 10.1 0 0 6  0 0 1 1 1
+-25° Ramp 2x" 15 -43.25 10.1 0 0 6  0 0 1 1 1
+1x1F" -73.75 -36.25 12.9 0 0 4  0 0 1 1 1
+1x1 Cone" -7.75 -0.75 33.9 0 0 7  0 0 1 1 1
+1x1 Cone" -7.75 -4.25 33.9 0 0 7  0 0 1 1 1
+1x1F" -50.25 -29.25 10.1 0 0 7  0 0 1 1 1
+25° Crest End" -6.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" -4.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" -2.5 -14.75 32.9 1 0 7  0 0 1 1 1
+1x8F" -72.5 -6.25 35.5 1 0 6  0 0 1 1 1
+1x8F" -72.5 -2.75 35.5 1 0 6  0 0 1 1 1
+1x6F" -81 -18.25 35.5 1 0 6  0 0 1 1 1
+1x16" 1.5 -10.75 32.1 1 0 7  0 0 1 1 1
+1x16" 1.5 -14.25 32.1 1 0 7  0 0 1 1 1
+45° Ramp 4x" 75.5 -20.5 37.3 3 0 3  4 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-60 0 13			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 4x" 21.5 -43.5 4.5 0 0 3  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	1 30 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" 23 -43.5 4.5 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	1 30 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" 20 -43.5 4.5 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	1 30 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+25° Crest End" -2.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" -4.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" -6.5 -10.25 32.9 3 0 7  0 0 1 1 1
+1x3" 76.75 -18.75 37.3 1 0 7  0 0 1 1 1
+6x10F" -72 -4.5 35.5 1 0 6  0 0 1 1 1
+1x3" 76.75 -22.25 37.3 1 0 7  0 0 1 1 1
+25° Crest End" -8.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" -8.5 -10.25 32.9 3 0 7  0 0 1 1 1
+45° Ramp 2x" 75.5 -19 37.3 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-60 0 13			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" 75.5 -22 37.3 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-60 0 13			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+1x6F" -73 -2.25 35.5 1 0 6  0 0 1 1 1
+2x2 Round" 26.5 39.5 2.7 0 0 8  0 0 1 1 1
+8x16" 57.5 -14.5 33.9 1 0 5  0 0 1 1 1
+2x2F" 55.5 -14.5 46.3 0 0 6  0 0 1 1 1
+6x16F" 68 -20.5 36.7 0 0 7  0 0 1 1 1
+1x1F Round" 29.25 -47.25 5.1 1 0 4  0 0 1 1 1
+1x1F Round" 28.75 -47.25 5.1 1 0 4  0 0 1 1 1
+1x1F Round" 27.75 -47.25 5.1 1 0 4  0 0 1 1 1
+1x1F Round" 28.25 -47.25 5.1 1 0 4  0 0 1 1 1
+45° Ramp 4x" 21.5 18 29.9 0 0 6  0 0 1 1 1
+25° Ramp 4x" 21.5 18.25 19.1 2 0 6  0 0 1 1 1
+25° Ramp 1x" 23.25 19.25 19.1 1 0 6  0 0 1 1 1
+1x6" 76 -30.25 36.9 1 0 7  0 0 1 1 1
+25° Ramp 1x" 19.75 19.25 19.1 3 0 6  0 0 1 1 1
+2x10F" 39.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 37.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 41.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 43.5 -28.5 32.5 0 0 8  0 0 1 1 1
+-45° Ramp 2x" -10 -19 30.5 3 0 7  0 0 1 1 1
+-45° Ramp 2x" -10 -22 30.5 3 0 7  0 0 1 1 1
+45° Ramp 4x" -9 -20.5 30.5 1 0 3  4 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	30 0 10			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" -9 -22 30.5 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	30 0 10			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" -9 -19 30.5 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	30 0 10			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+4x6F" -73 -4.5 35.1 1 0 6  0 0 1 1 1
+6x24F" -54 -36.5 33.9 1 0 7  0 0 1 1 1
+2x2 Round" 26.5 54.5 2.7 0 0 8  0 0 1 1 1
+1x1x5" -15.25 -18.25 35.3 0 0 7  0 0 1 1 1
+-45° Ramp 1x" -35.25 -28 17.9 0 0 7  0 0 1 1 1
+-25° Ramp 1x" -34.75 -27.75 17.9 0 0 7  0 0 1 1 1
+1x1x5" -15.25 -22.75 35.3 0 0 7  0 0 1 1 1
+1x4x4 Print" -15.25 -21.5 36.4 1 0 4 Letters/-space 6 0 0 0 1
+1x4x4 Print" -15.25 -19.5 36.4 1 0 4 Letters/-space 6 0 0 0 1
+1x1F Round" 52.25 -28.25 32.9 0 0 5  0 0 1 1 1
+1x6F" -73 -6.75 35.5 1 0 6  0 0 1 1 1
+1x1F Round" 32.75 39.75 2.1 1 0 8  0 0 1 1 1
+25° Ramp Corner" 19.75 18.25 19.1 2 0 6  0 0 1 1 1
+72° Ramp 1x" 53 -27.25 33.7 3 0 6  0 0 1 1 1
+72° Ramp 1x" 53 -25.75 33.7 3 0 6  0 0 1 1 1
+25° Crest End" -6.5 -26.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" -4.5 -26.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" -2.5 -26.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" -6.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" -4.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" -2.5 -30.75 32.9 1 0 7  0 0 1 1 1
+2x6x3" 77 -12.5 37.5 0 0 7  0 0 1 1 1
+1x6" 76 -14.25 36.9 1 0 7  0 0 1 1 1
+1x6" 76 -10.75 36.9 1 0 7  0 0 1 1 1
+Skull Murray" 74.75 -11.25 36.8 1 0 4  0 0 1 1 1
+1x6" 76.25 -12.5 36.9 0 0 7  0 0 1 1 1
+2x6" 75.5 -12.5 36.9 0 0 7  0 0 1 1 1
+25° Ramp 2x" 53.75 -26.5 34.7 3 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+1x1F Round" 52.25 -24.75 32.9 0 0 5  0 0 1 1 1
+Skull Murray" 74.75 -13.75 36.8 1 0 4  0 0 1 1 1
+Skull Murray" 74.75 -13.25 36.8 1 0 4  0 0 1 1 1
+Skull Murray" 74.75 -12.75 36.8 1 0 4  0 0 1 1 1
+1x8F" -80.5 -22.25 35.5 1 0 6  0 0 1 1 1
+25° Ramp Corner" 23.25 18.25 19.1 1 0 6  0 0 1 1 1
+-72° Ramp 2x" 21 18 28.1 2 0 6  0 0 1 1 1
+-72° Ramp 2x" 22 18 28.1 2 0 6  0 0 1 1 1
+1x16" 1.5 -30.25 32.1 1 0 7  0 0 1 1 1
+1x1 Cone" -7.75 -36.75 33.9 0 0 7  0 0 1 1 1
+6x10F" -80 -20.5 35.5 1 0 6  0 0 1 1 1
+1x8F" -80.5 -18.75 35.5 1 0 6  0 0 1 1 1
+-25° Ramp 1x" 38.25 -49.75 5.7 3 0 6  0 0 1 1 1
+-25° Ramp 1x" 36.75 -49.75 5.7 1 0 6  0 0 1 1 1
+-25° Ramp 1x" 35.75 -50.25 5.7 2 0 6  0 0 1 1 1
+-25° Ramp 1x" 35.75 -51.75 5.7 0 0 6  0 0 1 1 1
+-25° Ramp 1x" 39.25 -50.25 5.7 2 0 6  0 0 1 1 1
+-25° Ramp 1x" 39.25 -51.75 5.7 0 0 6  0 0 1 1 1
+4x6" 37.5 -51 5.7 1 0 5  0 0 1 1 1
+-25° Ramp 1x" 35.75 -54.75 5.7 0 0 6  0 0 1 1 1
+-25° Ramp 1x" 35.75 -53.25 5.7 2 0 6  0 0 1 1 1
+-25° Ramp 1x" 36.75 -55.25 5.7 1 0 6  0 0 1 1 1
+-25° Ramp 1x" 38.25 -55.25 5.7 3 0 6  0 0 1 1 1
+-25° Ramp 1x" 39.25 -54.75 5.7 0 0 6  0 0 1 1 1
+-25° Ramp 1x" 39.25 -53.25 5.7 2 0 6  0 0 1 1 1
+4x6" 37.5 -54 5.7 1 0 5  0 0 1 1 1
+2x6" 37.5 -52.5 5.7 1 0 5  0 0 1 1 1
+Skull Murray" 74.75 -12.25 36.8 1 0 4  0 0 1 1 1
+1x1 Cone" -7.75 -40.25 33.9 0 0 7  0 0 1 1 1
+Skull Murray" 74.75 -11.75 36.8 1 0 4  0 0 1 1 1
+25° Crest End" -8.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" -8.5 -26.25 32.9 3 0 7  0 0 1 1 1
+-45° Ramp 1x" -49.75 -28 17.9 0 0 7  0 0 1 1 1
+-25° Ramp 1x" -50.25 -27.75 17.9 0 0 7  0 0 1 1 1
+1x2F" 11.5 56.75 1.3 1 0 8  0 0 1 1 1
+1x2F" 14.5 56.75 1.3 1 0 8  0 0 1 1 1
+1x1F Round" 51.25 -27.25 32.9 0 0 5  0 0 1 1 1
+4x6F" -73 -36.5 35.1 1 0 6  0 0 1 1 1
+1x6F" -73 -38.75 35.5 1 0 6  0 0 1 1 1
+1x1F Round" 51.25 -25.75 32.9 0 0 5  0 0 1 1 1
+1x16" 1.5 -26.75 32.1 1 0 7  0 0 1 1 1
+1x1F Round" 52.25 -14.75 33.3 0 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	15000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava1			
+1x10F" -26.25 -20.5 34.3 0 0 8  0 0 1 1 1
+1x1F Round" 52.25 -26.75 33.3 0 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	15000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava1			
+1x6" 76 -26.75 36.9 1 0 7  0 0 1 1 1
+2x6" 75.5 -28.5 36.9 0 0 7  0 0 1 1 1
+-25° Ramp 1x" 3.75 -50.25 5.7 2 0 6  0 0 1 1 1
+-25° Ramp 1x" 3.75 -51.75 5.7 0 0 6  0 0 1 1 1
+-25° Ramp 1x" 4.75 -49.75 5.7 1 0 6  0 0 1 1 1
+-25° Ramp 1x" 6.25 -49.75 5.7 3 0 6  0 0 1 1 1
+-25° Ramp 1x" 3.75 -53.25 5.7 2 0 6  0 0 1 1 1
+-25° Ramp 1x" 3.75 -54.75 5.7 0 0 6  0 0 1 1 1
+2x10F" 37.5 -12.5 32.5 0 0 8  0 0 1 1 1
+1x1F Round" 51.25 -13.75 32.9 0 0 5  0 0 1 1 1
+1x1F Round" 51.25 -15.25 32.9 0 0 5  0 0 1 1 1
+1x1F" 27.75 -48.75 5.5 0 0 5  0 0 1 1 1
+1x1F" 29.25 -48.75 5.5 0 0 5  0 0 1 1 1
+1x1F Round" 27.75 -48.25 5.5 1 0 7  0 0 1 1 1
+1x1F" 27.75 -48.75 5.1 0 0 5  0 0 1 1 1
+1x1F" 29.25 -48.75 5.1 0 0 5  0 0 1 1 1
+1x1F Round" 29.25 -48.25 5.5 1 0 7  0 0 1 1 1
+2x3F" 28.5 -48.25 5.5 0 0 5  0 0 1 1 1
+1x4x4 Print" 22.5 -59.75 8.4 2 0 4 Letters/-space 6 0 0 0 1
+1x4x4 Print" 20.5 -59.75 8.4 2 0 4 Letters/-space 6 0 0 0 1
+1x1x5" 23.75 -59.75 7.3 0 0 7  0 0 1 1 1
+1x1x5" 19.25 -59.75 7.3 0 0 7  0 0 1 1 1
+1x2F" 27.25 -49 5.1 0 0 5  0 0 1 1 1
+1x2F" 29.75 -49 5.1 0 0 5  0 0 1 1 1
+Skull Murray" 74.75 -28.75 36.8 1 0 4  0 0 1 1 1
+Skull Murray" 74.75 -29.25 36.8 1 0 4  0 0 1 1 1
+2x2F" -4.5 -12.5 32.7 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	7000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_suck1			
+2x6x3" 77 -28.5 37.5 0 0 7  0 0 1 1 1
+4x4F" -42.5 -20.5 18.1 0 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onRelay	0	Self		cancelEvents				
++-EVENT	1	1	onRelay	19689	Self		fireRelay				
++-EVENT	2	1	onRelay	0	Self		playSound	q3_1shot_gong			
++-EVENT	3	1	onActivate	33	Self		fireRelay				
+-25° Ramp 1x" 7.25 -54.75 5.7 0 0 6  0 0 1 1 1
+-25° Ramp 1x" 4.75 -55.25 5.7 1 0 6  0 0 1 1 1
+-25° Ramp 1x" 7.25 -51.75 5.7 0 0 6  0 0 1 1 1
+-25° Ramp 1x" 7.25 -50.25 5.7 2 0 6  0 0 1 1 1
+45° Ramp 2x" -8.5 -19 29.9 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	30 0 10			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+25° Crest End" 43.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 41.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 39.5 -30.75 32.9 1 0 7  0 0 1 1 1
+1x16" 33.5 -30.25 32.1 1 0 7  0 0 1 1 1
+1x16" 33.5 -26.75 32.1 1 0 7  0 0 1 1 1
+25° Crest End" 37.5 -30.75 32.9 1 0 7  0 0 1 1 1
+-45° Ramp 2x" 21 17.5 29.3 2 0 6  0 0 1 1 1
+6x16F" 68 -20.5 36.9 0 0 6  0 0 1 1 1
+2x2x5" 55.5 -14.5 44.7 0 0 5  0 0 1 1 1
+1x6F" -72 -2.75 35.7 1 0 6  0 0 1 1 1
+8x16F" 57.5 -14.5 34.3 1 0 6  0 0 1 1 1
+1x2F" -52.5 -37.75 34.1 1 0 6  0 0 1 1 1
+25° Ramp 1x" -72.25 -2.25 35.9 1 0 6  0 0 1 1 1
+2x2 Round" 26.5 39.5 3.3 0 0 8  0 0 1 1 1
+1x3" -73.75 -2.25 35.9 1 0 6  0 0 1 1 1
+1x6F" -69.75 -4.5 35.7 0 0 6  0 0 1 1 1
+1x2F" -70.5 -3.25 35.7 1 0 6  0 0 1 1 1
+1x2F" -78.5 -21.75 35.7 1 0 6  0 0 1 1 1
+-45° Ramp 2x" 22 17.5 29.3 2 0 6  0 0 1 1 1
+45° Ramp 4x" 21.5 17.5 30.5 0 0 6  0 0 1 1 1
+2x10F" -0.5 -12.5 32.5 0 0 8  0 0 1 1 1
+45° Ramp 4x" 20.5 -44 5.1 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	1 30 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" 76 -22 37.9 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-60 0 13			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" 76 -19 37.9 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-60 0 13			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+1x2F" -70.5 -5.75 35.7 1 0 6  0 0 1 1 1
+45° Ramp 4x" 22.5 -44 5.1 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	1 30 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+1x2" 23.25 -44 3.9 0 0 7  0 0 1 1 1
+2x10F" 5.5 -12.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 3.5 -12.5 32.5 0 0 8  0 0 1 1 1
+1x2" 19.75 -44 3.9 0 0 7  0 0 1 1 1
+1x6F" -80 -18.75 35.7 1 0 6  0 0 1 1 1
+25° Ramp 1x" -80.25 -18.25 35.9 1 0 6  0 0 1 1 1
+1x3" -81.75 -18.25 35.9 1 0 6  0 0 1 1 1
+1x3" -73.75 -34.25 35.9 1 0 6  0 0 1 1 1
+25° Ramp 1x" -72.25 -34.25 35.9 1 0 6  0 0 1 1 1
+1x6F" -72 -34.75 35.7 1 0 6  0 0 1 1 1
+4x8F" -72.5 -4.5 35.3 1 0 6  0 0 1 1 1
+45° Ramp 4x" 43 -21.5 12.3 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-30 0 15			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 4x" 43 -19.5 12.3 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-30 0 15			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+-45° Ramp 2x" 44 -19 12.3 1 0 7  0 0 1 1 1
+-45° Ramp 2x" 44 -22 12.3 1 0 7  0 0 1 1 1
+45° Ramp 4x" 14.5 -44 10.7 2 0 6  0 0 1 1 1
+1x6F" 14.5 -43.25 10.5 1 0 6  0 0 1 1 1
+4x4F" 14.5 -42 10.5 0 0 6  0 0 1 1 1
+1x1 Cone" 53.25 -13.75 34.9 3 0 4  0 0 1 1 1
+1x1 Cone" 53.25 -15.25 34.9 3 0 4  0 0 1 1 1
+25° Ramp 2x" 53.75 -14.5 35.3 3 0 5  0 0 1 1 1
+2x10F" 1.5 -12.5 32.5 0 0 8  0 0 1 1 1
+1x16F" 21.75 14.5 18.7 0 0 6  0 0 1 1 1
+2x2 Round" -57 -20.5 46.1 1 0 7  0 0 1 1 1
+1x1F Round" -73.75 -36.25 13.1 0 0 4  0 0 1 1 1
+1x16F" 21.25 14.5 18.7 0 0 6  0 0 1 1 1
+2x2x5" 55.5 -26.5 44.7 0 0 5  0 0 1 1 1
+6x24F" 19.5 13.5 18.7 0 0 6  0 0 1 1 1
+6x24F" 23.5 13.5 18.7 0 0 6  0 0 1 1 1
+8x16F" 57.5 -26.5 34.3 1 0 6  0 0 1 1 1
+1x16" 33.5 -14.25 32.1 1 0 7  0 0 1 1 1
+1x16" 33.5 -10.75 32.1 1 0 7  0 0 1 1 1
+25° Crest End" 37.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 39.5 -14.75 32.9 1 0 7  0 0 1 1 1
+1x1F Round" -49.75 -29.25 10.3 0 0 7  0 0 1 1 1
+1x1F Round" -52.25 -27.75 10.3 3 0 7  0 0 1 1 1
+1x1F Round" -51.25 -27.75 10.3 3 0 7  0 0 1 1 1
+1x1F Round" -49.75 -30.25 10.3 0 0 7  0 0 1 1 1
+1x2F" -52.5 -35.25 34.1 1 0 6  0 0 1 1 1
+1x2F" -54 -35.25 34.1 1 0 6  0 0 1 1 1
+2x2 Round" 33.5 39.5 3.3 0 0 8  0 0 1 1 1
+4x8F" -72.5 -36.5 35.3 1 0 6  0 0 1 1 1
+25° Crest End" 41.5 -14.75 32.9 1 0 7  0 0 1 1 1
+1x6" -81.75 -20.5 35.9 0 0 9  3 0 1 1 1
++-EMITTER Fire B" 3
+1x6F" -80 -22.25 35.7 1 0 6  0 0 1 1 1
+25° Ramp 1x" -80.25 -22.75 35.9 1 0 6  0 0 1 1 1
+1x3" -81.75 -22.75 35.9 1 0 6  0 0 1 1 1
+25° Crest End" 43.5 -14.75 32.9 1 0 7  0 0 1 1 1
+1x6F" -69.75 -36.5 35.7 0 0 6  0 0 1 1 1
+1x2F" -70.5 -35.25 35.7 1 0 6  0 0 1 1 1
+1x2F" -70.5 -37.75 35.7 1 0 6  0 0 1 1 1
+25° Crest End" 43.5 -10.25 32.9 3 0 7  0 0 1 1 1
+2x2x5" 19.5 5 9.3 0 0 6  0 0 1 1 1
+1x6" 76 -30.25 37.5 1 0 7  0 0 1 1 1
+1x6" 76 -26.75 37.5 1 0 7  0 0 1 1 1
+72° Ramp 2x" 77 -27 39.3 0 0 7  0 0 1 1 1
+72° Ramp 2x" 77 -30 39.3 2 0 7  0 0 1 1 1
+1x2" 77 -22.25 37.9 1 0 7  0 0 1 1 1
+1x2" 77 -18.75 37.9 1 0 7  0 0 1 1 1
+45° Ramp 4x" 76 -20.5 37.9 3 0 3  4 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-60 0 13			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+2x4" 77 -28.5 38.7 0 0 7  0 0 1 1 1
+1x6F" 74.75 -28.5 37.1 0 0 7  0 0 1 1 1
+25° Crest End" 41.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 39.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 37.5 -10.25 32.9 3 0 7  0 0 1 1 1
+6x8F" 5.5 -51 6.1 1 0 7  0 0 1 1 1
+1x2x5" 21.5 10.25 15.7 1 0 9  3 2 1 1 1
+2x2x5" 23.5 5 9.3 0 0 6  0 0 1 1 1
+6x8F" 5.5 -54 6.1 1 0 7  0 0 1 1 1
+45° Ramp 1x" 29.75 -49 5.5 0 0 5  0 0 1 1 1
+25° Crest 1x" 27.75 -48.5 5.9 0 0 5  0 0 1 1 1
+25° Crest 1x" 29.25 -48.5 5.9 0 0 5  0 0 1 1 1
+45° Ramp 1x" 27.25 -49 5.5 0 0 5  0 0 1 1 1
+1x8F" 21.5 -59.75 9.7 1 0 7  0 0 1 1 1
+1x1" 23.75 -59.75 9.1 0 0 7  0 0 1 1 1
+1x6F" -77.75 -20.5 35.7 0 0 6  0 0 1 1 1
+1x1" 19.25 -59.75 9.1 0 0 7  0 0 1 1 1
+2x10F" 5.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 3.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 1.5 -28.5 32.5 0 0 8  0 0 1 1 1
+25° Crest End" 43.5 -26.25 32.9 3 0 7  0 0 1 1 1
+1x6" -73.75 -36.5 35.9 0 0 9  3 0 1 1 1
++-EMITTER Fire B" 3
++-LIGHT Orange Light" 1
+1x1 Print" -26.25 -22.25 34.7 3 0 16 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -21.75 34.7 3 0 16 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -20.75 34.7 3 0 16 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -20.25 34.7 3 0 16 Letters/-space 0 0 1 1 1
+1x1x5" -26.25 -18.25 35.9 0 0 8  0 0 1 1 1
+1x1x5" -26.25 -22.75 35.9 0 0 8  0 0 1 1 1
+1x1 Print" -26.25 -18.75 34.7 3 0 16 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -19.25 34.7 3 0 16 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -19.75 34.7 3 0 16 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -21.25 34.7 3 0 16 Letters/-space 0 0 1 1 1
+1x6F" -72 -38.25 35.7 1 0 6  0 0 1 1 1
+1x6F" -72 -6.25 35.7 1 0 6  0 0 1 1 1
+25° Ramp 1x" -72.25 -38.75 35.9 1 0 6  0 0 1 1 1
+-45° Ramp 2x" -9.5 -19 29.9 3 0 7  0 0 1 1 1
+1x2x5" -49.25 -36.5 35.5 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onRelay	0	Self		cancelEvents				
++-EVENT	1	1	onRelay	13215	Self		fireRelay				
++-EVENT	2	1	onRelay	0	Self		playSound	q3_evil			
++-EVENT	3	1	onActivate	33	Self		fireRelay				
+-45° Ramp 2x" -9.5 -22 29.9 3 0 7  0 0 1 1 1
+45° Ramp 4x" -8.5 -20.5 29.9 1 0 3  4 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	30 0 10			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" -8.5 -22 29.9 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	30 0 10			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+2x2F" 76 -28.5 37.3 0 0 15  3 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	21563	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_growl2			
+2x2F" 76 -12.5 37.3 0 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	21633	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_growl1			
+1x3" -73.75 -38.75 35.9 1 0 6  0 0 1 1 1
+72° Ramp 2x" 77 -11 39.3 0 0 7  0 0 1 1 1
+72° Ramp 2x" 77 -14 39.3 2 0 7  0 0 1 1 1
+1x1F Round" -51.75 -28.25 10.3 1 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_firesoft			
+2x4" 77 -12.5 38.7 0 0 7  0 0 1 1 1
+1x6" 76 -14.25 37.5 1 0 7  0 0 1 1 1
+1x6" 76 -10.75 37.5 1 0 7  0 0 1 1 1
+1x2F" -78.5 -19.25 35.7 1 0 6  0 0 1 1 1
+1x8F" -15.25 -20.5 37.7 0 0 7  0 0 1 1 1
+1x1" -15.25 -22.75 37.1 0 0 7  0 0 1 1 1
+1x1" -15.25 -18.25 37.1 0 0 7  0 0 1 1 1
+1x3" -73.75 -6.75 35.9 1 0 6  0 0 1 1 1
+25° Ramp 1x" -72.25 -6.75 35.9 1 0 6  0 0 1 1 1
+1x6F" 74.75 -12.5 37.1 0 0 7  0 0 1 1 1
+1x1 Cone" 53.25 -27.25 34.9 0 0 4  0 0 1 1 1
+1x1 Cone" 53.25 -25.75 34.9 0 0 4  0 0 1 1 1
+25° Ramp 2x" 53.75 -26.5 35.3 3 0 5  0 0 1 1 1
+4x8F" -80.5 -20.5 35.3 1 0 6  0 0 1 1 1
+2x2 Round" 33.5 54.5 3.3 0 0 8  0 0 1 1 1
+6x8F" 37.5 -54 6.1 1 0 7  0 0 1 1 1
+6x8F" 37.5 -51 6.1 1 0 7  0 0 1 1 1
+2x10F" -0.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x2 Round" 26.5 54.5 3.3 0 0 8  0 0 1 1 1
+1x6" -73.75 -4.5 35.9 0 0 9  3 0 1 1 1
++-EMITTER Fire B" 3
++-LIGHT Orange Light" 1
+1x1F Round" -50.25 -29.75 10.3 1 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_firesoft			
+25° Crest End" 37.5 -26.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 39.5 -26.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 41.5 -26.25 32.9 3 0 7  0 0 1 1 1
+1x2F" -54 -37.75 34.1 1 0 6  0 0 1 1 1
+25° Crest End" 3.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 5.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 5.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 3.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 1.5 -14.75 32.9 1 0 7  0 0 1 1 1
+45° Ramp 1x" -73 -34.75 36.1 1 0 5  0 0 1 1 1
+45° Ramp 2x" 76.5 -19 38.5 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-60 0 13			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 2x" 76.5 -22 38.5 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-60 0 13			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 4x" 76.5 -20.5 38.5 3 0 3  4 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-60 0 13			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+2x2x5" 19.5 5 12.3 0 0 6  0 0 1 1 1
+1x1F Round" -69.75 -36.25 35.9 1 0 5  0 0 1 1 1
+25° Crest End" 1.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 3.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 5.5 -30.75 32.9 1 0 7  0 0 1 1 1
+45° Ramp 1x" -71 -6.25 36.1 1 0 5  0 0 1 1 1
+1x1F Round" -70.75 -5.75 35.9 2 0 5  0 0 1 1 1
+45° Ramp 1x" -71 -2.75 36.1 1 0 5  0 0 1 1 1
+1x1 Cone" -70.25 -5.75 36.1 2 0 5  0 0 1 1 1
+1x1F Round" -70.75 -3.25 35.9 2 0 5  0 0 1 1 1
+25° Crest End" 5.5 -26.25 32.9 3 0 7  0 0 1 1 1
+1x1 Cone" -70.25 -3.25 36.1 2 0 5  0 0 1 1 1
+25° Crest End" 3.5 -26.25 32.9 3 0 7  0 0 1 1 1
+1x16" 9.5 -26.75 32.1 1 0 7  0 0 1 1 1
+45° Crest End" 77 -29.75 40.5 1 0 7  0 0 1 1 1
+2x2 Round" 26.5 39.5 3.9 0 0 8  0 0 1 1 1
+1x6" -73.75 -36.5 36.5 0 0 9  3 0 1 1 1
++-EMITTER Fire B" 3
+1x2" -74 -38.75 36.5 1 0 6  0 0 1 1 1
+-45° Ramp 1x" -73.25 -39 36.5 2 0 6  0 0 1 1 1
+45° Crest End" 77 -27.25 40.5 3 0 7  0 0 1 1 1
+6x16F" 68 -20.5 37.1 0 0 6  0 0 1 1 1
+2x2x5" 55.5 -14.5 41.7 0 0 5  0 0 1 1 1
+2x2x3" 61 -15.5 35.3 0 0 5  0 0 1 1 1
+72° Ramp 2x" 60 -15.5 35.3 2 0 5  0 0 1 1 1
+72° Ramp 2x" 59 -15.5 35.3 2 0 5  0 0 1 1 1
+72° Ramp 2x" 58 -15.5 35.3 2 0 5  0 0 1 1 1
+72° Ramp 2x" 57 -15.5 35.3 2 0 5  0 0 1 1 1
+2x10F" 31.5 -12.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 29.5 -12.5 32.5 0 0 8  0 0 1 1 1
+72° Ramp 2x" 57 -13.5 35.3 0 0 5  0 0 1 1 1
+72° Ramp 2x" 58 -13.5 35.3 0 0 5  0 0 1 1 1
+72° Ramp 2x" 59 -13.5 35.3 0 0 5  0 0 1 1 1
+72° Ramp 2x" 60 -13.5 35.3 0 0 5  0 0 1 1 1
+2x10F" 33.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 35.5 -28.5 32.5 0 0 8  0 0 1 1 1
+25° Ramp 1x" 76.25 -10.75 38.1 3 0 7  0 0 1 1 1
+-45° Ramp 1x" -81.25 -23 36.5 2 0 6  0 0 1 1 1
+1x2" -82 -22.75 36.5 1 0 6  0 0 1 1 1
+-45° Ramp 1x" -80.5 -22.75 36.5 1 0 6  0 0 1 1 1
+45° Ramp 1x" -81 -22.25 36.1 1 0 5  0 0 1 1 1
+45° Ramp 1x" -80 -22.25 36.1 1 0 5  0 0 1 1 1
+1x6" -81.75 -20.5 36.5 0 0 9  3 0 1 1 1
++-EMITTER Fire B" 3
++-LIGHT Orange Light" 1
+1x1" 77.25 -10.75 38.1 0 0 7  0 0 1 1 1
+45° Crest End" 77 -11.25 40.5 3 0 7  0 0 1 1 1
+25° Crest End" 1.5 -10.25 32.9 3 0 7  0 0 1 1 1
+1x1" 77.25 -14.25 38.1 0 0 7  0 0 1 1 1
+45° Crest End" 77 -13.75 40.5 1 0 7  0 0 1 1 1
+2x4F" 77 -12.5 39.1 0 0 7  0 0 1 1 1
+45° Ramp 1x" 75 -14.25 38.1 1 0 7  0 0 1 1 1
+-45° Ramp 1x" -72.5 -38.75 36.5 1 0 6  0 0 1 1 1
+45° Ramp 1x" -73 -38.25 36.1 1 0 5  0 0 1 1 1
+45° Ramp 1x" -72 -38.25 36.1 1 0 5  0 0 1 1 1
+45° Ramp 1x" 75 -10.75 38.1 1 0 7  0 0 1 1 1
+1x1 Cone" -69.75 -3.75 36.1 0 0 5  0 0 1 1 1
+-45° Ramp 1x" -81.25 -18 36.5 0 0 6  0 0 1 1 1
+1x2" -82 -18.25 36.5 1 0 6  0 0 1 1 1
+-45° Ramp 1x" -80.5 -18.25 36.5 1 0 6  0 0 1 1 1
+45° Ramp 1x" -80 -18.75 36.1 1 0 5  0 0 1 1 1
+45° Ramp 1x" -81 -18.75 36.1 1 0 5  0 0 1 1 1
+1x1 Cone" -69.75 -5.25 36.1 0 0 5  0 0 1 1 1
+1x1F Round" -69.75 -4.75 35.9 1 0 5  0 0 1 1 1
+-45° Ramp 1x" -54.5 -37.75 34.5 3 0 6  0 0 1 1 1
+-45° Ramp 1x" -52.5 -37.75 34.5 1 0 6  0 0 1 1 1
+2x2 Round" 26.5 54.5 3.9 0 0 8  0 0 1 1 1
+25° Crest End" -0.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" -0.5 -26.25 32.9 3 0 7  0 0 1 1 1
+1x4F" 37.5 -53.25 6.3 1 0 6  0 0 1 1 1
+1x16" 9.5 -30.25 32.1 1 0 7  0 0 1 1 1
+1x3F" 36.75 -54.25 6.3 0 0 6  0 0 1 1 1
+2x2F Round" 37.5 -52.5 6.3 1 0 6  0 0 1 1 1
+1x1F Round" -69.75 -4.25 35.9 1 0 5  0 0 1 1 1
+1x1F Round" -69.75 -3.25 35.9 1 0 5  0 0 1 1 1
+2x2x3" 61 -13 35.3 0 0 5  0 0 1 1 1
+1x1F Round" -69.75 -5.75 35.9 1 0 5  0 0 1 1 1
+1x4F" 37.5 -51.75 6.3 1 0 6  0 0 1 1 1
+1x3F" 36.75 -50.75 6.3 0 0 6  0 0 1 1 1
+1x1F Round" 54.25 -26.75 35.7 0 0 7  0 0 1 1 1
+72° Ramp 2x" 56 -25.5 35.3 0 0 5  0 0 1 1 1
+72° Ramp 2x" 56 -27.5 35.3 2 0 5  0 0 1 1 1
+-45° Ramp 1x" -73.25 -7 36.5 2 0 6  0 0 1 1 1
+1x1F" 53.75 -27.25 34.5 0 0 6  0 0 1 1 1
+1x1F" 53.75 -25.75 34.5 0 0 6  0 0 1 1 1
+1x2" 54.75 -26.5 34.7 0 0 5  0 0 1 1 1
++-LIGHT Orange Light" 1
+72° Ramp Corner" 54.5 -25.5 35.3 3 0 5  0 0 1 1 1
+72° Ramp Corner" 54.5 -27.5 35.3 2 0 5  0 0 1 1 1
+72° Ramp 1x" 55.25 -27.5 35.3 2 0 5  0 0 1 1 1
+72° Ramp 1x" 55.25 -25.5 35.3 0 0 5  0 0 1 1 1
+1x1F Round" 53.25 -26.25 34.9 3 0 4  0 0 1 1 1
+1x1F Round" 53.25 -26.75 34.9 3 0 4  0 0 1 1 1
+1x3F" 38.25 -50.75 6.3 0 0 6  0 0 1 1 1
+1x6F" 37.5 -55.25 6.3 1 0 6  0 0 1 1 1
+1x6F" 37.5 -49.75 6.3 1 0 6  0 0 1 1 1
+1x12F" 35.75 -52.5 6.3 0 0 6  0 0 1 1 1
+1x12F" 39.25 -52.5 6.3 0 0 6  0 0 1 1 1
+1x8F" -15.25 -20.5 37.9 0 0 7  0 0 1 1 1
+1x1" -15.25 -22.75 37.7 0 0 7  0 0 1 1 1
+1x1" -15.25 -18.25 37.7 0 0 7  0 0 1 1 1
+-45° Ramp 1x" -72.5 -2.25 36.5 1 0 6  0 0 1 1 1
+-45° Ramp 2x" -9 -22 29.3 3 0 7  0 0 1 1 1
+-45° Ramp 2x" -9 -19 29.3 3 0 7  0 0 1 1 1
+45° Ramp 4x" -8 -21.5 29.3 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	30 0 10			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 4x" -8 -19.5 29.3 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	30 0 10			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+1x1F Round" -78.75 -19.25 35.9 2 0 5  0 0 1 1 1
+25° Crest End" -0.5 -10.25 32.9 3 0 7  0 0 1 1 1
+-25° Ramp 2x" 21 18.25 18.3 2 0 6  0 0 1 1 1
+-25° Ramp 2x" 22 18.25 18.3 2 0 6  0 0 1 1 1
+-25° Ramp 1x" 23.25 19.25 18.3 1 0 6  0 0 1 1 1
+25° Crest End" -0.5 -14.75 32.9 1 0 7  0 0 1 1 1
+1x1" 23.25 -44.25 4.5 0 0 7  0 0 1 1 1
+1x1" 19.75 -44.25 4.5 0 0 7  0 0 1 1 1
+1x1F Round" -77.75 -21.75 35.9 1 0 5  0 0 1 1 1
+1x1F Round" -77.75 -19.25 35.9 1 0 5  0 0 1 1 1
+-25° Ramp 1x" 19.75 19.25 18.3 3 0 6  0 0 1 1 1
+-25° Ramp Corner" 19.75 18.25 18.3 2 0 6  0 0 1 1 1
+-25° Ramp Corner" 23.25 18.25 18.3 1 0 6  0 0 1 1 1
+-45° Ramp 2x" 22 17 29.9 2 0 6  0 0 1 1 1
+1x16" 9.5 -14.25 32.1 1 0 7  0 0 1 1 1
+45° Ramp 4x" 21.5 17 31.1 0 0 6  0 0 1 1 1
+1x2F" 13.25 -43.5 10.3 0 0 6  0 0 1 1 1
+45° Ramp 4x" 14.5 -43.5 11.3 2 0 6  0 0 1 1 1
+2x6F" 14.5 -43 10.7 1 0 6  0 0 1 1 1
+1x1F Round" 13.75 -41.75 10.7 2 0 5  0 0 1 1 1
+1x1F Round" 15.25 -41.75 10.7 2 0 5  0 0 1 1 1
+1x2F" 14.5 -42.25 10.7 1 0 9  3 0 1 1 1
+1x1" 15.25 -42.25 10.9 0 0 6  0 0 1 1 1
+1x2" 61 -24.75 34.7 1 0 5  0 0 1 1 1
+1x3" 59.75 -24.75 34.7 1 0 5  0 0 1 1 1
+25° Ramp 1x" 58.25 -24.75 34.7 3 0 5  0 0 1 1 1
+2x2x3" 61 -25.5 35.3 0 0 5  0 0 1 1 1
+2x2x3" 61 -28 35.3 0 0 5  0 0 1 1 1
+72° Ramp 2x" 60 -25.5 35.3 0 0 5  0 0 1 1 1
+72° Ramp 2x" 59 -25.5 35.3 0 0 5  0 0 1 1 1
+72° Ramp 2x" 58 -25.5 35.3 0 0 5  0 0 1 1 1
+72° Ramp 2x" 57 -25.5 35.3 0 0 5  0 0 1 1 1
+72° Ramp 2x" 57 -27.5 35.3 2 0 5  0 0 1 1 1
+72° Ramp 2x" 58 -27.5 35.3 2 0 5  0 0 1 1 1
+72° Ramp 2x" 59 -27.5 35.3 2 0 5  0 0 1 1 1
+72° Ramp 2x" 60 -27.5 35.3 2 0 5  0 0 1 1 1
+1x1" 13.75 -42.25 10.9 0 0 6  0 0 1 1 1
+1x2F" 15.75 -43.5 10.3 0 0 6  0 0 1 1 1
+1x1F Round" 13.75 -41.25 10.7 2 0 5  0 0 1 1 1
+1x1F Round" 15.25 -41.25 10.7 2 0 5  0 0 1 1 1
+2x2 Round" -57 -20.5 45.5 1 0 7  0 0 1 1 1
+1x1F Round" -77.75 -20.25 35.9 1 0 5  0 0 1 1 1
+1x1F Round" 54.25 -14.75 35.7 3 0 7  0 0 1 1 1
+72° Ramp Corner" 54.5 -13.5 35.3 3 0 5  0 0 1 1 1
+72° Ramp Corner" 54.5 -15.5 35.3 2 0 5  0 0 1 1 1
+72° Ramp 1x" 55.25 -15.5 35.3 2 0 5  0 0 1 1 1
+72° Ramp 1x" 55.25 -13.5 35.3 0 0 5  0 0 1 1 1
+1x2" 61 -16.25 34.7 1 0 5  0 0 1 1 1
+1x3" 59.75 -16.25 34.7 1 0 5  0 0 1 1 1
+25° Ramp 1x" 58.25 -16.25 34.7 3 0 5  0 0 1 1 1
+1x1F Round" -77.75 -20.75 35.9 1 0 5  0 0 1 1 1
+2x2x5" 55.5 -26.5 41.7 0 0 5  0 0 1 1 1
+1x1 Cone" -77.75 -21.25 36.1 0 0 5  0 0 1 1 1
+1x1 Cone" -77.75 -19.75 36.1 0 0 5  0 0 1 1 1
+1x1 Cone" -78.25 -19.25 36.1 2 0 5  0 0 1 1 1
+1x1 Cone" -78.25 -21.75 36.1 2 0 5  0 0 1 1 1
+8x16F" 16.5 7.5 18.5 0 0 6  0 0 0 0 0
+8x16F" 26.5 7.5 18.5 0 0 6  0 0 0 0 0
+1x1F Round" -78.75 -21.75 35.9 2 0 5  0 0 1 1 1
+45° Ramp 1x" -79 -22.25 36.1 1 0 5  0 0 1 1 1
+8x8F" 26.5 15.5 18.5 0 0 6  0 0 0 0 0
+1x1F" -73.75 -36.25 13.3 0 0 4  0 0 1 1 1
+1x2" -74 -2.25 36.5 1 0 6  0 0 1 1 1
+72° Ramp 2x" 56 -15.5 35.3 2 0 5  0 0 1 1 1
+72° Ramp 2x" 56 -13.5 35.3 0 0 5  0 0 1 1 1
+1x1F" 53.75 -15.25 34.5 0 0 6  0 0 1 1 1
+1x1F" 53.75 -13.75 34.5 0 0 6  0 0 1 1 1
+2x10F" 35.5 -12.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 33.5 -12.5 32.5 0 0 8  0 0 1 1 1
+45° Ramp 1x" -79 -18.75 36.1 1 0 5  0 0 1 1 1
+1x6F" 5.5 -49.75 6.3 1 0 6  0 0 1 1 1
+1x12F" 3.75 -52.5 6.3 0 0 6  0 0 1 1 1
+1x12F" 7.25 -52.5 6.3 0 0 6  0 0 1 1 1
+-45° Ramp 1x" -73.25 -34 36.5 0 0 6  0 0 1 1 1
+1x2" -74 -34.25 36.5 1 0 6  0 0 1 1 1
+1x4F" 5.5 -51.75 6.3 1 0 6  0 0 1 1 1
+1x4F" 5.5 -53.25 6.3 1 0 6  0 0 1 1 1
+1x3F" 6.25 -54.25 6.3 0 0 6  0 0 1 1 1
+1x3F" 4.75 -54.25 6.3 0 0 6  0 0 1 1 1
+1x3F" 4.75 -50.75 6.3 0 0 6  0 0 1 1 1
+1x3F" 6.25 -50.75 6.3 0 0 6  0 0 1 1 1
+2x2F Round" 5.5 -52.5 6.3 1 0 6  0 0 1 1 1
+1x8F" 21.5 -59.75 9.9 1 0 7  0 0 1 1 1
+2x10F" 21.5 7.5 18.5 1 0 6  0 0 0 0 0
+1x16" 9.5 -10.75 32.1 1 0 7  0 0 1 1 1
+1x2x5" 21.5 10.25 18.7 1 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+45° Ramp Corner" 21 11 19.1 3 0 7  0 0 1 1 1
+-45° Ramp 1x" -73.25 -2 36.5 0 0 6  0 0 1 1 1
+1x1" 19.25 -59.75 9.7 0 0 7  0 0 1 1 1
+1x1" 23.75 -59.75 9.7 0 0 7  0 0 1 1 1
+45° Ramp Corner" 22 11 19.1 0 0 7  0 0 1 1 1
+45° Ramp 1x" 20.5 10.25 19.1 3 0 7  0 0 1 1 1
+45° Ramp 1x" 22.5 10.25 19.1 1 0 7  0 0 1 1 1
+45° Ramp Corner" 21 9.5 19.1 2 0 7  0 0 1 1 1
+45° Ramp Corner" 22 9.5 19.1 1 0 7  0 0 1 1 1
+8x8F" 16.5 15.5 18.5 0 0 6  0 0 0 0 0
+Spawn Point" 21.25 15.75 20.3 2 0 7  0 0 0 0 0
+45° Ramp 1x" -72 -2.75 36.1 1 0 5  0 0 1 1 1
+1x1F Round" -69.75 -35.25 35.9 1 0 5  0 0 1 1 1
+1x2" 54.75 -14.5 34.7 0 0 5  0 0 1 1 1
++-LIGHT Orange Light" 1
+1x1F Round" 53.25 -14.25 34.9 3 0 4  0 0 1 1 1
+1x1F Round" 53.25 -14.75 34.9 3 0 4  0 0 1 1 1
+1x1F Round" 54.25 -14.25 35.7 3 0 7  0 0 1 1 1
+1x6F" 5.5 -55.25 6.3 1 0 6  0 0 1 1 1
+1x10F" -26.25 -20.5 37.5 0 0 8  0 0 1 1 1
+1x1 Print" -26.25 -18.75 35.3 3 0 0 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -19.25 35.3 3 0 7 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -22.25 35.3 3 0 0 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -21.75 35.3 3 0 0 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -21.25 35.3 3 0 7 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -20.75 35.3 3 0 7 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -20.25 35.3 3 0 16 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -19.75 35.3 3 0 16 Letters/-space 0 0 1 1 1
+25° Crest End" 1.5 -26.25 32.9 3 0 7  0 0 1 1 1
+1x3F" 38.25 -54.25 6.3 0 0 6  0 0 1 1 1
+1x1" 77.25 -22.25 38.5 0 0 7  0 0 1 1 1
+1x1" 77.25 -18.75 38.5 0 0 7  0 0 1 1 1
+1x1F Round" 54.25 -26.25 35.7 0 0 7  0 0 1 1 1
+45° Ramp 1x" -71 -38.25 36.1 1 0 5  0 0 1 1 1
+1x1 Cone" -69.75 -37.25 36.1 0 0 5  0 0 1 1 1
+1x1 Cone" -69.75 -35.75 36.1 0 0 5  0 0 1 1 1
+1x1 Cone" -70.25 -35.25 36.1 2 0 5  0 0 1 1 1
+1x1F Round" -70.75 -35.25 35.9 2 0 5  0 0 1 1 1
+1x1 Cone" -70.25 -37.75 36.1 2 0 5  0 0 1 1 1
+1x1F Round" -70.75 -37.75 35.9 2 0 5  0 0 1 1 1
+45° Ramp 1x" -71 -34.75 36.1 1 0 5  0 0 1 1 1
+45° Ramp 1x" -73 -2.75 36.1 1 0 5  0 0 1 1 1
+45° Ramp 1x" -72 -34.75 36.1 1 0 5  0 0 1 1 1
+2x2 Round" 33.5 54.5 3.9 0 0 8  0 0 1 1 1
+-45° Ramp 1x" -54.5 -35.25 34.5 3 0 6  0 0 1 1 1
+2x10F" 29.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 31.5 -28.5 32.5 0 0 8  0 0 1 1 1
+1x2" 14.5 -41.25 10.9 1 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_fire1			
+-45° Ramp 1x" -52.5 -35.25 34.5 1 0 6  0 0 1 1 1
+2x2 Round" 33.5 39.5 3.9 0 0 8  0 0 1 1 1
+-45° Ramp 1x" -72.5 -34.25 36.5 1 0 6  0 0 1 1 1
+1x2" -74 -6.75 36.5 1 0 6  0 0 1 1 1
+2x2x5" 23.5 5 12.3 0 0 6  0 0 1 1 1
+1x6" -73.75 -4.5 36.5 0 0 9  3 0 1 1 1
++-EMITTER Fire B" 3
+25° Ramp 1x" 76.25 -26.75 38.1 3 0 7  0 0 1 1 1
+45° Ramp 1x" 75 -26.75 38.1 1 0 7  0 0 1 1 1
+45° Ramp 1x" 75 -30.25 38.1 1 0 7  0 0 1 1 1
+25° Ramp 1x" 76.25 -30.25 38.1 3 0 7  0 0 1 1 1
+1x1" 77.25 -30.25 38.1 0 0 7  0 0 1 1 1
+1x1" 77.25 -26.75 38.1 0 0 7  0 0 1 1 1
+2x2F" 1.5 -28.5 32.7 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	7000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_suck1			
+2x4F" 77 -28.5 39.1 0 0 7  0 0 1 1 1
+45° Ramp 1x" -72 -6.25 36.1 1 0 5  0 0 1 1 1
+45° Ramp 1x" -73 -6.25 36.1 1 0 5  0 0 1 1 1
+-45° Ramp 1x" -72.5 -6.75 36.5 1 0 6  0 0 1 1 1
+1x1F Round" -69.75 -37.75 35.9 1 0 5  0 0 1 1 1
+1x1F Round" -69.75 -36.75 35.9 1 0 5  0 0 1 1 1
+25° Ramp 1x" 76.25 -14.25 38.1 3 0 7  0 0 1 1 1
+-45° Ramp 2x" 21 17 29.9 2 0 6  0 0 1 1 1
+1x16" 25.5 -10.75 32.1 1 0 7  0 0 1 1 1
+25° Crest End" 29.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 31.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 29.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 31.5 -10.25 32.9 3 0 7  0 0 1 1 1
+-45° Ramp 2x" 21 16.5 30.5 2 0 6  0 0 1 1 1
+8x16F" 27 15.5 18.7 0 0 6  0 0 1 1 1
+1x1F Round" 53.75 -15.25 34.7 3 0 4  0 0 1 1 1
+8x8F" 27 9.5 18.7 0 0 6  0 0 1 1 1
+2x2F" 21.5 9.5 18.7 0 0 6  0 0 1 1 1
+2x3F" 21.5 8.25 18.7 0 0 6  0 0 1 1 1
+1x2x5" 21.5 10.25 21.7 1 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+1x2F" 27.5 5.25 18.7 1 0 6  0 0 1 1 1
+1x3" 60.75 -16.25 35.3 1 0 5  0 0 1 1 1
+2x3F" 25.5 4.75 18.7 0 0 6  0 0 1 1 1
+2x3F" 26.5 4.75 18.7 0 0 6  0 0 1 1 1
+4x12F" 58.5 -26.5 36.3 1 0 6  0 0 1 1 1
+2x3F" 27.75 7 18.7 1 0 6  0 0 1 1 1
+4x4F" 26 6.5 18.7 0 0 6  0 0 1 1 1
+6x8F" 23.5 5.5 18.7 0 0 6  0 0 1 1 1
+2x3F" 16.5 4.75 18.7 0 0 6  0 0 1 1 1
+8x8F" 20 5.5 18.7 0 0 6  0 0 1 1 1
+4x4F" 17 6.5 18.7 0 0 6  0 0 1 1 1
+2x3F" 17.5 4.75 18.7 0 0 6  0 0 1 1 1
+1x1F" 15.25 5.25 18.7 0 0 6  0 0 1 1 1
+2x10F" 13.5 -12.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 11.5 -12.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 7.5 -12.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 9.5 -12.5 32.5 0 0 8  0 0 1 1 1
+2x3F" 15.25 6 18.7 1 0 6  0 0 1 1 1
+2x3F" 15.25 7 18.7 1 0 6  0 0 1 1 1
+8x8F" 16 9.5 18.7 0 0 6  0 0 1 1 1
+8x16F" 16 15.5 18.7 0 0 6  0 0 1 1 1
+1x2F" 15.75 5 18.7 0 0 6  0 0 1 1 1
+2x2 Round" -57 -20.5 44.9 1 0 7  0 0 1 1 1
+2x2x5" 23.5 5 15.3 0 0 6  0 0 1 1 1
+1x1 Cone" -69.75 -35.25 36.3 0 0 5  0 0 1 1 1
+1x1 Cone" -69.75 -37.75 36.3 0 0 5  0 0 1 1 1
+2x2x5" 19.5 5 15.3 0 0 6  0 0 1 1 1
+1x2F" -72 -34.25 36.9 1 0 6  0 0 1 1 1
+-45° Ramp 1x" -73.5 -33.75 37.1 3 0 6  0 0 1 1 1
+2x2F" 61 -16 36.3 0 0 6  0 0 1 1 1
+25° Ramp 1x" 59.25 -16.25 35.3 3 0 5  0 0 1 1 1
+25° Crest End" 33.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 35.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 35.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 33.5 -14.75 32.9 1 0 7  0 0 1 1 1
+4x10F" -73.5 -4.5 36.9 0 0 6  0 0 1 1 1
+2x2F" 54.5 -14.5 35.9 0 0 5  0 0 1 1 1
+1x1F Round" 53.75 -13.75 34.7 3 0 4  0 0 1 1 1
+1x1 Cone" -77.75 -19.25 36.3 0 0 5  0 0 1 1 1
+1x1 Cone" -77.75 -21.75 36.3 0 0 5  0 0 1 1 1
+25° Crest End" 35.5 -30.75 32.9 1 0 7  0 0 1 1 1
+1x6F" 14.5 -42.75 10.9 1 0 6  0 0 1 1 1
+1x4F" 14.5 -43.25 10.9 1 0 6  0 0 1 1 1
+1x1 Cone" 13.75 -41.25 11.1 3 0 5  0 0 1 1 1
+1x16" 25.5 -14.25 32.1 1 0 7  0 0 1 1 1
+25° Crest End" 29.5 -26.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 31.5 -26.25 32.9 3 0 7  0 0 1 1 1
+1x16" 25.5 -26.75 32.1 1 0 7  0 0 1 1 1
+25° Crest End" 31.5 -30.75 32.9 1 0 7  0 0 1 1 1
+1x16" 25.5 -30.25 32.1 1 0 7  0 0 1 1 1
+25° Crest End" 29.5 -30.75 32.9 1 0 7  0 0 1 1 1
+2x4" 77 -28.5 39.5 0 0 7  0 0 1 1 1
+2x4F" 14.5 -42 11.3 1 0 6  0 0 1 1 1
+1x2F" 14.5 -42.25 10.9 1 0 9  3 0 1 1 1
++-EMITTER Fire B" 2
++-LIGHT Orange Light" 1
+4x10F" -81.5 -20.5 36.9 0 0 6  0 0 1 1 1
+-45° Ramp 1x" -81.5 -17.75 37.1 3 0 6  0 0 1 1 1
+1x2F" -80 -18.25 36.9 1 0 6  0 0 1 1 1
+-45° Ramp 1x" -81.5 -23.25 37.1 3 0 6  0 0 1 1 1
+2x4" 77 -12.5 39.5 0 0 7  0 0 1 1 1
+1x2F" -80 -22.75 36.9 1 0 6  0 0 1 1 1
+6x16F" 68 -20.5 37.3 0 0 7  0 0 1 1 1
+45° Ramp 4x" 77 -19.5 39.1 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-60 0 13			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+45° Ramp 4x" 77 -21.5 39.1 3 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-60 0 13			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+2x10F" 9.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 11.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 7.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 13.5 -28.5 32.5 0 0 8  0 0 1 1 1
+1x1 Cone" -69.75 -3.25 36.3 0 0 5  0 0 1 1 1
+1x1 Print" -26.25 -21.25 35.9 3 0 0 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -22.25 37.1 3 0 9 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -21.75 37.1 3 0 9 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -20.25 35.9 3 0 7 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -19.75 35.9 3 0 7 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -21.25 37.1 3 0 9 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -19.25 35.9 3 0 7 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -20.75 37.1 3 0 0 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -20.25 37.1 3 0 0 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -19.75 37.1 3 0 0 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -21.75 35.9 3 0 0 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -19.25 37.1 3 0 0 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -18.75 37.1 3 0 9 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -18.75 35.9 3 0 0 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -22.25 35.9 3 0 0 Letters/-space 0 0 1 1 1
+1x10F" -26.25 -20.5 37.7 0 0 8  0 0 1 1 1
+1x1 Print" -26.25 -20.75 35.9 3 0 7 Letters/-space 0 0 1 1 1
+1x1F" 27.25 4.75 18.7 0 0 6  0 0 1 1 1
+1x2" 21.5 9.75 19.7 3 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+1x1 Cone" -69.75 -5.75 36.3 0 0 5  0 0 1 1 1
+2x2F" 61 -28 36.3 0 0 6  0 0 1 1 1
+2x3F" 27.75 6 18.7 1 0 6  0 0 1 1 1
+25° Crest End" 33.5 -30.75 32.9 1 0 7  0 0 1 1 1
+-45° Ramp 2x" 22 16.5 30.5 2 0 6  0 0 1 1 1
+2x2F" 61 -13 36.3 0 0 6  0 0 1 1 1
+4x12F" 58.5 -14.5 36.3 1 0 6  0 0 1 1 1
+2x2F" 31.5 -12.5 32.7 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	7000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_suck1			
+2x2F" 31.5 -28.5 32.7 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	7000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_suck1			
+2x4F" 55 -14.5 36.3 0 0 6  0 0 1 1 1
+2x2" 55.5 -14.5 39.9 0 0 6  0 0 1 1 1
+-72° Ramp 2x" 21.5 19 17.1 2 0 6  0 0 1 1 1
+-72° Ramp Corner" 22.5 19 17.1 1 0 6  0 0 1 1 1
+-72° Ramp Corner" 20.5 19 17.1 2 0 6  0 0 1 1 1
+45° Ramp 4x" 21.5 16.5 31.7 0 0 6  0 0 1 1 1
+1x2" -69.75 -4.5 36.3 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_fireloud			
+1x2" -77.75 -20.5 36.3 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_fireloud			
+1x2" -69.75 -36.5 36.3 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_fireloud			
+-45° Ramp 1x" -73.5 -39.25 37.1 3 0 6  0 0 1 1 1
+1x2F" -72 -38.75 36.9 1 0 6  0 0 1 1 1
+2x2 Round" 26.5 39.5 4.5 0 0 8  0 0 1 1 1
+1x2F" -52.5 -35.25 34.9 1 0 6  0 0 1 1 1
+1x1F Round" 53.75 -27.25 34.7 0 0 4  0 0 1 1 1
+1x1F Round" 53.75 -25.75 34.7 0 0 4  0 0 1 1 1
+2x2F" 54.5 -26.5 35.9 0 0 5  0 0 1 1 1
+45° Ramp 1x" -54.5 -35.25 35.1 1 0 6  0 0 1 1 1
+45° Ramp 1x" -54.5 -37.75 35.1 1 0 6  0 0 1 1 1
+1x2F" -52.5 -37.75 34.9 1 0 6  0 0 1 1 1
+2x2 Round" 26.5 54.5 4.5 0 0 8  0 0 1 1 1
+-45° Ramp 1x" -73.5 -7.25 37.1 3 0 6  0 0 1 1 1
+2x2 Round" 33.5 39.5 4.5 0 0 8  0 0 1 1 1
+1x2F" -72 -6.75 36.9 1 0 6  0 0 1 1 1
+2x2 Round" 33.5 54.5 4.5 0 0 8  0 0 1 1 1
+2x2" 55.5 -26.5 39.9 0 0 6  0 0 1 1 1
+2x4F" 55 -26.5 36.3 0 0 6  0 0 1 1 1
+-45° Ramp 1x" -73.5 -1.75 37.1 3 0 6  0 0 1 1 1
+1x2F" -72 -2.25 36.9 1 0 6  0 0 1 1 1
+2x2F" 61 -25 36.3 0 0 6  0 0 1 1 1
+1x3" 60.75 -24.75 35.3 1 0 5  0 0 1 1 1
+25° Ramp 1x" 59.25 -24.75 35.3 3 0 5  0 0 1 1 1
+25° Crest End" 35.5 -26.25 32.9 3 0 7  0 0 1 1 1
+4x10F" -73.5 -36.5 36.9 0 0 6  0 0 1 1 1
+25° Crest End" 33.5 -26.25 32.9 3 0 7  0 0 1 1 1
+1x1 Cone" 15.25 -41.25 11.1 3 0 5  0 0 1 1 1
+1x2F" -74 -6.75 37.1 1 0 6  0 0 1 1 1
+2x10F" 21.5 -12.5 32.5 0 0 8  0 0 1 1 1
+4x10F" -80.5 -20.5 37.1 0 0 6  0 0 1 1 1
+2x10F" 27.5 -28.5 32.5 0 0 8  0 0 1 1 1
+1x2F" -73 -6.25 36.7 1 0 5  0 0 1 1 1
+1x2x5" 21.5 10.25 24.7 1 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+45° Ramp 4x" 21.5 16 32.3 0 0 6  0 0 1 1 1
+1x16" 17.5 -10.75 32.1 1 0 7  0 0 1 1 1
+2x8F" 15.5 17 18.9 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-10 -15 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+2x8F" 27.5 17 18.9 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	15 -20 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+2x2F" -57 -20.5 44.5 0 0 7  0 0 1 1 1
+2x2F" 26.5 54.5 4.9 0 0 8  0 0 1 1 1
+25° Crest End" 9.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 13.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 13.5 -26.25 32.9 3 0 7  0 0 1 1 1
+45° Ramp 1x" -54.75 -37.5 35.7 2 0 6  0 0 1 1 1
+45° Ramp 1x" -52.5 -37.75 35.3 3 0 6  0 0 1 1 1
+2x10F" 23.5 -12.5 32.5 0 0 8  0 0 1 1 1
+2x8F" 27.5 14 18.9 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	15 -20 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+25° Crest End" 11.5 -26.25 32.9 3 0 7  0 0 1 1 1
+2x10F" 25.5 -28.5 32.5 0 0 8  0 0 1 1 1
+2x10F" 23.5 -28.5 32.5 0 0 8  0 0 1 1 1
+25° Crest End" 9.5 -26.25 32.9 3 0 7  0 0 1 1 1
+Teledoor" 68.25 -19.5 39.3 2 0 7  0 0 0 0 0
++-NTOBJECTNAME _TeledoorTopR
++-EVENT	0	1	onTeledoorExit	0	Self		playSound	q3_teleout			
+Teledoor" 68.25 -21.5 39.3 2 0 7  0 0 0 0 0
++-NTOBJECTNAME _TeledoorTopL
++-EVENT	0	1	onTeledoorExit	0	Self		playSound	q3_teleout			
+25° Crest End" 13.5 -10.25 32.9 3 0 7  0 0 1 1 1
+1x2F" 14.5 -42.25 11.5 1 0 6  0 0 1 1 1
+1x1F Round" 15.25 -42.25 11.5 1 0 7  0 0 1 1 1
+45° Ramp 1x" -52.5 -35.25 35.3 3 0 6  0 0 1 1 1
+45° Ramp 1x" -54.75 -35.5 35.7 0 0 6  0 0 1 1 1
+1x1F Round" 13.75 -42.25 11.5 1 0 7  0 0 1 1 1
+1x2F" 14.5 -41.75 11.5 1 0 6  0 0 1 1 1
+1x2F" 14.5 -42.25 11.1 1 0 6  0 0 1 1 1
+1x4F" 14.5 -42.75 11.1 1 0 6  0 0 1 1 1
+-45° Ramp 1x" 13.25 -43 11.3 2 0 6  0 0 1 1 1
+25° Crest End" 7.5 -26.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 7.5 -14.75 32.9 1 0 7  0 0 1 1 1
+1x2F" -74 -34.25 37.1 1 0 6  0 0 1 1 1
+25° Ramp 1x" -73.75 -33.75 37.7 1 0 6  0 0 1 1 1
+-45° Ramp 1x" 15.75 -43 11.3 2 0 6  0 0 1 1 1
+2x2F" 26.5 39.5 4.9 0 0 8  0 0 1 1 1
+1x2F" -73 -34.75 36.7 1 0 5  0 0 1 1 1
+1x1F Round" 15.25 -41.75 11.1 2 0 5  0 0 1 1 1
+1x1F Round" 13.75 -41.75 11.1 2 0 5  0 0 1 1 1
+2x4F" 29 15.5 18.9 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	15 -20 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+2x2F" 21.5 9 18.5 0 0 6  0 0 0 0 0
+2x4F" 17 15.5 18.9 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-10 -15 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+4x10F" -72.5 -36.5 37.1 0 0 6  0 0 1 1 1
+2x10F" 27.5 -12.5 32.5 0 0 8  0 0 1 1 1
+1x2F" -74 -38.75 37.1 1 0 6  0 0 1 1 1
+2x10F" 25.5 -12.5 32.5 0 0 8  0 0 1 1 1
+2x4F" 26 15.5 18.9 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	15 -20 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+1x2F" -73 -38.25 36.7 1 0 5  0 0 1 1 1
+25° Ramp 1x" -73.75 -39.25 37.7 1 0 6  0 0 1 1 1
+1x2F" 54.75 -14.5 35.7 0 0 5  0 0 1 1 1
+4x10F" -72.5 -4.5 37.1 0 0 6  0 0 1 1 1
+4x4F" 27.5 15.5 18.9 0 0 3  4 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	15 -20 30			
+1x16" 17.5 -14.25 32.1 1 0 7  0 0 1 1 1
+1x2F" 54.75 -26.5 35.7 0 0 5  0 0 1 1 1
+1x2F" 54.75 -14.5 36.1 0 0 5  0 0 1 1 1
+4x4" 55.5 -14.5 36.7 0 0 5  0 0 1 1 1
+2x2x3" 55.5 -14.5 38.7 0 0 5  0 0 1 1 1
+-25° Ramp 2x" 21 15.75 31.1 2 0 6  0 0 1 1 1
+-72° Ramp Corner" 23 5.5 17.7 3 0 6  0 0 1 1 1
+1x1 Print" -26.25 -22.25 36.5 3 0 9 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -21.75 36.5 3 0 9 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -21.25 36.5 3 0 0 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -20.75 36.5 3 0 0 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -20.25 36.5 3 0 7 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -19.75 36.5 3 0 7 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -18.75 36.5 3 0 0 Letters/-space 0 0 1 1 1
+1x1 Print" -26.25 -19.25 36.5 3 0 0 Letters/-space 0 0 1 1 1
+25° Crest End" 7.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 9.5 -30.75 32.9 1 0 7  0 0 1 1 1
+-72° Ramp Corner" 23 4.5 17.7 2 0 6  0 0 1 1 1
+25° Crest End" 9.5 -10.25 32.9 3 0 7  0 0 1 1 1
+1x2F" -81 -18.75 36.7 1 0 5  0 0 1 1 1
+-25° Ramp 2x" 22 15.75 31.1 2 0 6  0 0 1 1 1
+25° Ramp 1x" -73.75 -7.25 37.7 1 0 6  0 0 1 1 1
+2x4F" 14 15.5 18.9 0 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-10 -15 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+4x4" 55.5 -26.5 36.7 0 0 5  0 0 1 1 1
+2x2x3" 55.5 -26.5 38.7 0 0 5  0 0 1 1 1
+2x2F" 33.5 39.5 4.9 0 0 8  0 0 1 1 1
+2x8F" 15.5 14 18.9 1 0 7  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-10 -15 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+1x2F" -73 -2.75 36.7 1 0 5  0 0 1 1 1
+2x10F" 21.5 -28.5 32.5 0 0 8  0 0 1 1 1
+4x4F" 15.5 15.5 18.9 0 0 3  4 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		SetVelocity	-10 -15 30			
++-EVENT	1	1	onPlayerTouch	0	Self		playSound	q3_jumppad			
+72° Ramp 2x" 77 -12 40.7 0 0 7  0 0 1 1 1
+72° Ramp 2x" 77 -13 40.7 2 0 7  0 0 1 1 1
+25° Crest End" 11.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 13.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 11.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Ramp 1x" -81.75 -17.75 37.7 1 0 6  0 0 1 1 1
+25° Ramp 1x" -81.75 -23.25 37.7 1 0 6  0 0 1 1 1
+1x2F" -81 -22.25 36.7 1 0 5  0 0 1 1 1
+-72° Ramp Corner" 24 4.5 17.7 1 0 6  0 0 1 1 1
+1x2F" -82 -22.75 37.1 1 0 6  0 0 1 1 1
+25° Crest End" 7.5 -10.25 32.9 3 0 7  0 0 1 1 1
+72° Ramp 2x" 77 -28 40.7 0 0 7  0 0 1 1 1
+1x2F" -82 -18.25 37.1 1 0 6  0 0 1 1 1
+72° Ramp 2x" 77 -29 40.7 2 0 7  0 0 1 1 1
+25° Crest End" 11.5 -30.75 32.9 1 0 7  0 0 1 1 1
+-72° Ramp Corner" 19 4.5 17.7 2 0 6  0 0 1 1 1
+1x2F" -74 -2.25 37.1 1 0 6  0 0 1 1 1
+25° Ramp 1x" -73.75 -1.75 37.7 1 0 6  0 0 1 1 1
+2x2F" 67.5 -20.5 37.5 0 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	30000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_1shot_greg_01			
+2x2F" 33.5 54.5 4.9 0 0 8  0 0 1 1 1
+1x2F" 54.75 -26.5 36.1 0 0 5  0 0 1 1 1
+1x1" 61.25 -24.75 35.9 0 0 5  0 0 1 1 1
+2x2F" 13.5 -28.5 32.7 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	7000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_suck1			
+25° Ramp 1x" 60.25 -24.75 35.9 3 0 5  0 0 1 1 1
+25° Ramp 1x" 60.25 -16.25 35.9 3 0 5  0 0 1 1 1
+1x1" 61.25 -16.25 35.9 0 0 5  0 0 1 1 1
+2x2F" 13.5 -12.5 32.7 2 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	7000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_suck1			
+-72° Ramp Corner" 20 4.5 17.7 1 0 6  0 0 1 1 1
+-72° Ramp Corner" 20 5.5 17.7 0 0 6  0 0 1 1 1
+-72° Ramp Corner" 19 5.5 17.7 3 0 6  0 0 1 1 1
+-72° Ramp Corner" 24 5.5 17.7 0 0 6  0 0 1 1 1
+2x2F" 25 7 18.9 3 1 0  0 0 0 0 0
++-ITEM Health Normal" 0 2 15000
+2x2F" 18 7 18.9 3 1 0  0 0 0 0 0
++-ITEM Health Normal" 0 2 15000
+1x16" 17.5 -30.25 32.1 1 0 7  0 0 1 1 1
+1x16" 17.5 -26.75 32.1 1 0 7  0 0 1 1 1
+1x2F" -80.25 -22 37.3 0 0 6  0 0 1 1 1
+-25° Ramp 2x" 22 14.75 31.7 2 0 6  0 0 1 1 1
+45° Crest End" 77 -28.75 41.9 1 0 7  0 0 1 1 1
+45° Crest End" 77 -28.25 41.9 3 0 7  0 0 1 1 1
+1x1F" -71.75 -5.75 37.3 0 0 6  0 0 1 1 1
+-45° Ramp 1x" -71.5 -6.25 36.7 1 0 5  0 0 1 1 1
+-45° Ramp 1x" -71.5 -2.75 36.7 1 0 5  0 0 1 1 1
+2x3F" -71.75 -4 37.3 1 0 6  0 0 1 1 1
+2x3F" -71.75 -5 37.3 1 0 6  0 0 1 1 1
+2x10F" 15.5 -28.5 32.5 0 0 8  0 0 1 1 1
+-25° Ramp 2x" 21 14.75 31.7 2 0 6  0 0 1 1 1
+1x2x5" 21.5 10.25 27.7 1 0 9  3 2 1 1 1
+25° Crest End" 27.5 -30.75 32.9 1 0 7  0 0 1 1 1
+2x10F" 19.5 -12.5 32.5 0 0 8  0 0 1 1 1
+25° Crest End" 25.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 23.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 23.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 27.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 21.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 27.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 25.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 23.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 21.5 -10.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 23.5 -26.25 32.9 3 0 7  0 0 1 1 1
+25° Crest End" 25.5 -26.25 32.9 3 0 7  0 0 1 1 1
+2x10F" 17.5 -12.5 32.5 0 0 8  0 0 1 1 1
+25° Crest End" 21.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 27.5 -26.25 32.9 3 0 7  0 0 1 1 1
+1x1F" -71.75 -3.25 37.3 0 0 6  0 0 1 1 1
+4x10F" -73.5 -4.5 37.3 0 0 6  0 0 1 1 1
+25° Crest 1x" 15.75 -43.5 11.9 0 0 6  0 0 1 1 1
+2x10F" 29.5 15.5 18.7 0 0 6  0 0 1 1 1
+45° Ramp Corner" 55 -14 37.5 3 0 5  0 0 1 1 1
+4x4F" 55.5 -14.5 37.1 0 0 6  0 0 1 1 1
+1x1F" -79.75 -21.75 37.3 0 0 6  0 0 1 1 1
+-45° Ramp 1x" -79.5 -18.75 36.7 1 0 5  0 0 1 1 1
+2x4F" 14.5 -42.5 11.7 1 0 6  0 0 1 1 1
+25° Crest 1x" 13.25 -43.5 11.9 0 0 6  0 0 1 1 1
+2x10F" 19.5 -28.5 32.5 0 0 8  0 0 1 1 1
+1x2F" -72.25 -3 37.3 0 0 6  0 0 1 1 1
+45° Ramp Corner" 56 -27 37.5 1 0 5  0 0 1 1 1
+2x10F" 13.5 15.5 18.7 0 0 6  0 0 1 1 1
+1x4" 21.5 15.75 31.7 1 0 6  0 0 1 1 1
+1x2F" -80.25 -19 37.3 0 0 6  0 0 1 1 1
+4x10F" -81.5 -20.5 37.3 0 0 6  0 0 1 1 1
+1x2F" -72.25 -6 37.3 0 0 6  0 0 1 1 1
+1x2F" -72.25 -35 37.3 0 0 6  0 0 1 1 1
+45° Ramp 4x" 21.5 15.5 32.9 0 0 6  0 0 1 1 1
+1x16F" 30 54.25 5.1 1 0 8  0 0 1 1 1
+1x16F" 30 54.75 5.1 1 0 8  0 0 1 1 1
+6x6F" -57 -20.5 44.3 0 0 7  0 0 0 0 0
+45° Ramp Corner" 55 -27 37.5 2 0 5  0 0 1 1 1
+2x4" -54 -36 35.1 1 0 6  0 0 1 1 1
+45° Ramp Corner" 55 -15 37.5 2 0 5  0 0 1 1 1
+2x3F" -79.75 -20 37.3 1 0 6  0 0 1 1 1
+2x3F" -79.75 -21 37.3 1 0 6  0 0 1 1 1
+-45° Ramp 1x" -71.5 -34.75 36.7 1 0 5  0 0 1 1 1
+-45° Ramp 1x" -71.5 -38.25 36.7 1 0 5  0 0 1 1 1
+2x3F" -71.75 -37 37.3 1 0 6  0 0 1 1 1
+-45° Ramp 1x" -79.5 -22.25 36.7 1 0 5  0 0 1 1 1
+2x4" -54 -37 35.1 1 0 6  0 0 1 1 1
+45° Ramp 1x" -52.25 -37.5 35.9 2 0 6  0 0 1 1 1
+45° Ramp Corner" 55 -26 37.5 3 0 5  0 0 1 1 1
+1x16F" 30 39.75 5.1 1 0 8  0 0 1 1 1
+1x16F" 30 39.25 5.1 1 0 8  0 0 1 1 1
+45° Ramp 1x" -52.25 -35.5 35.9 0 0 6  0 0 1 1 1
+2x10F" 15.5 -12.5 32.5 0 0 8  0 0 1 1 1
+45° Ramp Corner" 56 -26 37.5 0 0 5  0 0 1 1 1
+45° Ramp Corner" 56 -15 37.5 1 0 5  0 0 1 1 1
+1x1F" -71.75 -35.25 37.3 0 0 6  0 0 1 1 1
+1x4F" -54.75 -36.5 36.1 0 0 6  0 0 1 1 1
+45° Ramp Corner" 56 -14 37.5 0 0 5  0 0 1 1 1
+25° Crest End" 21.5 -26.25 32.9 3 0 7  0 0 1 1 1
+1x1F" -71.75 -37.75 37.3 0 0 6  0 0 1 1 1
+2x3F" -71.75 -36 37.3 1 0 6  0 0 1 1 1
+1x4F" 14.5 -42.75 11.3 1 0 6  0 0 1 1 1
+1x2F" -72.25 -38 37.3 0 0 6  0 0 1 1 1
+4x10F" -73.5 -36.5 37.3 0 0 6  0 0 1 1 1
+1x1F" -79.75 -19.25 37.3 0 0 6  0 0 1 1 1
+4x4F" 55.5 -26.5 37.1 0 0 6  0 0 1 1 1
+45° Crest End" 77 -12.25 41.9 3 0 7  0 0 1 1 1
+45° Crest End" 77 -12.75 41.9 1 0 7  0 0 1 1 1
+2x10F" 17.5 -28.5 32.5 0 0 8  0 0 1 1 1
+25° Crest End" 25.5 -30.75 32.9 1 0 7  0 0 1 1 1
+-25° Ramp 1x" -54.75 -37.25 34.5 3 0 6  0 0 1 1 1
+2x8F" -79 -20.5 37.1 0 0 6  0 0 1 1 1
+25° Crest End" 15.5 -10.25 32.9 3 0 7  0 0 1 1 1
+1x16F" 26.25 43 5.3 0 0 8  0 0 1 1 1
+-25° Ramp 1x" -53.25 -35.75 34.5 1 0 6  0 0 1 1 1
+-25° Ramp 1x" -54.75 -35.75 34.5 3 0 6  0 0 1 1 1
+25° Crest End" 15.5 -14.75 32.9 1 0 7  0 0 1 1 1
+4x4F" -53 -36.5 36.3 0 0 6  0 0 1 1 1
+1x2F" -72.25 -37.5 37.5 0 0 6  0 0 1 1 1
+2x3F" -73.75 -38.5 37.5 1 0 6  0 0 1 1 1
+1x4F" 14.5 -42.75 11.5 1 0 6  0 0 1 1 1
+2x3F" -79.75 -20.5 37.5 1 0 6  0 0 1 1 1
+1x2F" -57 -19.75 44.5 1 0 7  0 0 1 1 1
+2x4" 21.5 15 32.3 1 0 6  0 0 1 1 1
+1x2F" -57 -21.25 44.5 1 0 7  0 0 1 1 1
+1x2F" -57.75 -20.5 44.5 0 0 7  0 0 1 1 1
+25° Crest End" 19.5 -26.25 32.9 3 0 7  0 0 1 1 1
+4x6F" -73.5 -36.5 37.5 0 0 6  0 0 1 1 1
+25° Crest End" 17.5 -26.25 32.9 3 0 7  0 0 1 1 1
+1x16F" 26.25 51 5.3 0 0 8  0 0 1 1 1
+4x8F" 21.5 12.5 32.1 0 0 6  0 0 1 1 1
+45° Ramp 4x" 21.5 15 33.5 0 0 6  0 0 1 1 1
+-25° Ramp 2x" -55.25 -36.5 34.5 3 0 6  0 0 1 1 1
+1x2F" -72.25 -5.5 37.5 0 0 6  0 0 1 1 1
+4x6F" -73.5 -4.5 37.5 0 0 6  0 0 1 1 1
+2x3F" -73.75 -6.5 37.5 1 0 6  0 0 1 1 1
+2x3F" -81.75 -18.5 37.5 1 0 6  0 0 1 1 1
+1x2F" -80.25 -19.5 37.5 0 0 6  0 0 1 1 1
+1x2F" -72.25 -3.5 37.5 0 0 6  0 0 1 1 1
+1x16F" 33.75 43 5.3 0 0 8  0 0 1 1 1
+2x3F" -73.75 -2.5 37.5 1 0 6  0 0 1 1 1
+2x8F" -71 -36.5 37.1 0 0 6  0 0 1 1 1
+2x3F" -71.75 -36.5 37.5 1 0 6  0 0 1 1 1
+1x3F" -57.75 -19.25 44.5 0 0 7  0 0 1 1 1
+1x2F" -58.5 -19.75 44.5 1 0 7  0 0 1 1 1
+1x16F" 33.75 51 5.3 0 0 8  0 0 1 1 1
+4x6F" -81.5 -20.5 37.5 0 0 6  0 0 1 1 1
+2x3F" -81.75 -22.5 37.5 1 0 6  0 0 1 1 1
+1x2F" -80.25 -21.5 37.5 0 0 6  0 0 1 1 1
+25° Crest End" 15.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 15.5 -26.25 32.9 3 0 7  0 0 1 1 1
+1x2F" -58.5 -21.25 44.5 1 0 7  0 0 1 1 1
+2x3F" -73.75 -34.5 37.5 1 0 6  0 0 1 1 1
+1x2F" -72.25 -35.5 37.5 0 0 6  0 0 1 1 1
+25° Crest End" 17.5 -30.75 32.9 1 0 7  0 0 1 1 1
+2x3F" -71.75 -4.5 37.5 1 0 6  0 0 1 1 1
+25° Crest End" 19.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 17.5 -14.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 19.5 -10.25 32.9 3 0 7  0 0 1 1 1
+1x2x5" 21.5 10.25 30.7 1 0 9  3 2 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Player		BurnPlayer	3			
++-EVENT	1	1	onPlayerTouch	0	Player		AddHealth	-10			
++-EVENT	2	1	onPlayerTouch	0	Player		AddVelocity	0 0 7			
+2x8F" -71 -4.5 37.1 0 0 6  0 0 1 1 1
+25° Crest End" 19.5 -30.75 32.9 1 0 7  0 0 1 1 1
+25° Crest End" 17.5 -10.25 32.9 3 0 7  0 0 1 1 1
+1x3F" -57.75 -21.75 44.5 0 0 7  0 0 1 1 1
+1x3F" -56.25 -21.75 44.5 0 0 7  0 0 1 1 1
+1x2F" -55.5 -21.25 44.5 1 0 7  0 0 1 1 1
+1x2F" -55.5 -19.75 44.5 1 0 7  0 0 1 1 1
+1x3F" -56.25 -19.25 44.5 0 0 7  0 0 1 1 1
+1x4F" -52.25 -36.5 35.5 0 0 6  0 0 1 1 1
+2x4" -53.5 -37 35.7 1 0 6  0 0 1 1 1
+-25° Ramp 2x" -52.75 -36.5 34.5 1 0 6  0 0 1 1 1
+2x4" -53.5 -36 35.7 1 0 6  0 0 1 1 1
+-25° Ramp 1x" -53.25 -37.25 34.5 1 0 6  0 0 1 1 1
+1x2F" -56.25 -20.5 44.5 0 0 7  0 0 1 1 1
+1x1F Round" 26.25 44.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 43.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 42.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 41.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 40.75 5.5 2 0 8  0 0 1 1 1
+1x6F" 22.25 12 32.3 0 0 6  0 0 1 1 1
+1x1x5" -58.75 -21.25 42.9 0 0 7  0 0 1 1 1
+1x1F Round" 26.25 54.25 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 53.75 5.5 2 0 8  0 0 1 1 1
+1x1x5" -58.75 -19.75 42.9 0 0 7  0 0 1 1 1
+1x1F Round" 26.25 54.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 33.75 53.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 52.75 5.5 2 0 8  0 0 1 1 1
+1x6F" 27.5 46.75 5.1 1 0 8  0 0 1 1 1
+1x1F Round" 26.25 51.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 50.75 5.5 2 0 8  0 0 1 1 1
+-45° Ramp 1x" -55.5 -35.75 35.1 3 0 6  0 0 1 1 1
+-45° Ramp 1x" -52.5 -35.75 35.1 1 0 6  0 0 1 1 1
+1x1F Round" 26.25 48.75 5.5 2 0 8  0 0 1 1 1
+1x16F" 30 40.75 5.1 1 0 8  0 0 1 1 1
+1x16F" 30 45.75 5.1 1 0 8  0 0 1 1 1
+1x16F" 30 43.75 5.1 1 0 8  0 0 1 1 1
+1x16F" 30 41.75 5.1 1 0 8  0 0 1 1 1
+1x16F" 30 44.75 5.1 1 0 8  0 0 1 1 1
+1x16F" 30 42.75 5.1 1 0 8  0 0 1 1 1
+1x1F Round" 33.75 51.75 5.5 2 0 8  0 0 1 1 1
+2x2F Round" -72.5 -5.5 37.7 2 0 7  0 0 1 1 1
+1x1F Round" 26.25 47.75 5.5 2 0 8  0 0 1 1 1
+2x4F" -72.5 -4.5 37.7 1 0 6  0 0 1 1 1
+1x1F Round" 33.75 49.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 45.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" -78.75 -18.75 36.9 3 0 5  0 0 1 1 1
+1x1F Round" -78.75 -22.25 36.9 3 0 5  0 0 1 1 1
+2x6F" -78.5 -20.5 37.3 0 0 6  0 0 1 1 1
+2x8F" -82 -20.5 37.7 0 0 6  0 0 1 1 1
+1x3F" -81.25 -19.25 37.7 0 0 6  0 0 1 1 1
+2x2F Round" -80.5 -19.5 37.7 2 0 7  0 0 1 1 1
+1x3F" -73.25 -3.25 37.7 0 0 6  0 0 1 1 1
+1x1F Round" 33.75 48.75 5.5 2 0 8  0 0 1 1 1
+2x2F Round" -72.5 -3.5 37.7 2 0 7  0 0 1 1 1
+1x1F Round" 33.75 47.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" -70.75 -34.75 36.9 3 0 5  0 0 1 1 1
+-45° Ramp 2x" -52 -36.5 35.1 1 0 6  0 0 1 1 1
+1x1F Round" -70.75 -38.25 36.9 3 0 5  0 0 1 1 1
+2x6F" -70.5 -36.5 37.3 0 0 6  0 0 1 1 1
+-45° Ramp 1x" -55.5 -37.25 35.1 3 0 6  0 0 1 1 1
+-45° Ramp 1x" -52.5 -37.25 35.1 1 0 6  0 0 1 1 1
+1x6F" 20.75 12 32.3 0 0 6  0 0 1 1 1
+1x1F Round" 33.75 54.75 5.5 2 0 8  0 0 1 1 1
+2x2F Round" -80.5 -21.5 37.7 2 0 7  0 0 1 1 1
+1x1x5" -56.25 -18.75 42.9 0 0 7  0 0 1 1 1
+1x1x5" -57.75 -18.75 42.9 0 0 7  0 0 1 1 1
+2x2F Round" -72.5 -37.5 37.7 2 0 7  0 0 1 1 1
+1x16F" 30 53.75 5.1 1 0 8  0 0 1 1 1
+-25° Ramp 2x" -56.25 -36.5 35.1 3 0 6  0 0 1 1 1
+2x6" 21.5 14.5 32.9 1 0 6  0 0 1 1 1
+2x6F" 21.5 14 32.3 1 0 6  0 0 1 1 1
+1x16F" 30 52.75 5.1 1 0 8  0 0 1 1 1
+1x16F" 30 51.75 5.1 1 0 8  0 0 1 1 1
+1x16F" 30 50.75 5.1 1 0 8  0 0 1 1 1
+1x16F" 30 49.75 5.1 1 0 8  0 0 1 1 1
+1x16F" 30 48.75 5.1 1 0 8  0 0 1 1 1
+2x6F" 21.5 11.5 32.3 0 0 9  3 2 1 1 1
+1x6F" 32.5 46.75 5.1 1 0 8  0 0 1 1 1
+2x4F" -53 -36.5 36.5 1 0 6  0 0 1 1 1
+4x4F" -53.5 -36.5 36.1 0 0 6  0 0 1 1 1
+1x3F" -81.25 -21.75 37.7 0 0 6  0 0 1 1 1
+1x1F Round" 26.25 49.75 5.5 2 0 8  0 0 1 1 1
+2x4F" -80.5 -20.5 37.7 1 0 6  0 0 1 1 1
+1x1F Round" 33.75 39.25 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 33.75 39.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 33.75 40.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 39.25 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 39.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 33.75 41.75 5.5 2 0 8  0 0 1 1 1
+2x4F" -72.5 -36.5 37.7 1 0 6  0 0 1 1 1
+1x1F Round" 33.75 46.75 5.5 2 0 8  0 0 1 1 1
+1x3F" -73.25 -37.75 37.7 0 0 6  0 0 1 1 1
+1x1F Round" 33.75 42.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 33.75 54.25 5.5 2 0 8  0 0 1 1 1
+2x8F" -74 -4.5 37.7 0 0 6  0 0 1 1 1
+1x1x5" -57.75 -22.25 42.9 0 0 7  0 0 1 1 1
+2x8F" -74 -36.5 37.7 0 0 6  0 0 1 1 1
+1x1x5" -56.25 -22.25 42.9 0 0 7  0 0 1 1 1
+2x2F Round" -72.5 -35.5 37.7 2 0 7  0 0 1 1 1
+1x3F" -73.25 -35.25 37.7 0 0 6  0 0 1 1 1
+1x1F Round" 33.75 43.75 5.5 2 0 8  0 0 1 1 1
+1x1x5" -55.25 -21.25 42.9 0 0 7  0 0 1 1 1
+2x6F" -70.5 -4.5 37.3 0 0 6  0 0 1 1 1
+1x1F Round" -70.75 -2.75 36.9 3 0 5  0 0 1 1 1
+1x1F Round" -70.75 -6.25 36.9 3 0 5  0 0 1 1 1
+1x1F Round" 33.75 44.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 33.75 45.75 5.5 2 0 8  0 0 1 1 1
+1x1x5" -55.25 -19.75 42.9 0 0 7  0 0 1 1 1
+1x1F Round" 33.75 52.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 33.75 50.75 5.5 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 46.75 5.5 2 0 8  0 0 1 1 1
+1x8F" 32 47.75 5.1 1 0 8  0 0 1 1 1
+1x4F" 27 47.75 5.1 1 0 8  0 0 1 1 1
+1x3F" -73.25 -5.75 37.7 0 0 6  0 0 1 1 1
+2x3F" -73.75 -37.5 37.9 1 0 6  0 0 1 1 1
+1x1 Cone" 22.25 10.75 32.7 1 0 5  0 0 1 1 1
+2x3F" -73.75 -5.5 37.9 1 0 6  0 0 1 1 1
+25° Ramp 2x" 21.5 13.25 32.7 2 0 9  3 2 1 1 1
++-EMITTER Fire B" 4
++-LIGHT Orange Light" 1
+4x8F" 21.5 12.5 33.3 0 0 6  0 0 1 1 1
+1x1F Round" 33.75 46.75 4.9 0 0 8  0 0 1 1 1
+1x1F Round" 33.75 47.75 4.9 0 0 8  0 0 1 1 1
+1x1F Round" 33.75 40.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 33.75 41.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 33.75 42.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 33.75 43.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 33.75 44.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 33.75 45.75 4.9 2 0 8  0 0 1 1 1
+2x4F" -73.5 -36.5 37.9 1 0 6  0 0 1 1 1
+2x2F Round" -80.5 -21.5 37.9 2 0 7  0 0 1 1 1
+2x4F" -81.5 -20.5 37.9 1 0 6  0 0 1 1 1
+1x2F" -80.25 -20.5 37.9 0 0 6  0 0 1 1 1
+2x2F Round" -72.5 -37.5 37.9 2 0 7  0 0 1 1 1
+2x3F" -81.75 -21.5 37.9 1 0 6  0 0 1 1 1
+1x4F" -70.75 -36.5 37.5 0 0 6  0 0 1 1 1
+1x4F" -70.75 -4.5 37.5 0 0 6  0 0 1 1 1
+1x6F" -70.25 -4.5 37.1 0 0 6  0 0 1 1 1
+2x2F Round" -72.5 -35.5 37.9 2 0 7  0 0 1 1 1
+2x3F" -73.75 -35.5 37.9 1 0 6  0 0 1 1 1
+45° Crest 1x" 20.75 13.5 32.7 0 0 5  0 0 1 1 1
+1x1F" 20.25 14.75 33.3 0 0 6  0 0 1 1 1
+1x3F" 20.25 14.25 32.5 0 0 6  0 0 1 1 1
+25° Crest 1x" 20.75 12.5 32.7 0 0 5  0 0 1 1 1
+1x4" 32.5 48.75 5.5 1 0 8  0 0 1 1 1
+1x1F Round" 26.25 45.75 4.9 2 0 8  0 0 1 1 1
+2x4F" -73.5 -4.5 37.9 1 0 6  0 0 1 1 1
+2x2F Round" -72.5 -5.5 37.9 2 0 7  0 0 1 1 1
+1x2F" -72.25 -4.5 37.9 0 0 6  0 0 1 1 1
+1x1 Cone" 20.75 10.75 32.7 1 0 5  0 0 1 1 1
+1x1F Round" 20.75 11.75 32.5 1 0 5  0 0 1 1 1
+1x1F Round" 20.75 11.25 32.5 1 0 5  0 0 1 1 1
+1x2F" -55.5 -37.25 35.5 1 0 6  0 0 1 1 1
+1x1F Round" 33.75 48.75 4.9 2 0 8  0 0 1 1 1
+1x2" 21.5 10.25 32.7 3 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava_amb_01_quiet			
+2x2F Round" -80.5 -19.5 37.9 2 0 7  0 0 1 1 1
+2x3F" -73.75 -3.5 37.9 1 0 6  0 0 1 1 1
+2x2F Round" -72.5 -3.5 37.9 2 0 7  0 0 1 1 1
+2x3F" -81.75 -19.5 37.9 1 0 6  0 0 1 1 1
+1x1F Round" 33.75 49.75 4.9 2 0 8  0 0 1 1 1
+1x4F" -78.75 -20.5 37.5 0 0 6  0 0 1 1 1
+1x6F" -70.25 -36.5 37.1 0 0 6  0 0 1 1 1
+1x2F" -55.5 -19.75 41.3 1 0 7  0 0 1 1 1
+1x6F" -78.25 -20.5 37.1 0 0 6  0 0 1 1 1
+1x2F" -55.5 -21.25 41.3 1 0 7  0 0 1 1 1
+1x3F" -56.25 -21.75 41.3 0 0 7  0 0 1 1 1
+1x3F" -57.75 -19.25 41.3 0 0 7  0 0 1 1 1
+1x2" -51.75 -36.5 35.7 0 0 6  0 0 1 1 1
+1x1F Round" 33.75 50.75 4.9 2 0 8  0 0 1 1 1
+1x2F" -58.5 -19.75 41.3 1 0 7  0 0 1 1 1
+1x1F" 22.75 14.75 33.3 0 0 6  0 0 1 1 1
+1x3F" 22.75 14.25 32.5 0 0 6  0 0 1 1 1
+1x3F" 22.75 13.75 33.3 0 0 6  0 0 1 1 1
+4x6F" 29.5 51.5 5.3 1 0 8  0 0 1 1 1
+1x8" 31.25 50.5 5.5 0 0 8  0 0 1 1 1
+1x1F Round" 26.25 53.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 52.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 51.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 50.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 49.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 48.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 46.75 4.9 0 0 8  0 0 1 1 1
+1x2F" -55.5 -35.75 35.5 1 0 6  0 0 1 1 1
+45° Crest 1x" 22.25 13.5 32.7 0 0 5  0 0 1 1 1
+1x2" 21.5 10.75 32.7 3 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	2000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_fire1			
+1x1F Round" 33.75 51.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 33.75 52.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 33.75 53.75 4.9 2 0 8  0 0 1 1 1
+1x2F" -58.5 -21.25 41.3 1 0 7  0 0 1 1 1
+45° Ramp 2x" -52 -36.5 36.9 3 0 6  0 0 1 1 1
+1x2F" -54.25 -36.5 36.3 0 0 6  0 0 1 1 1
+25° Crest 1x" 22.25 12.5 32.7 0 0 5  0 0 1 1 1
+1x3F" -56.25 -19.25 41.3 0 0 7  0 0 1 1 1
+1x3F" -57.75 -21.75 41.3 0 0 7  0 0 1 1 1
+1x2F" -72.25 -36.5 37.9 0 0 6  0 0 1 1 1
+1x1F Round" 26.25 42.75 4.9 2 0 8  0 0 1 1 1
+2x6F" -56.5 -36.5 35.5 1 0 6  0 0 1 1 1
+1x1F Round" 26.25 43.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 22.25 11.75 32.5 1 0 5  0 0 1 1 1
+1x1F Round" 22.25 11.25 32.5 1 0 5  0 0 1 1 1
+1x1F Round" 26.25 44.75 4.9 2 0 8  0 0 1 1 1
+1x3F" 20.25 13.75 33.3 0 0 6  0 0 1 1 1
+1x1F Round" 26.25 41.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 40.75 4.9 2 0 8  0 0 1 1 1
+1x1F Round" 26.25 47.75 4.9 0 0 8  0 0 1 1 1
+2x4F" 32 50 5.3 0 0 8  0 0 1 1 1
+1x1" 30.75 50.75 5.7 0 0 8  0 0 1 1 1
+1x6" 31.25 50 6.1 0 0 8  0 0 1 1 1
+1x4" 31.75 50 5.7 0 0 8  0 0 1 1 1
+1x2F" -55.5 -37.25 35.7 1 0 6  0 0 1 1 1
+2x4F" -73 -3.5 38.1 1 0 6  0 0 1 1 1
+1x1F Round" -70.25 -36.75 36.9 2 0 5  0 0 1 1 1
+1x1F Round" 20.75 11.25 33.1 2 0 5  0 0 1 1 1
+1x1F Round" -78.25 -20.75 36.9 2 0 5  0 0 1 1 1
+1x1F Round" 21.25 10.25 33.1 0 0 15  3 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		cancelEvents				
++-EVENT	2	1	onRelay	15000	Self		fireRelay				
++-EVENT	3	1	onRelay	0	Self		playSound	q3_lava1			
+1x1F Round" -70.25 -35.75 36.9 2 0 5  0 0 1 1 1
+1x1F Round" 20.75 11.75 33.1 2 0 5  0 0 1 1 1
+2x4F" -73 -5.5 38.1 1 0 6  0 0 1 1 1
+2x4F" -73 -35.5 38.1 1 0 6  0 0 1 1 1
+1x1F Round" 22.25 11.25 33.1 2 0 5  0 0 1 1 1
+1x1F Round" -78.25 -21.25 36.9 2 0 5  0 0 1 1 1
+1x1F Round" -78.25 -20.25 36.9 2 0 5  0 0 1 1 1
+1x1F Round" -70.25 -36.25 36.9 2 0 5  0 0 1 1 1
+1x1F Round" -70.25 -5.75 36.9 2 0 5  0 0 1 1 1
+Skull" -57.75 -21.25 41.6 1 0 4  0 0 1 1 1
+1x2F" 32.25 50 5.5 0 0 8  0 0 1 1 1
+1x1" 32.25 49.25 5.7 0 0 8  0 0 1 1 1
+1x1" 28.25 52.25 5.7 0 0 8  0 0 1 1 1
+-45° Ramp 1x" 22.75 13.5 32.9 2 0 6  0 0 1 1 1
+1x1" 30.75 52.25 5.7 0 0 8  0 0 1 1 1
+2x4" 29.5 51.5 5.7 1 0 20  0 0 1 1 1
+1x1" 28.25 50.75 5.7 0 0 8  0 0 1 1 1
+2x4F" -81 -21.5 38.1 1 0 6  0 0 1 1 1
+2x3F" -57.75 -36.5 35.7 1 0 6  0 0 1 1 1
+2x2F" -51.5 -36.5 37.3 0 0 6  0 0 1 1 1
+1x1F Round" 22.25 11.75 33.1 2 0 5  0 0 1 1 1
+1x1" 32.25 50.75 5.7 0 0 8  0 0 1 1 1
+1x1F Round" 20.75 12.25 33.1 2 0 5  0 0 1 1 1
+1x1F Round" -78.25 -21.75 36.9 2 0 5  0 0 1 1 1
+1x1F Round" -70.25 -5.25 36.9 2 0 5  0 0 1 1 1
+2x6" 21.5 14 33.7 1 0 6  0 0 1 1 1
+6x6F" -57 -20.5 41.1 0 0 7  0 0 0 0 0
+-45° Ramp 1x" 20.25 13.5 32.9 2 0 6  0 0 1 1 1
+1x1F Round" -78.25 -19.25 36.9 2 0 5  0 0 1 1 1
+1x1F Round" -78.25 -19.75 36.9 2 0 5  0 0 1 1 1
+1x6F" 21.5 13.25 33.5 1 0 6  0 0 1 1 1
+1x4F" 21.5 12.75 33.5 1 0 6  0 0 1 1 1
+1x1F Round" -70.25 -4.75 36.9 2 0 5  0 0 1 1 1
+1x1F Round" -56.25 -19.25 41.5 0 0 4  0 0 1 1 1
+1x1F Round" 21.75 10.75 33.1 2 0 5  0 0 1 1 1
+1x1F Round" -70.25 -4.25 36.9 2 0 5  0 0 1 1 1
+2x4F" 21.5 11 33.5 1 0 6  0 0 1 1 1
+1x2F" -55.5 -35.75 35.7 1 0 6  0 0 1 1 1
+-45° Ramp 2x" -51.5 -36.5 36.3 1 0 6  0 0 1 1 1
+25° Ramp 2x" -55.75 -36.5 35.9 3 0 6  0 0 1 1 1
+1x1F Round" -70.25 -3.75 36.9 2 0 5  0 0 1 1 1
+1x1F Round" -70.25 -3.25 36.9 2 0 5  0 0 1 1 1
+-45° Ramp 1x" 20.25 15 33.7 0 0 6  0 0 1 1 1
+2x4F" -81 -19.5 38.1 1 0 6  0 0 1 1 1
+2x4F" -73 -37.5 38.1 1 0 6  0 0 1 1 1
+1x1F Round" 21.25 10.75 33.1 2 0 5  0 0 1 1 1
+1x1F Round" -70.25 -37.25 36.9 2 0 5  0 0 1 1 1
+1x1F Round" -70.25 -35.25 36.9 2 0 5  0 0 1 1 1
+1x1F Round" -70.25 -37.75 36.9 2 0 5  0 0 1 1 1
+-45° Ramp 1x" 22.75 15 33.7 0 0 6  0 0 1 1 1
+1x4" 32.5 48.75 6.1 1 0 8  0 0 1 1 1
+1x1F Round" 22.25 12.25 33.1 2 0 5  0 0 1 1 1
+1x2F" -57 -21.25 41.3 1 0 7  0 0 1 1 1
+1x4F" 31.25 49.5 6.5 0 0 8  0 0 1 1 1
+1x1" 28.25 50.75 6.3 0 0 8  0 0 1 1 1
+2x2F" -51 -36.5 37.5 0 0 6  0 0 1 1 1
+2x4F" -50.5 -36.5 37.1 1 0 6  0 0 1 1 1
+1x4F" 32.5 48.75 6.5 1 0 8  0 0 1 1 1
+1x1F Round" -78.25 -21.25 36.7 3 0 5  0 0 1 1 1
+1x1F Round" 20.75 11.25 33.7 2 0 6  0 0 1 1 1
+1x1F Round" -70.25 -3.75 36.7 3 0 5  0 0 1 1 1
+1x1" 30.75 50.75 6.3 0 0 8  0 0 1 1 1
+1x1F Round" -70.25 -5.75 36.7 3 0 5  0 0 1 1 1
+1x1F Round" -70.25 -37.25 36.7 3 0 5  0 0 1 1 1
+1x1F Round" -70.25 -5.25 36.7 3 0 5  0 0 1 1 1
+1x1F Round" -70.25 -37.75 36.7 3 0 5  0 0 1 1 1
+1x1F Round" -70.25 -35.75 36.7 3 0 5  0 0 1 1 1
+1x1F Round" -70.25 -35.25 36.7 3 0 5  0 0 1 1 1
+25° Crest 1x" 20.75 13.5 34.3 2 0 6  0 0 1 1 1
+1x3F" 20.25 15.25 34.1 0 0 6  0 0 1 1 1
+1x1F" -55.25 -35.75 35.9 0 0 6  0 0 1 1 1
+1x6F" 21.5 13.25 33.7 1 0 6  0 0 1 1 1
+1x1F Round" 22.25 11.25 33.7 2 0 6  0 0 1 1 1
+2x3F" -58.25 -36.5 35.9 1 0 6  0 0 1 1 1
+72° Ramp 2x" -57 -36.5 36.7 1 0 6  0 0 1 1 1
+1x1F" -55.25 -37.25 35.9 0 0 6  0 0 1 1 1
+1x2F" 32.25 50 5.7 0 0 1  0 0 1 1 1
++-EVENT	0	1	onActivate	0	-1	_WeaponChest	fakeKillBrick	0 0 0	5		
++-EVENT	1	1	onActivate	0	-1	_Weapon	spawnItem	0 0 0	swordItem		
+1x1F Round" -78.25 -19.75 36.7 3 0 5  0 0 1 1 1
+25° Crest 1x" 22.25 13.5 34.3 2 0 6  0 0 1 1 1
+1x2F" -56.25 -20.5 41.3 0 0 7  0 0 1 1 1
+1x1F Round" -78.25 -19.25 36.7 3 0 5  0 0 1 1 1
+1x2F" -57 -19.75 41.3 1 0 7  0 0 1 1 1
+25° Crest 2x" 32 50 6.3 1 0 8  0 0 1 1 1
++-NTOBJECTNAME _WeaponChest
+1x3F" 22.75 15.25 34.1 0 0 6  0 0 1 1 1
+1x2F" -57.75 -20.5 41.3 0 0 7  0 0 1 1 1
+1x1F" -56.25 -19.25 41.7 0 0 4  0 0 1 1 1
+1x1" 30.75 52.25 6.3 0 0 8  0 0 1 1 1
+1x1" 28.25 52.25 6.3 0 0 8  0 0 1 1 1
+2x4F" -50.5 -36.5 36.7 1 0 6  0 0 1 1 1
+25° Crest End" 32 50.75 6.3 3 0 8  0 0 1 1 1
++-NTOBJECTNAME _WeaponChest
+1x1F Round" -78.25 -21.75 36.7 3 0 5  0 0 1 1 1
+1x1F Round" -70.25 -3.25 36.7 3 0 5  0 0 1 1 1
+2x2F" -57 -20.5 41.3 3 0 10  0 0 0 0 0
++-NTOBJECTNAME _amb
++-EVENT	0	1	onRelay	0	Self		cancelEvents				
++-EVENT	1	1	onRelay	24321	Self		fireRelay				
++-EVENT	2	1	onRelay	0	Self		playSound	q3_1shot_femdrone_01			
++-EVENT	3	1	onActivate	33	Self		fireRelay				
+25° Crest End" 32 49.25 6.3 1 0 8  0 0 1 1 1
++-NTOBJECTNAME _WeaponChest
+2x4" 29.5 51.5 6.3 1 0 20  0 0 1 1 1
+1x2F" 32.25 50 5.9 0 0 8  0 0 1 1 1
++-NTOBJECTNAME _Weapon
+1x1 Round" 31.25 48.75 6.9 0 0 8  0 0 1 1 1
+4x6F" 29.5 51.5 6.7 1 0 8  0 0 1 1 1
+1x2F" 22.75 15 34.3 0 0 6  0 0 1 1 1
+1x1F Round" 22.25 13.25 33.9 3 0 7  0 0 1 1 1
+1x1F Round" -50.75 -36.75 37.3 2 0 7  0 0 1 1 1
+1x4F" -51.25 -36.5 36.9 0 0 6  0 0 1 1 1
+1x1F Round" -50.75 -36.25 37.3 2 0 7  0 0 1 1 1
+1x1F Round" -50.25 -36.75 36.9 0 0 5  0 0 1 1 1
+1x2F" -57 -21.25 41.5 1 0 4  0 0 1 1 1
+1x4F" -57.25 -36.5 37.7 0 0 6  0 0 1 1 1
+1x2F" 20.25 15 34.3 0 0 6  0 0 1 1 1
+25° Crest End" -58.75 -36.5 36.3 0 0 6  0 0 1 1 1
+1x1F Round" 20.75 13.25 33.9 3 0 7  0 0 1 1 1
+1x1F Round" -50.25 -36.25 36.9 0 0 5  0 0 1 1 1
+1x1F Round" -49.75 -36.25 36.9 0 0 5  0 0 1 1 1
+1x2F" -50.75 -36.5 36.9 0 0 6  0 0 1 1 1
+1x2" -50.25 -36.5 37.5 2 0 10  0 0 0 0 0
++-EVENT	0	1	onRelay	0	Self		cancelEvents				
++-EVENT	1	1	onRelay	24323	Self		fireRelay				
++-EVENT	2	1	onRelay	0	Self		playSound	q3_growl3			
++-EVENT	3	1	onActivate	33	Self		fireRelay				
+1x1F Round" -49.75 -36.75 36.9 0 0 5  0 0 1 1 1
+1x1F Round" -56.25 -19.25 41.9 0 0 4  0 0 1 1 1
+1x1F" -57.75 -20.75 41.5 0 0 4  0 0 1 1 1
+1x3F" -57.25 -35.75 37.9 1 0 6  0 0 1 1 1
+1x2F" -51.5 -37.25 37.1 1 0 6  0 0 1 1 1
+1x2F" -51.5 -35.75 37.1 1 0 6  0 0 1 1 1
+1x1F" -56.25 -19.25 42.1 0 0 4  0 0 1 1 1
+1x1F Round" -57.25 -21.25 41.7 0 0 4  0 0 1 1 1
+1x3F" -57.25 -37.25 37.9 1 0 6  0 0 1 1 1
+1x2F" -51.5 -37.25 37.3 1 0 6  0 0 1 1 1
+1x1F Round" -56.75 -35.75 38.1 2 0 6  0 0 1 1 1
+1x1F Round" -57.75 -37.25 38.1 2 0 6  0 0 1 1 1
+1x1F Round" -57.75 -35.75 38.1 2 0 6  0 0 1 1 1
+1x2F" -51.5 -35.75 37.3 1 0 6  0 0 1 1 1
+Skull Murray" -56.25 -19.25 42.4 0 0 4  0 0 1 1 1
+1x1F Round" -56.75 -37.25 38.1 2 0 6  0 0 1 1 1
+1x3F" -51.75 -35.75 37.5 1 0 6  0 0 1 1 1
+1x3F" -51.75 -37.25 37.5 1 0 6  0 0 1 1 1
